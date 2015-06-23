@@ -1,0 +1,6 @@
+.pull-right
+  h2
+  a href="/contact" Contact
+h3
+  a href="/" Peter Kappus
+hr

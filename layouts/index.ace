@@ -1,0 +1,27 @@
+= doctype html
+html lang="en"
+  {{ partial "header" .}}
+  body
+    .container
+      /
+        .row
+          .col-md-8
+          .col-md-2
+            a href="/about" About
+          .col-md-2
+            a href="/contact" Contact
+      h1.name Peter Kappus
+      hr
+      h2
+        / a href="/agile" Agile Practitioner
+        a href="/cv" Agile Practitioner
+      h2
+        a href="/music" Musician
+      h2
+        a href="/art" Artist
+      / h2
+          a href="/blog" Blogger
+      hr
+      p.bigger Hello. Thanks for visiting. This site is a place to share my interests. I love writing <a href="/music">music</a>, creating <a href="/art">art</a> and helping technology teams to deliver amazing digital products and services using agile methodologies. I'm based in London. Feel free to follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a> or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>, connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a>, or check out my <a href="http://instagram.com/peterkappus">Instagram photos</a>. Want to learn more? &nbsp;
+        a href="/contact" Contact me.
+      {{ partial "footer" .}}
