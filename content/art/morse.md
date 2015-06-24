@@ -1,7 +1,7 @@
 ---
 title: Morse Text
 author: p3trk
-date: 2012-12-30
+date: 2012-11-20
 url: /art/morse
 sgt_slide:
   - on
@@ -10,6 +10,8 @@ buy_link:
 categories:
   - Art
 cover: morse/cover.jpg
+pix_folder: morse
+more_pix: ['web1.jpg']
 ---
 Words are extremely powerful things. The act of translation inevitably creates mutation and with it, new connections and new forms. According one creation myth the world came into existence when God took the 22 letters of the Hebrew alphabet and placed them on a wheel. God spun the wheel infinitely fast in every direction simultaneously until the letters collided with such intensity that they formed words, objects and the whole world.
 

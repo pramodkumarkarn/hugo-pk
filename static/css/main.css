@@ -7,6 +7,9 @@
  *   opacity: 0
  *   transition: opacity .3s ease-in */
 /* responsive video! */
+.single_page p:first-of-type {
+  font-size: 2.5rem; }
+
 .cv h2, .cv h3, .cv h4 {
   margin-top: 0; }
 
@@ -103,9 +106,12 @@ h1, h2, h3, h4 {
 /*@media print
  * h1
  *   font-size: 4rem !important */
-@media(max-width: 768px) {
+@media(max-width: 550px) {
   ul.skills li {
-    width: 50% !important; }
+    width: 50% !important;
+    margin-bottom: 0.9rem;
+    padding-right: 3rem;
+    height: 4rem; }
 
   .contact-info {
     text-align: left; } }

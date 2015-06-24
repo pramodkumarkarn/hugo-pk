@@ -1,6 +1,8 @@
 ---
 title: Contact Peter
 cover: green-comp.jpg
+aliases:
+  - /about
 script: |
   <script type="text/javascript">
   var mh2gcg319dqy7j;(function(d, t) {
@@ -26,3 +28,5 @@ script: |
 <div id="wufoo-mh2gcg319dqy7j">
 Fill out my <a href="https://peterkappus.wufoo.com/forms/mh2gcg319dqy7j">online form</a>.
 </div>
+
+<img src="http://www.linkedin.com/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Peter Kappus's profile on LinkedIn" />

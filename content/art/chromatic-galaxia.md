@@ -2,6 +2,7 @@
 title: Chromatic Galaxia
 author: p3trk
 date: 2011-09-04
+draft: true
 url: /art/chromatic-galaxia
 categories:
   - Art

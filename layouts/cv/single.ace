@@ -19,7 +19,9 @@ html lang="en"
               i
               | +44 (0) 203 468 4224
               | <br>
-              | hello@peterkappus.com
+              |
+              = javascript
+                document.write("<a href=\"mailto:hello" + "" + "@" + "peterkappus.com\">hello" + "" + "@peterkappus.com</a>");
         .row
           .col-md-12
             hr
@@ -31,7 +33,7 @@ html lang="en"
 
             p Able to combine deep, hands-on technical knowledge with excellent communication and leadership skills to plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams.
 
-            p Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged in their work. A natural entrepreneur with a an agile technical mind that is able to come up with innovative technological & managerial solutions to seemingly intractable problems.
+            p Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged in their work. Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
         .row
           .col-md-12
             hr
@@ -86,7 +88,7 @@ html lang="en"
               h5 November 2014 - Present
               p The Digital Marketplace is a revolutionary programme within the UK government, delivered by the Government Digital Service (GDS), which aims to completely transform the procurement of digital goods and services. The programme comprises an online platform, processes, policies, procurement frameworks, and services to enable government buyers to find, compare, and procure digital products and services from a wide range of suppliers with an emphasis on small and medium enterprises (SMEs).
 
-              p The programme includes multiple teams in product design, user research, technology, procurement, supplier/buyer engagement, customer support, legal, policy-making, and analytics. I coach these delivery teams in Agile methodologies, perform business planning and reporting for the programme (including budgeting, resource planning, roadmapping, KPI tracking and risk mitigation). Annual operating budget for the programme is &pound;3M+ with a team of ~25 including interims and full-time civil servants. G-Cloud sales alone are over &pound;600M as of May 2015 with nearly 50% going to SMEs.
+              p The programme includes multiple teams in product design, user research, technology, procurement, supplier/buyer engagement, customer support, legal, policy-making, and analytics. I coach these delivery teams in Agile methodologies, perform business planning and reporting for the programme (including budgeting, resource planning, road-mapping, KPI tracking and risk mitigation). Annual operating budget for the programme is &pound;3M+ with a team of ~25 including interims and full-time civil servants. G-Cloud sales alone are over &pound;600M as of May 2015 with nearly 50% going to SMEs.
               p Additionally, I participate in the Agile delivery community at GDS providing Lean/Agile coaching and mentoring to a group of 20+ delivery managers.
 
               p Technologies: Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgre, AWS Elastic Beanstalk, Ansible, AWS Relational Data Store (RDS).

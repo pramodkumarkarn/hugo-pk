@@ -3,12 +3,7 @@ html lang="en"
   {{ partial "header" .}}
   body
     .container
-      .pull-right
-        h2
-        a href="/contact" Contact
-      h3
-        a href="/" Peter Kappus
-      hr
+      {{ partial "nav" .}}
       / Don't show the sub-menu on single pages (hacky!)
       {{ if ne .Type "page"}}
       h4

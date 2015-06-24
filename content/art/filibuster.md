@@ -2,7 +2,8 @@
 title: Filibuster
 author: p3trk
 cover: filibuster/cover.png
-date: 2011-09-19
+/ date: 2011-09-19
+date: 2012-11-29
 url: /art/filibuster
 sgt_slide:
   - on

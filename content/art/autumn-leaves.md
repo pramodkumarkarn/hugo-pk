@@ -1,7 +1,7 @@
 ---
 title: Autumn Leaves
 author: p3trk
-
+draft: true
 date: 2012-07-23
 categories:
   - Art

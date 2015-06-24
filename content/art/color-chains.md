@@ -1,7 +1,7 @@
 ---
 title: Color Chains
 author: p3trk
-
+draft: true
 date: 2012-02-22
 url: /art/color-chains
 categories:
