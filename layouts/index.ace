@@ -22,6 +22,6 @@ html lang="en"
       / h2
           a href="/blog" Blogger
       hr
-      p.bigger Hello! Welcome to my new stripped down responsive site to replace the old WordPress one. It's primarily a place to share my interests. I love writing <a href="/music">music</a>, creating <a href="/art">art</a> and using Lean/Agile methodologies to help teams deliver amazing digital products and services. Feel free to follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a> or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>, connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a>, or check out my <a href="http://instagram.com/peterkappus">Instagram photos</a>. Want to learn more? &nbsp;
+      p.bigger Hello! Welcome to my new site. It's primarily a place to share my interests. I love writing <a href="/music">music</a>, creating <a href="/art">art</a> and using Lean/Agile methodologies to help teams deliver amazing digital products and services. Feel free to follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a> or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>, connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a>, or check out my <a href="http://instagram.com/peterkappus">Instagram photos</a>. Want to learn more? &nbsp;
         a href="/contact" Contact me.
       {{ partial "footer" .}}

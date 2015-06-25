@@ -92,9 +92,11 @@ ul.skills {
  * font-weight: bold
  * src: url('/fonts/LeagueSpartan-Bold.otf') */
 h1, h2, h3, h4 {
-  text-transform: capitalize;
   font-family: helvetica;
   font-weight: bold; }
+
+h4.capitalize {
+  text-transform: capitalize; }
 
 @media(min-width: 990px) {
   .container {
@@ -110,8 +112,7 @@ h1, h2, h3, h4 {
   ul.skills li {
     width: 50% !important;
     margin-bottom: 0.9rem;
-    padding-right: 3rem;
-    height: 4rem; }
+    padding-right: 3rem; }
 
   .contact-info {
     text-align: left; } }
