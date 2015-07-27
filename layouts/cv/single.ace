@@ -24,7 +24,7 @@ html lang="en"
                 document.write("<a class='noprint' href=\"mailto:hello" + "" + "@" + "peterkappus.com\">hello" + "" + "@peterkappus.com</a>");
               p.hidden-print
               p.hidden-print
-                a href="/peter-kappus.pdf"
+                a href="/PeterKappus.pdf"
                   span.glyphicon.glyphicon-download aria-hidden="true" style="padding-right: .2rem"
                   | Download PDF
         .row
