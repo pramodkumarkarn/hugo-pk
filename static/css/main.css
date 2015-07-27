@@ -19,6 +19,9 @@
   margin: 2.5rem 0;
   text-align: right; }
 
+a.noprint:after {
+  content: "" !important; }
+
 ul.skills {
   margin: 3px 0;
   padding: 0; }
@@ -110,6 +113,9 @@ h4.capitalize {
 /*@media print
  * h1
  *   font-size: 4rem !important */
+.page-break {
+  page-break-after: always; }
+
 @media(max-width: 550px) {
   ul.skills li {
     width: 50% !important;
