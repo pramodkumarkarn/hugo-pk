@@ -10,6 +10,8 @@ url: /art/grand-central-people-studies
 categories:
   - Art
 ---
-I moved to New York in 1999. I was remember being completely taken by the city and inspired by everything surrounding me. I saved my pennies and bought a gigantic Sony Mavica (and a box of floppy disks to carry around). I could store about 12 pictures on each floppy.
+In 1999 I moved to New York city. I was completely taken by the city with its light, and people and energy. I saved my pennies and bought a hulking Sony Mavica (and a box of floppy disks to carry around). I could store about 12 pictures on each floppy.
 
-Probably my favourite thing about the camera was that you could manually adjust (or optically blur) the focus on your photo. One evening in Grand Central Station I stood at the west entrance (near the <a href="https://www.google.co.uk/search?q=campbell+apartment" target="_blank">Campbell Apartment</a>) and took a series of photos of various people standing in front of the dramatic back-lit translucent stone entry at the Metrazur restaurant (now an <a href="https://www.apple.com/retail/grandcentral/" target="_blank">Apple Store</a>).
+The best thing about that camera was how you could manually adjust (or optically blur) the focus on your photo. One evening in Grand Central Station I stood at the west entrance (near the <a href="https://www.google.co.uk/search?q=campbell+apartment" target="_blank">Campbell Apartment</a>) and took a series of photos of various people standing in front of the dramatic back-lit translucent stone entry at the Metrazur restaurant (now an <a href="https://www.apple.com/retail/grandcentral/" target="_blank">Apple Store</a>).
+
+The way the bodies are abstracted and engulfed by the light gives them a kind of ghostly, voyeristic, film noir character that really resonates with my impression of the city.

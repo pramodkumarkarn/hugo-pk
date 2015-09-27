@@ -22,6 +22,7 @@ script src="/js/flowtype.js"
     var bLazy = new Blazy({offset:600}); //load <offset>px before visible
   })();
   // script src="../../assets/js/ie10-viewport-bug-workaround.js"
+/ include script from the parent template
 {{ if isset .Params "script"}}
 {{ .Params.script | safeHtml}}
 {{end}}

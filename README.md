@@ -16,7 +16,9 @@ Watch the sass folder and compile to the static/css folder like so:
 
 ## Deployment
 
-    hugo && s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P
+    hugo && s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*
+
+    NOTE: --rexclude=.git* prevents the git files in the subdirectory Spamwords from being uploaded
 
 (generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (-P))
 
