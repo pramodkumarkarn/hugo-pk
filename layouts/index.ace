@@ -4,9 +4,9 @@ html lang="en"
   body
     .container
       .row.flag
-        .col-xs-4 style="background: blue"
-        .col-xs-4 style="background: white"
-        .col-xs-4 style="background: red"
+        .col-xs-4 style="background: #0055A4"
+        .col-xs-4 style="background: #fff"
+        .col-xs-4 style="background: #EF4135"
       /
         .row
           .col-md-8
