@@ -3,6 +3,10 @@ html lang="en"
   {{ partial "header" .}}
   body
     .container
+      .row.flag
+        .col-xs-4 style="background: blue"
+        .col-xs-4 style="background: white"
+        .col-xs-4 style="background: red"
       /
         .row
           .col-md-8
