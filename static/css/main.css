@@ -10,6 +10,9 @@
 .flag div {
   min-height: 2rem; }
 
+.centered {
+  text-align: center; }
+
 .single_page p:first-of-type {
   font-size: 2.5rem; }
 
@@ -17,6 +20,8 @@
   margin-top: 0; }
 .cv .school {
   margin-bottom: 2.5rem; }
+.cv .other {
+  color: #555; }
 
 .contact-info {
   margin: 2.5rem 0;

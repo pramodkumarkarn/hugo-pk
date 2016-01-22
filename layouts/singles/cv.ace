@@ -22,6 +22,8 @@ html lang="en"
               |
               = javascript
                 document.write("<a class='noprint' href=\"mailto:hello" + "" + "@" + "peterkappus.com\">hello" + "" + "@peterkappus.com</a>");
+              br
+              a href="http://kapp.us/cv" http://kapp.us/cv
               p.hidden-print
               p.hidden-print
                 a href="/PeterKappus.pdf"
@@ -47,11 +49,14 @@ html lang="en"
             h3 Skills
           .col-md-10
             ul.skills
-              li Agile / Lean Methodologies
+              li Business Transformation
+              li Objectives & Key Results (OKRs)
+              li Agile / Lean Coaching
               li Scrum &amp; Kanban (CSM)
               li Budgeting / Forecasting / Planning
               li Cross-functional team management
               li Adaptive risk management
+              li Management Information
               / li Collaborative roadmapping
               li Stakeholder Management
               li Process Design / Modeling
@@ -87,11 +92,15 @@ html lang="en"
             h3 Experience
           .col-md-10
             .job
-              h3 IT Portfolio Manager
-              /  i.small (freelance)
+              h3 Agile Portfolio Delivery Manager /
+              h3 Business Transformation Consultant
+              / i.small (Contract)
               h4 Government Digital Service (Cabinet Office, HM Government)
               h5 June 2014 - Present
-              p Bringing Agile governance to the management of a <b>~ £100M portfolio</b> of IT programmes within GDS to drive <b>digital transformation</b> across the UK government. Working with operations, HR, performance measurement and delivery teams to analyse Cabinet Office objectives, propose, plan, track, and deliver IT programmes supporting these goals using quantifiable (SMART) metrics. Enabling the executive board, Cabinet Office, and HM Treasury to make informed, data-driven, prioritisation decisions around portfolio investment, diversity, risk management, and benefits realisation in an Agile, value-stream driven way using impact mapping, SMART goals, and sophisticated, bespoke business inteligence dashboards.
+              p Bringing Agile governance to a <b>£500M portfolio</b> (~ £150M annually) to drive <b>digital transformation</b> across the UK government.
+              p Working with operations, HR, performance measurement and delivery teams to analyse Cabinet Office objectives, propose, plan, track, and deliver IT programmes supporting these goals using quantifiable metrics to enable the executive board to make informed, data-driven decisions around portfolio investment, diversity, risk management, and benefits realisation in an Agile, value-stream driven way.
+
+              p Introduced impact-mapping, Objectives and Key Results (OKRs), and led the creation of bespoke, real-time management information (MI) dashboards for effective alignment and decision-making.
 
             .job
               h3 Programme Delivery Manager
@@ -114,8 +123,8 @@ html lang="en"
               / sup (freelance)
               h4 Pearson PLC
               h5 July 2013 - November 2014
-              p Responsible for transitioning and delivering two major projects away from traditional, dysfunctional waterfall development methods and to a high-functioning, Lean/Agile practice, incorporating Scrum, Lean, Kanban and BDD techniques to improve efficacy, efficiency, and quality.
-              P Projects included a large-scale CMS migration of 60K+ pages and docs from SharePoint to Adobe CQ (involving a full UX redesign and content rewrite) and a custom data analytics platform to mine customer behaviour patterns to predict risk of non-renewal to subscription products.
+              p Transitioned and delivered two major projects away from traditional, dysfunctional waterfall delivery methods to a high-functioning, Lean/Agile practice using Scrum, Lean, Kanban, BDD and other techniques to improve efficacy, efficiency, and quality.
+              P Projects included a massive CMS migration, full UX redesign and content rewrite of 60K+ pages and documents from SharePoint to Adobe CQ and delivery of a custom data analytics platform to mine product usage patterns to predict risk of non-renewal by key customers.
               p Used Agile/lean methods to provide rich metrics that drive planning activities and optimise processes to improve both quality and performance. Drafted budgets, resource plans, risk profiles, and aligned project goals to wider programme objectives. Introduced Behavioural Driven Development (BDD) to streamline QA process and improve quality. Mentored senior stakeholders in Lean &amp; Agile methodologies supporting large-scale digital transformation of the world's largest publishing company.
 
               p Kanban, Scrum (sprint planning, planning poker, daily standups, demos, retrospectives), Lean UX, Build/Measure/Learn, SMART(er) KPIs, role-play, scenario modeling, burn-downs, burn-ups, cycle-time tracking, and cumulative flow diagraming (CFDs), Jira, Adobe CQ (Java), Solr, AngularJS, Apache, Jenkins, Cucumber (Ruby, Capybara, Poltergeist, PhantomJS), MySQL, CouchDB, MongoDB, Python/Flask, SOA/RESTful APIs
@@ -204,7 +213,7 @@ html lang="en"
               p Led delivery of new Corbis Motion e-licensing platform <!-- Liaised	with engineering &amp; marketing teams to ensure delivery of timely, cost-effective concept generation, experience design, implementation, launch, and follow-up of --> and various marketing campaigns across multiple lines of business. Designed and deployed a Perl-based <b>CMS and localisation solution</b> enabling localisation of an E-Commerce platform to five markets in under two weeks.	Technologies included <b>Flash, ActionScript, ASP.NET, SQLServer, Perl, HTML, and JavaScript.</b>
 
             .job
-              h4 Additional experience available upon request
+              h4.other Additional experience available upon request
               /
                 / blurb for PNK Industries
                 PNK Industries provides senior-level technical project management consulting services for medium to large digital studios with a focus on great user experience. Adept at developing a unique and robust process for various environments that culls nebulous business objectives into clear requirements and hard deliverables while reducing risk, overcoming obstacles, and adding transparency and predictability to projects. Typical projects around 50 people for 2+ years. My engagement is typically 6 months to a year.
@@ -223,6 +232,7 @@ html lang="en"
         .row
           .col-md-12
             hr
+            p style="page-break-before: always"
         .row
           .col-sm-2
             h3 Education
@@ -234,6 +244,8 @@ html lang="en"
             .school
               h4 Rhode Island School of Design, USA
               h5 European Honors Program (EHP) Art History/Architecture studio &mdash; <b>4.0 GPA</b>
+            .school
+              h4.other Additional courses, certifications, and conferences available upon request
         .row
           .col-md-12
             hr
