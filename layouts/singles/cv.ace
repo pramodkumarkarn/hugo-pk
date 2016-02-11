@@ -23,97 +23,106 @@ html lang="en"
               = javascript
                 document.write("<a class='noprint' href=\"mailto:hello" + "" + "@" + "peterkappus.com\">hello" + "" + "@peterkappus.com</a>");
               br
-              a href="http://kapp.us/cv" http://kapp.us/cv
+              a.noprint href="http://kapp.us/cv" http://kapp.us/cv
               p.hidden-print
               p.hidden-print
-                a href="/PeterKappus.pdf"
+                a href="/PeterKappus.2016-02.pdf"
                   span.glyphicon.glyphicon-download aria-hidden="true" style="padding-right: .2rem"
                   | Download PDF
         .row
-          .col-md-12
+          .col-sm-12
             hr
         .row
           .col-sm-2
             h3 Profile
           .col-sm-10
-            p.bigger A highly technical, delivery-focused, business transformation consultant, Agile coach, programme/portfolio delivery manager and <b>certified scrum master</b> with a passion for problem-solving and 15+ years of working across a diverse range of industries including finance, government, media/publishing, and bio-tech.
+            p.bigger A highly technical, delivery-focused, business transformation consultant, Agile coach, programme/portfolio delivery manager and <b>certified scrum master</b> with a passion for problem-solving and 15+ years of experience working across a diverse range of industries including finance, government, media/publishing, and bio-tech.
 
-            p Able to combine deep, hands-on technical knowledge with excellent communication and leadership skills to plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams.
+            p A natural servant-leader able to nurture lasting positive change in large organisations while rapidly understanding organisational context and broader strategy. Able to combine deep, hands-on technical knowledge with excellent communication and leadership skills to influence and engage participants from individual contributors to C-Level executives bringing about steady, measurable, constant improvement in complex, evolving environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
 
-            p Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged. Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
+            p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
         .row
-          .col-md-12
+          .col-sm-12
             hr
         .row
-          .col-md-2
+          .col-sm-2
             h3 Skills
-          .col-md-10
+          .col-sm-10
             ul.skills
-              li Business Transformation
-              li Objectives & Key Results (OKRs)
               li Agile / Lean Coaching
               li Scrum &amp; Kanban (CSM)
+              li Business Transformation
+              li Objectives & Key Results (OKRs)
               li Budgeting / Forecasting / Planning
               li Cross-functional team management
               li Adaptive risk management
+              li Workshopping / Facilitation
               li Management Information
-              / li Collaborative roadmapping
+              li Real-time reporting
+              li Basic Finance
+              / li Roadmapping
               li Stakeholder Management
               li Process Design / Modeling
-              li Goal Setting / KPI Workshops
-              / li Automated Testing
-              li Experience Working Globally
-              / li Nonviolent Communication (NVC)
+              li Goal Setting
+              li Impact mapping
+              li Test Automation
+              / li Experience Working Globally
+              li Nonviolent Communication
               li Regulated Financial Services
               li Behaviour Driven Development (BDD)
-              li Cucumber, Capybara, PhantomJS
-              li Continuous Integration (Jenkins)
+              / li Cucumber, Capybara, PhantomJS
+              li Continuous Integration
               li Basic Ruby on Rails / Python / Java
               li Product Management
               / li JIRA &amp; Greenhopper
               / li Medical Device Software
               / li Mobile Design &amp; Development
-              li User Experience Design (UX)
+              / li User Experience Design (UX)
               / li Social Media Marketing
               / li Adobe CQ
               / li SQL &amp NOSQL (MySQL &amp; MongoDB)
               li Basic Linux DevOps
-              li Cloud infrastructure (AWS / Raskpace)
+              li Cloud infrastructure
               / li Digital Media Strategy
               li Source Code Management (git)
               li Service Oriented Architecture (SOA)
               li HTML / CSS / javascript
               / li.noline HAML / Sass / Slim
         .row
-          .col-md-12
+          .col-sm-12
             hr
         .row
-          .col-md-2
+          .col-sm-2
             h3 Experience
-          .col-md-10
+          .col-sm-10
             .job
-              h3 Agile Portfolio Delivery Manager /
+              h3 Agile Portfolio Delivery Manager &amp;
               h3 Business Transformation Consultant
               / i.small (Contract)
               h4 Government Digital Service (Cabinet Office, HM Government)
-              h5 June 2014 - Present
-              p Bringing Agile governance to a <b>£500M portfolio</b> (~ £150M annually) to drive <b>digital transformation</b> across the UK government.
-              p Working with operations, HR, performance measurement and delivery teams to analyse Cabinet Office objectives, propose, plan, track, and deliver IT programmes supporting these goals using quantifiable metrics to enable the executive board to make informed, data-driven decisions around portfolio investment, diversity, risk management, and benefits realisation in an Agile, value-stream driven way.
+              h5 June 2015 - Present
+              p Bringing Agile governance to a <b>£500M portfolio</b> (~ £125M annually) to drive <b>digital transformation</b> across the UK government.
 
-              p Introduced impact-mapping, Objectives and Key Results (OKRs), and led the creation of bespoke, real-time management information (MI) dashboards for effective alignment and decision-making.
+              p Working with operations, HR, performance measurement and delivery teams to analyse Cabinet Office objectives, propose, plan, track, and deliver IT programmes supporting these goals using quantifiable metrics. Enabling the executive board to make informed, data-driven decisions around portfolio investment, diversity, risk management, and benefits realisation in an Agile, value-stream driven way.
+
+              p Introduced impact-mapping, Objectives and Key Results (OKRs), and led the creation of bespoke, real-time management information (MI) dashboards for effective alignment and decision making.
+
+              p Coached stakeholders and teams at various levels in agile budgeting and business planning, goal-setting, and operational transformation.
 
             .job
-              h3 Programme Delivery Manager
+              h3 Programme Delivery Manager | Agile Coach
               /  i.small (freelance)
               h4 Government Digital Service (Cabinet Office, HM Government)
-              h5 November 2014 - June 2014
+              h5 November 2014 - June 2015
               p The <a href="https://www.digitalmarketplace.service.gov.uk/" target="_blank">Digital Marketplace</a> is a revolutionary programme within the UK government, delivered by the Government Digital Service (GDS), which aims to completely transform the procurement of digital goods and services.
               / The programme comprises an online platform, processes, policies, procurement frameworks, and services to enable government buyers to find, compare, and procure digital products and services from a wide range of suppliers with an emphasis on small and medium enterprises (SMEs).
 
               p The programme includes product design, user research, technology, procurement, supplier/buyer engagement, customer support, legal, policy-making, and analytics. The role comprised <b>coaching in Agile methodologies, business planning and reporting: resource planning, road-mapping, KPIs/benefits tracking, risk mitigation, stakeholder management, and managing a ~&pound;3M budget</b>.
                 li Team of ~30 people including interims and full-time civil servants.
-                li G-Cloud <a href="https://www.gov.uk/performance/g-cloud" target="_blank">sales</a> alone are over &pound;650M as of June 2015
-                li nearly 50% of sales by value going to SMEs.
+                li G-Cloud <a href="https://www.gov.uk/performance/g-cloud" target="_blank">sales</a> alone are over £1bn as of Jan 2016.
+                li Over 50% of sales by value going to SMEs.
+
+              p Initially responsible for acting as the delivery manager for the technology team in addition to the wider programme, I facilitated sprint plannig, daily standups, retrospectives, and demos, helped selection of roadmapping and backlog managment techniques, ed retrospectives
               p Additionally, I participate in the Agile delivery community at GDS providing Lean/Agile coaching and mentoring to a group of 20+ delivery managers.
 
               p Technologies include Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgre, AWS Elastic Beanstalk, continuous integration (CI) with Jenkins, infrastructure automation with Ansible, AWS Relational Data Store (RDS). <b>All code opensourced and available on <a href="https://github.com/alphagov/">github</a>.</b>
@@ -192,7 +201,7 @@ html lang="en"
               h3 Owner, Director of Technology
               h4 Design Commission, Inc.
               h5 Sep 2006 - Aug 2009
-              p Managing Director/Partner at a <b>full-service digital design and development agency</b> specialising in web marketing and web-applications for tech start-ups. More than trippled revenue and head-count in three years. Responsibilities included client relationship management, new business development, forecasting and budgeting, employee development, project management, technical oversight of front-end, back-end, quality assurance, and documentation, user-experience, information-architecture and managing local and off-shore teams. Tools and technologies included: <b>Ruby on Rails, PHP, jQuery, JavaScript, HTML, WordPress, ActionScript, Flash, Agile/Scrum, BaseCamp, Lighthouse, Rally, OmniFocus, OmniGraffle, GTD, Harvest, QuickBooks, MS Office, Google Analytics, Omniture, TextMate, MySQL.</b>
+              p Managing Director/Partner at a <b>full-service digital design and development agency</b> specialising in web marketing and web-applications for tech start-ups. Increased revenue and head-count more than 300% in three years. Responsibilities included client relationship management, new business development, forecasting and budgeting, employee development, project management, technical oversight of front-end, back-end, quality assurance, and documentation, user-experience, information-architecture and managing local and off-shore teams. Tools and technologies included: <b>Ruby on Rails, PHP, jQuery, JavaScript, HTML, WordPress, ActionScript, Flash, Agile/Scrum, BaseCamp, Lighthouse, Rally, OmniFocus, OmniGraffle, GTD, Harvest, QuickBooks, MS Office, Google Analytics, Omniture, TextMate, MySQL.</b>
 
             .job
               h3 Founder / CTO
@@ -230,9 +239,9 @@ html lang="en"
                 h4 Feb 2000 - May 2002
                 p <b>Lead UI designer</b> and <b>developer</b> of the core <b>e-commerce</b> site for a medium-sized stock photography house doing 40% of its business online. Implemented various digital marketing campaigns. Successfully designed and deployed a Perl-based <b>software CMS</b> solution that enabled local market leaders, without technical expertise, to deliver a local product to five markets in under two weeks. Technologies included <b>HTML, Perl, ASP, JavaScript.</b>xxx
         .row
-          .col-md-12
+          .col-sm-12
             hr
-            p style="page-break-before: always"
+            / p style="page-break-before: always"
         .row
           .col-sm-2
             h3 Education
@@ -247,7 +256,7 @@ html lang="en"
             .school
               h4.other Additional courses, certifications, and conferences available upon request
         .row
-          .col-md-12
+          .col-sm-12
             hr
         .row
           .col-sm-2

@@ -7,6 +7,9 @@
  *   opacity: 0
  *   transition: opacity .3s ease-in */
 /* responsive video! */
+.cv .col-sm-2 {
+  margin-bottom: 3rem; }
+
 .flag div {
   min-height: 2rem; }
 
@@ -26,9 +29,6 @@
 .contact-info {
   margin: 2.5rem 0;
   text-align: right; }
-
-a.noprint:after {
-  content: "" !important; }
 
 ul.skills {
   margin: 3px 0;
@@ -118,9 +118,9 @@ h4.capitalize {
   font-size: 4rem;
   font-weight: bold; }
 
-/*@media print
- * h1
- *   font-size: 4rem !important */
+@media print {
+  a.noprint[href]:after {
+    content: ""; } }
 .page-break {
   page-break-after: always; }
 
