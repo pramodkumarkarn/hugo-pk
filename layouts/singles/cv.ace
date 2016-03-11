@@ -26,7 +26,7 @@ html lang="en"
               a.noprint href="http://kapp.us/cv" http://kapp.us/cv
               p.hidden-print
               p.hidden-print
-                a href="/PeterKappus.2016-02.pdf"
+                a href="/PeterKappus.pdf"
                   span.glyphicon.glyphicon-download aria-hidden="true" style="padding-right: .2rem"
                   | Download PDF
         .row
@@ -53,7 +53,7 @@ html lang="en"
               li Scrum &amp; Kanban (CSM)
               li Business Transformation
               li Objectives & Key Results (OKRs)
-              li Budgeting / Forecasting / Planning
+              li Agile Budgeting / Forecasting / Planning
               li Cross-functional team management
               li Adaptive risk management
               li Workshopping / Facilitation
@@ -62,7 +62,7 @@ html lang="en"
               li Basic Finance
               / li Roadmapping
               li Stakeholder Management
-              li Process Design / Modeling
+              li Process design / modeling
               li Goal Setting
               li Impact mapping
               li Test Automation
@@ -101,13 +101,21 @@ html lang="en"
               / i.small (Contract)
               h4 Government Digital Service (Cabinet Office, HM Government)
               h5 June 2015 - Present
-              p Bringing Agile governance to a <b>£500M portfolio</b> (~ £125M annually) to drive <b>digital transformation</b> across the UK government.
+              p Bringing agile governance to a <b>£500M IT portfolio</b> to drive <b>digital transformation</b> across the UK government.
 
               p Working with operations, HR, performance measurement and delivery teams to analyse Cabinet Office objectives, propose, plan, track, and deliver IT programmes supporting these goals using quantifiable metrics. Enabling the executive board to make informed, data-driven decisions around portfolio investment, diversity, risk management, and benefits realisation in an Agile, value-stream driven way.
 
               p Introduced impact-mapping, Objectives and Key Results (OKRs), and led the creation of bespoke, real-time management information (MI) dashboards for effective alignment and decision making.
 
               p Coached stakeholders and teams at various levels in agile budgeting and business planning, goal-setting, and operational transformation.
+
+              b Highlights
+              ul
+                li Replaced a costly inflexible vendor product with a bespoke ERP system using Google Spreadsheets
+                li Introduced new strategic goal-setting/alignment framework (OKRs) and supporting tools
+                li Instrumental in securing <b>£500m</b> from HM Treasury
+                li Providing transparency upwards to Cabinet Office and downards to delivery teams around spend, delivery, risk, and headcount
+                li Providing communities of practice with vacancy and forecasting tools
 
             .job
               h3 Programme Delivery Manager | Agile Coach
