@@ -24,7 +24,7 @@ script src="/js/flowtype.js"
   // script src="../../assets/js/ie10-viewport-bug-workaround.js"
 / include script from the parent template
 {{ if isset .Params "script"}}
-{{ .Params.script | safeHtml}}
+{{ .Params.script | safeHTML}}
 {{end}}
 
 = javascript
