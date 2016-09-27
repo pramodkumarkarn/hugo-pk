@@ -90,7 +90,6 @@ html lang="en"
               li Service Oriented Architecture (SOA)
               li HTML / CSS / javascript
               / li.noline HAML / Sass / Slim
-        .page-break
         .row
           .col-sm-12
             hr
@@ -128,7 +127,7 @@ html lang="en"
 
               p I provided <b>coaching in Agile methodologies, business planning and reporting: resource management, road-mapping, benefits realisation, risk mitigation, stakeholder management, and managed a ~&pound;3M annual budget</b> for a 30+ person cross-functional team (spanning product design, user research, technology, procurement, engagement, support, legal, and analytics).
 
-              p Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring
+              p Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring.
 
               p Used Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgre, AWS Elastic Beanstalk, continuous integration (CI) with Jenkins, infrastructure automation with Ansible, AWS Relational Data Store (RDS). <b>All code open sourced via <a href="https://github.com/alphagov/?utf8=%E2%9C%93&query=digitalmarketplace" target="_blank">github</a>.</b>
 
@@ -169,7 +168,7 @@ html lang="en"
                   li delivering a large-scale customer loyalty coalition
                   li targeting 50 million households at launch
                   li for a large American Blue Chip credit-card company.
-              p Served a 10+ person product design team in a multi-million dollar global programme of work (London, Boston, New York, India, Germany, and Phoenix) delivering a large-scale customer rewards programme for a Fortune 100 credit-card company.
+              p Served a 10+ person product design team in a multi-million dollar global programme of work (London, Boston, New York, India, Germany, and Phoenix) to deliver a large-scale customer rewards programme for a Fortune 100 credit-card company.
 
               p Coached technical, design, and leadership teams across 3 time-zones in agile methodologies (including planning, stand-ups, showcases, and retrospectives) to define and manage work, provide clear estimates, improve quality, efficiency, and risk mitigation. Ensured timely and high-quality delivery on multiple platforms including <b>Responsive Web, iOS, and Android.</b>
 
