@@ -50,30 +50,31 @@ html lang="en"
             h3 Skills
           .col-sm-10
             ul.skills
-              li Agile / Lean Coaching
-              li Scrum &amp; Kanban (CSM)
               li Business Transformation
+              li Agile / Lean Coaching
+              li Delivery management
+              / li Scrum &amp; Kanban (CSM)
               li Objectives & Key Results (OKRs)
               li Agile Budgeting / Forecasting / Planning
               li Cross-functional team management
               li Adaptive risk management
               li Workshopping / Facilitation
-              li Management Information
-              li Real-time reporting
-              li Basic Finance
+              / li Management Information
+              li management information
+              li Basic accounting
               / li Roadmapping
               li Stakeholder Management
               li Process design / modeling
               li Goal Setting
               li Impact mapping
-              li Test Automation
+              / li Test Automation
               / li Experience Working Globally
               li Nonviolent Communication
-              li Regulated Financial Services
-              li Behaviour Driven Development (BDD)
+              / li Regulated Financial Services
+              li Behaviour Driven Dev (BDD)
               / li Cucumber, Capybara, PhantomJS
-              li Continuous Integration
-              li Basic Ruby on Rails / Python / Java
+              li Continuous Delivery
+              li Basic Ruby on Rails / Python
               li Product Management
               / li JIRA &amp; Greenhopper
               / li Medical Device Software
@@ -106,14 +107,14 @@ html lang="en"
               p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling more accurate, more real-time, more actionable management information around delivery, risk, finance, and headcount to effectively manage a <b>£500m complex change portfolio</b> and drive <b>digital transformation</b> across the UK government.
 
               ul
-                li Proposed and implemented change to support greater organisational agility
-                li Enabled real-time business planning and reporting with no additional overhead
-                li Shortened reporting cycles from quarterly to monthly
-                li Most data provided in real-time
+                / li Proposed and implemented change to support greater organisational agility
+                / li Enabled real-time business planning and reporting with no additional overhead
                 li <b>Saved £100k+</b> in licensing and implementation costs by replacing inflexible vendor ERP product with faster, simpler, bespoke system based on Google Sheets
+                li Shortened regular reporting cycles from quarterly to monthly
+                / li Most data provided in real-time
                 li Trained Delivery Operations team on management information tools and concepts, ensuring lasting transformation
                 li Worked closely with HR teams to streamline recruitment processes and provide real-time MI for teams
-                li New reporting allows the executive board to make informed, instantantaneous, data-driven decisions around portfolio prioritisation, diversity, risk, and benefits realisation.
+                li New reporting allows senior leadership to make informed, data-driven decisions around portfolio prioritisation, diversity, risk, and benefits realisation.
                 li Introduced impact-mapping and Objectives and Key Results (OKRs) for portfolio better alignment & visibility
 
             .job
