@@ -12,9 +12,9 @@ html lang="en"
         hr
       .cv
         .row
-          .col-sm-6
+          .col-sm-8
             h1 Peter Kappus
-          .col-sm-6.contact-info
+          .col-sm-4.contact-info
             nobreak
               i
               | +44 (0) 203 468 4224
