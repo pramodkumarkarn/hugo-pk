@@ -41,6 +41,7 @@ html lang="en"
             p A natural servant-leader able to nurture lasting positive change in large organisations while rapidly understanding organisational context and broader strategy. Able to combine deep, hands-on technical knowledge with excellent communication and leadership skills to influence and engage participants from individual contributors to C-Level executives bringing about steady, measurable, constant improvement in complex, evolving environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
 
             p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
+        .page-break
         .row
           .col-sm-12
             hr
@@ -88,6 +89,7 @@ html lang="en"
               li Service Oriented Architecture (SOA)
               li HTML / CSS / javascript
               / li.noline HAML / Sass / Slim
+        .page-break
         .row
           .col-sm-12
             hr

@@ -6,7 +6,7 @@ html lang="en"
       {{ partial "nav" .}}
       / Don't show the sub-menu on single pages (hacky!)
       {{ if ne .Type "page"}}
-      h4.capitalize
+      h4.capitalize.nav
         a href="/{{.Type}}" {{.Type}}
       {{ end }}
       .headline style="width: 100%"

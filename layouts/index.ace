@@ -25,7 +25,7 @@ html lang="en"
       hr
       h2
         / a href="/agile" Agile Practitioner
-        a href="/cv" Agile Practitioner
+        a href="/cv" Consultant
       h2
         a href="/music" Musician
       h2
@@ -33,5 +33,5 @@ html lang="en"
       / h2
           a href="/blog" Blogger
       hr
-      p.bigger Welcome! This is a website about me, Peter Kappus. I love writing <a href="/music">music</a>, creating <a href="/art">art</a> and using Lean/Agile methodologies to help teams to transform the way they work and to deliver amazing products and services. Follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a>, <a href="http://instagram.com/peterkappus">Instagram</a>, or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>. Let's connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a>. Want to learn even more? <a href="/contact"> Get in touch.</a>
+      p.bigger Hello! I'm Peter Kappus and I love writing <a href="/music">music</a>, creating <a href="/art">art</a> and using Lean/Agile methodologies to help teams to <a href="/cv">transform the way they work</a> and to deliver amazing products and services. Follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a>, <a href="http://instagram.com/peterkappus">Instagram</a>, or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>. Let's connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a>. Want to learn even more? <a href="/contact"> Get in touch.</a>
       {{ partial "footer" .}}
