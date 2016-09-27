@@ -105,6 +105,9 @@ ul.skills {
 .thumb_grid * {
   margin-bottom: 15px; }
 
+.thumb_grid .col-md-4 {
+  min-height: 34rem; }
+
 /*@font-face
  * font-family: HelveticaLeagueSpartanBold
  * font-weight: bold

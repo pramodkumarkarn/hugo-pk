@@ -1,5 +1,5 @@
 ---
-title: Contact Peter
+title: Get in touch
 cover: green-comp.jpg
 aliases:
   - /about

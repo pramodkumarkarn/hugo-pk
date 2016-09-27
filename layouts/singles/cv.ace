@@ -98,55 +98,54 @@ html lang="en"
             h3 Experience
           .col-sm-10
             .job
-              h3 Agile Portfolio Delivery Manager &amp;
+              h3 Portfolio Manager &amp;
               h3 Business Transformation Consultant
               / i.small (Contract)
-              h4 Government Digital Service (Cabinet Office, HM Government)
+              h4 Government Digital Service (Cabinet Office, UK Government)
               h5 June 2015 - Present
-              p Bringing agile governance to a <b>£500M IT portfolio</b> to drive <b>digital transformation</b> across the UK government.
+              p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling more accurate, more real-time, more actionable management information around delivery, risk, finance, and headcount to effectively manage a <b>£500m complex change portfolio</b> and drive <b>digital transformation</b> across the UK government.
 
-              p Working with operations, HR, performance measurement and delivery teams to analyse Cabinet Office objectives, propose, plan, track, and deliver IT programmes supporting these goals using quantifiable metrics. Enabling the executive board to make informed, data-driven decisions around portfolio investment, diversity, risk management, and benefits realisation in an Agile, value-stream driven way.
-
-              p Introduced impact-mapping, Objectives and Key Results (OKRs), and led the creation of bespoke, real-time management information (MI) dashboards for effective alignment and decision making.
-
-              p Coached stakeholders and teams at various levels in agile budgeting and business planning, goal-setting, and operational transformation.
-
-              b Highlights
               ul
-                li Replaced a costly inflexible vendor product with a bespoke ERP system using Google Spreadsheets
-                li Introduced new strategic goal-setting/alignment framework (OKRs) and supporting tools
-                li Instrumental in securing <b>£500m</b> from HM Treasury
-                li Providing transparency upwards to Cabinet Office and downards to delivery teams around spend, delivery, risk, and headcount
-                li Providing communities of practice with vacancy and forecasting tools
+                li Proposed and implemented change to support greater organisational agility
+                li Enabled real-time business planning and reporting with no additional overhead
+                li Shortened reporting cycles from quarterly to monthly
+                li Most data provided in real-time
+                li <b>Saved £100k+</b> in licensing and implementation costs by replacing inflexible vendor ERP product with faster, simpler, bespoke system based on Google Sheets
+                li Trained Delivery Operations team on management information tools and concepts, ensuring lasting transformation
+                li Worked closely with HR teams to streamline recruitment processes and provide real-time MI for teams
+                li New reporting allows the executive board to make informed, instantantaneous, data-driven decisions around portfolio prioritisation, diversity, risk, and benefits realisation.
+                li Introduced impact-mapping and Objectives and Key Results (OKRs) for portfolio better alignment & visibility
 
             .job
               h3 Programme Delivery Manager | Agile Coach
               /  i.small (freelance)
               h4 Government Digital Service (Cabinet Office, HM Government)
               h5 November 2014 - June 2015
-              p The <a href="https://www.digitalmarketplace.service.gov.uk/" target="_blank">Digital Marketplace</a> is a revolutionary programme within the UK government, delivered by the Government Digital Service (GDS), which aims to completely transform the procurement of digital goods and services.
+              p Responsible for delivering the <a href="https://www.digitalmarketplace.service.gov.uk/" target="_blank">Digital Marketplace</a>, a revolutionary programme (comprising an online platform, legal policies, commercial frameworks, and support services) that is transforming how the government buys digital goods and services. <a href="https://www.gov.uk/performance/g-cloud" target="_blank">G-Cloud sales</a> alone are nearly £1.4B as of July 2016.
+
               / The programme comprises an online platform, processes, policies, procurement frameworks, and services to enable government buyers to find, compare, and procure digital products and services from a wide range of suppliers with an emphasis on small and medium enterprises (SMEs).
 
-              p The programme includes product design, user research, technology, procurement, supplier/buyer engagement, customer support, legal, policy-making, and analytics. The role comprised <b>coaching in Agile methodologies, business planning and reporting: resource planning, road-mapping, KPIs/benefits tracking, risk mitigation, stakeholder management, and managing a ~&pound;3M budget</b>.
-                li Team of ~30 people including interims and full-time civil servants.
-                li G-Cloud <a href="https://www.gov.uk/performance/g-cloud" target="_blank">sales</a> alone are over £1bn as of Jan 2016.
-                li Over 50% of sales by value going to SMEs.
+              p I provided <b>coaching in Agile methodologies, business planning and reporting: resource management, road-mapping, benefits realisation, risk mitigation, stakeholder management, and managed a ~&pound;3M annual budget</b> for a 30+ person cross-functional team (spanning product design, user research, technology, procurement, engagement, support, legal, and analytics).
 
-              p Initially responsible for acting as the delivery manager for the technology team in addition to the wider programme, I facilitated sprint plannig, daily standups, retrospectives, and demos, helped selection of roadmapping and backlog managment techniques, ed retrospectives
-              p Additionally, I participate in the Agile delivery community at GDS providing Lean/Agile coaching and mentoring to a group of 20+ delivery managers.
+              p Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring
 
-              p Technologies include Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgre, AWS Elastic Beanstalk, continuous integration (CI) with Jenkins, infrastructure automation with Ansible, AWS Relational Data Store (RDS). <b>All code opensourced and available on <a href="https://github.com/alphagov/">github</a>.</b>
+              p Used Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgre, AWS Elastic Beanstalk, continuous integration (CI) with Jenkins, infrastructure automation with Ansible, AWS Relational Data Store (RDS). <b>All code open sourced via <a href="https://github.com/alphagov/?utf8=%E2%9C%93&query=digitalmarketplace" target="_blank">github</a>.</b>
 
             .job
               h3 Delivery Manager | Agile Transformation Coach
               / sup (freelance)
               h4 Pearson PLC
               h5 July 2013 - November 2014
-              p Transitioned and delivered two major projects away from traditional, dysfunctional waterfall delivery methods to a high-functioning, Lean/Agile practice using Scrum, Lean, Kanban, BDD and other techniques to improve efficacy, efficiency, and quality.
-              P Projects included a massive CMS migration, full UX redesign and content rewrite of 60K+ pages and documents from SharePoint to Adobe CQ and delivery of a custom data analytics platform to mine product usage patterns to predict risk of non-renewal by key customers.
-              p Used Agile/lean methods to provide rich metrics that drive planning activities and optimise processes to improve both quality and performance. Drafted budgets, resource plans, risk profiles, and aligned project goals to wider programme objectives. Introduced Behavioural Driven Development (BDD) to streamline QA process and improve quality. Mentored senior stakeholders in Lean &amp; Agile methodologies supporting large-scale digital transformation of the world's largest publishing company.
+              p Transformed two critical, at-risk programmes <!--away from traditional, dysfunctional waterfall delivery methods--> from dysfunctioal waterfall delivery methods to a high-functioning, lean/agile ones using Scrum, Lean, Kanban, BDD, etc. improving efficacy, efficiency, and quality ensuring timely accurate delivery, with high rates of customer and executive satisfaction.
+              ul
+                li Complete redesign and rebuild of the <a href="https://qualifications.pearson.com/en/home.html" target="_blank">Pearson Qualifications</a> website (a £300M+ annual business with 60K+ pages and documents) from MS SharePoint to Adobe Experience Manager (AEM)
+                li A greenfield bespoke data-science platform for their e-learning business to predict renewal rates and identify high-risk clients.
 
-              p Kanban, Scrum (sprint planning, planning poker, daily standups, demos, retrospectives), Lean UX, Build/Measure/Learn, SMART(er) KPIs, role-play, scenario modeling, burn-downs, burn-ups, cycle-time tracking, and cumulative flow diagraming (CFDs), Jira, Adobe CQ (Java), Solr, AngularJS, Apache, Jenkins, Cucumber (Ruby, Capybara, Poltergeist, PhantomJS), MySQL, CouchDB, MongoDB, Python/Flask, SOA/RESTful APIs
+              / p Used Agile/lean methods to provide rich metrics that drive planning activities and optimise processes to improve both quality and performance. Drafted budgets, resource plans, risk profiles, and aligned project goals to wider programme objectives. Introduced Behavioural Driven Development (BDD) to streamline QA process and improve quality.
+
+              p Mentored senior stakeholders in lean/agile methodologies supporting wider digital transformation of the world's largest publishing company.
+
+              / Agile coaching (scrum, kanban, sprint planning, planning poker, standups, demos, retrospectives), Lean UX, Build/Measure/Learn, SMART(er) KPIs, Behavioural Driven Development, scenario modeling, burn-downs, burn-ups, cycle-time tracking, and cumulative flow diagraming (CFDs), Jira, Adobe CQ (Java), Solr, AngularJS, Apache, Jenkins, Cucumber (Ruby, Capybara, Poltergeist, PhantomJS), MySQL, CouchDB, MongoDB, Python/Flask, SOA/RESTful APIs
 
               /
                 .job
@@ -165,37 +164,37 @@ html lang="en"
               /
                 ul
                   li Led a 10+ person team
-                  li within a multi-million dollar programme of work
-                  li global programme (London, Boston, New York, India, Germany, and Phoenix)
+                  li Multi-million dollar global programme of work (London, Boston, New York, India, Germany, and Phoenix)
                   li delivering a large-scale customer loyalty coalition
                   li targeting 50 million households at launch
                   li for a large American Blue Chip credit-card company.
-              p Led a 10+ person team within a multi-million dollar programme of work global programme (London, Boston, New York, India, Germany, and Phoenix) delivering a large-scale customer loyalty coalition targeting 50 million households at launch for a large American Blue Chip credit-card company.
+              p Served a 10+ person product design team in a multi-million dollar global programme of work (London, Boston, New York, India, Germany, and Phoenix) delivering a large-scale customer rewards programme for a Fortune 100 credit-card company.
 
-              p Used Agile methodologies to define and manage work, provide clear estimates, improve overall efficiency, and mitigate risk. Coached and worked directly with Product Ownership and Engineering teams to ensure timely and accurate delivery on multiple platforms including Responsive Web, iOS, and Android.
+              p Coached technical, design, and leadership teams across 3 time-zones in agile methodologies (including planning, stand-ups, showcases, and retrospectives) to define and manage work, provide clear estimates, improve quality, efficiency, and risk mitigation. Ensured timely and high-quality delivery on multiple platforms including <b>Responsive Web, iOS, and Android.</b>
 
-              p Engineering and QA Teams worked across 3 time-zones on-shore, near-shore, and off-shore (including 3rd party vendors and acquisitions): Business Owners, Compliance, Engineering, Strategy, Branding, Business Analysts, Architects, and QA teams (90+ people). Provided daily Scrum support, including stand-ups, planning, delivery, and retrospectives. Designed bespoke work-flows to meet the complex needs of a large organisation including Agile coaching for business owners, dev, and QA teams.
+              /
+                p Engineering and QA Teams worked across 3 time-zones on-shore, near-shore, and off-shore (including 3rd party vendors and acquisitions): Business Owners, Compliance, Engineering, Strategy, Branding, Business Analysts, Architects, and QA teams (90+ people). Provided daily Scrum support, including stand-ups, planning, delivery, and retrospectives. Designed bespoke work-flows to meet the complex needs of a large organisation including Agile coaching for business owners, dev, and QA teams.
               p <b>JIRA, Java EE, SDLC, SOA, Scrum, Agile, User Experience (UX), iOS, Android, Responsive Web, Service Design</b>.
 
             .job
               h3 Scrum Master | Data Scientist
               h4 Gray Metrics
               h5 Apr 2012 - November 2012
-              p Helped a <b>big data start-up</b> to conceive and deliver their first-generation data collection and analytics platform using Lean and Agile principles. Provided product strategy, technical oversight, application development, and business development. Technologies: <b>AWS (EC2), MongoDB, Ruby on Rails, Jetty, D3.js, and R</b> to mine social data for predictive analytics for the automobile industry.
+              p Applied agile/lean principles and engineering capability enabling a <b>big data start-up</b> to conceive and deliver a first-gen social media data mining and trend analysis platform for the automobile industry. Included market strategy, product ownership, engineering, and business development. <b>AWS (EC2), MongoDB, Ruby on Rails, Jetty, D3.js, and R</b>
 
             .job
               h3 Scrum Master | Agile Coach
               / sup (freelance)
               h4 JAM @ Engine People Limited
               h5 Aug 2011 - Mar 2012
-              p Managed the delivery and global roll-out of a bespoke, high-performance real-time social media management, analytics, and data-mining platform including web and mobile channels. Brought strong agile methodologies and technical know-how to the strategic planning, product definition, vendor management, budgeting, UX design, risk mitigation, and daily development, testing, documentation, and support activities. Managed a global team of engineers, QA, designers, and business owners between London, Brighton, and Columbia. Provided Scrum training so the team could continue on their own. Technologies included: <b>JIRA, SOA, RESTful APIs, PHP, MySQL, Apache, Tomcat, Java EE, GNIP, Watir, jQuery, Automated Testing, iOS, Android, Windows Phone</b>.
+              p Managed delivery of a bespoke, real-time social media management, analytics, and data-mining platform delivered to web and mobile channels. Servant leader to a global team of engineers, QA, designers, and business owners (UK & South America). Provided agile coaching for lasting delivery transformation.  <b>JIRA, SOA, RESTful APIs, PHP, MySQL, Apache, Tomcat, Java EE, GNIP, Watir, jQuery, Automated Testing, iOS, Android, Windows Phone</b>.
 
             .job
               h3 Project Manager | Senior Producer
               / sup (freelance)
               h4 ustwo&trade; Studio Ltd.
               h5 Aug 2010 - Aug 2011
-              p Managed a 10 person team <!--of interaction designers, visual designers, and front-end developers--> delivering the front-end of <!--to design and deliver front-end code for a Silverlight/web-based --> an award-winning <b>Fixed Income (primarily Foreign Exchange-based)</b> Single Dealer Platform (SDP) for a <b>Tier 1 investment bank</b> including support for <b>cash, options, and algorithmic trading.</b> Worked with multiple stake-holders across various lines of business including client services, E-Product management, and Information Technology. Developed bespoke design process to fit within existing SDLC. Technologies included <b>JIRA, Confluence, OmniPlan, OmniFocus, Axure, Nirvana, Java EE, XAML, Silverlight, HTML, CSS, and Javascript.</b>
+              p Managed front-end design and delivery of <!--of interaction designers, visual designers, and front-end developers--> an award-winning <b>Fixed Income (forex)</b> Single Dealer Platform (SDP) for a <b>global Tier 1 investment bank</b> including support for <b>cash, options, and algorithmic trading.</b> Worked with multiple stake-holders across various lines of business including client services, E-Product management, and Information Technology. Developed bespoke design process to fit within legacy SDLC at the bank. Technologies included <b>JIRA, Confluence, OmniPlan, OmniFocus, Axure, Nirvana, Java EE, XAML, Silverlight, HTML, CSS, and Javascript.</b>
               /
                 p Led 8-10 person teams of interaction designers, visual designers, and front-end developers responsible for delivering the end-to-end user experiences for a <strong>wireless, web-enabled medical device</strong> (requiring CE Mark and EN-60601-1 compliant embedded software) and a web-based <strong>Foreign Exchange (FX) trading platform</strong> for a global Tier 1 investment bank. Technologies included Flash, ActionScript, HaXe, C++, Silverlight, XAML, and Java.
                 p Leveraged keen technical understanding and project management and leadership methodologies (including Agile, Waterfall, and Prince 2) to minimize risk, navigate complex interdependent technical systems, and negotiate ownership scenarios involving multiple stake-holders across various business units, often with competing agendas while still creating an exceptional end-user experience.
@@ -205,19 +204,19 @@ html lang="en"
               / sup (freelance)
               h4 ustwo&trade; Studio Ltd.
               h5 Dec 2009 - Aug 2010
-              p Led a team of 30+ C++/ActionScript engineers, interaction designers, visual designers, and testers responsible for delivering the end-to-end user experience for a ground-breaking web-enabled insulin pump with touch-screen UI (requiring CE Mark and EN-60601-1 compliant embedded software). Reported directly to Chief Executive Officer and liaised with external engineering teams in Winchester, Poland, and Wales. Used agile methods to introduce a robust engineering, UX, and defect management processes prior to arrival of VP of engineering. Routinely met with investors and potential investors to provide data-room style updates and projections. Technologies included <b>OmniGraffle, SpiraTeam, OmniPlan, C++, ANT-RF, GSM, ActionScript, WinCE, HaXe. Agile methodologies included unit testing, continuous integration, user story creation and refinement, sprints, agile retrospectives and sprint planning.</b>
+              p Managed delivery of a ground-breaking web-enabled insulin pump with touch-screen UI (requiring CE Mark and EN-60601-1 compliant embedded software). Reported directly to Chief Executive Officer and liaised with in-house and vendor teams in London, Winchester, Poland, and Wales. Used agile methods to introduce a robust engineering, UX, and defect management processes prior to arrival of VP of engineering. Routinely met with investors the board to provide data-room style updates and projections. <b>OmniGraffle, SpiraTeam, OmniPlan, C++, ANT-RF, GSM, ActionScript, WinCE, HaXe. <!--Agile methodologies included unit testing, continuous integration, user story creation and refinement, sprints, agile retrospectives and sprint planning.--></b>
 
             .job
               h3 Owner, Director of Technology
               h4 Design Commission, Inc.
               h5 Sep 2006 - Aug 2009
-              p Managing Director/Partner at a <b>full-service digital design and development agency</b> specialising in web marketing and web-applications for tech start-ups. Increased revenue and head-count more than 300% in three years. Responsibilities included client relationship management, new business development, forecasting and budgeting, employee development, project management, technical oversight of front-end, back-end, quality assurance, and documentation, user-experience, information-architecture and managing local and off-shore teams. Tools and technologies included: <b>Ruby on Rails, PHP, jQuery, JavaScript, HTML, WordPress, ActionScript, Flash, Agile/Scrum, BaseCamp, Lighthouse, Rally, OmniFocus, OmniGraffle, GTD, Harvest, QuickBooks, MS Office, Google Analytics, Omniture, TextMate, MySQL.</b>
+              p Managing Director/Owner of a <b>full-service digital design and development agency</b> specialising in web marketing and web-applications for tech start-ups. Increased revenue by 350% and client roster by 250% growing the studio from 2 to 12 people. Responsibile for corporate strategy, account management, business development, forecasting and budgeting, employee development and retention, project management, technical delivery, user-experience, information-architecture and local and off-shore management. <b>Ruby on Rails, PHP, jQuery, JavaScript, HTML, WordPress, ActionScript, Flash, Agile/Scrum, BaseCamp, Lighthouse, Rally, OmniFocus, OmniGraffle, GTD, Harvest, QuickBooks, MS Office, Google Analytics, Omniture, TextMate, MySQL.</b>
 
             .job
               h3 Founder / CTO
               h4 Boom Bucket Mobile
               h5 Sep 2005 - Aug 2010
-              p Founder and CTO of a <b>mobile content</b> start-up. Built <b>digital asset management</b> platform for ingesting, cataloging, showcasing, distributing, and reporting on thousands of mobile wallpapers and ringtones. Also responsible for various <b>business development and marketing</b> efforts including the company's official launch in 2006 at <i>Mobile World Congress</i> in Barcelona Spain. Technologies included <b>HTML, ActionScript, JavaScript, PHP, and MySQL.</b>
+              p Founder and CTO of a <b>mobile content</b> start-up. Built <b>digital asset management</b> platform for ingesting, cataloging, showcasing, distributing, and reporting on thousands of mobile wallpapers and ringtones. Also responsible for <b>business development and marketing</b> including the company's 2006 launch at <i>Mobile World Congress</i> in Barcelona Spain. <b>HTML, ActionScript, JavaScript, PHP, and MySQL.</b>
 
             /
               .job
@@ -229,7 +228,7 @@ html lang="en"
               h3 Senior Producer
               h4 Corbis, Inc.
               h5 Feb 2000 - May 2006
-              p Led delivery of new Corbis Motion e-licensing platform <!-- Liaised	with engineering &amp; marketing teams to ensure delivery of timely, cost-effective concept generation, experience design, implementation, launch, and follow-up of --> and various marketing campaigns across multiple lines of business. Designed and deployed a Perl-based <b>CMS and localisation solution</b> enabling localisation of an E-Commerce platform to five markets in under two weeks.	Technologies included <b>Flash, ActionScript, ASP.NET, SQLServer, Perl, HTML, and JavaScript.</b>
+              p Managed technical delivery of new Corbis Motion e-licensing platform and multiple online marketing campaigns. Designed, built, and deployed a Perl-based <b>content management and localisation product</b> enabling localised delivery of an E-Commerce platform with $13M annual turn-over to five markets in under two weeks. <b>Flash, ActionScript, ASP.NET, SQLServer, Perl, HTML, and JavaScript.</b>
 
             .job
               h4.other Additional experience available upon request
