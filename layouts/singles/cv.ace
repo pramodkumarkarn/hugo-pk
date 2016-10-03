@@ -60,7 +60,7 @@ html lang="en"
               li Adaptive risk management
               li Workshopping / Facilitation
               / li Management Information
-              li management information
+              li Management/busiess information (MI/BI)
               li Basic accounting
               / li Roadmapping
               li Stakeholder Management
@@ -103,12 +103,12 @@ html lang="en"
               / i.small (Contract)
               h4 Government Digital Service (Cabinet Office, UK Government)
               h5 June 2015 - Present
-              p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling senior leadership to make informed, data-driven deisions around prioritisation, delivery, risk, financial performance, headcount and benefits to effectively manage a <b>£500m complex change portfolio</b> driving <b>digital transformation</b> across the UK government.
+              p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government.
 
               ul
                 / li Proposed and implemented change to support greater organisational agility
                 / li Enabled real-time business planning and reporting with no additional overhead
-                li Replaced complex vendor ERP solution with simpler Google Sheets appraoch
+                li Replaced complex, inflexible vendor ERP solution with bespoke BI platform
                 li <b>Saved £100k+</b> while improving accuracy, engagement, and user satisfaction
                 li Reduced reporting cycles from quarterly to monthly
                 li Trained Del Ops team on tools, concepts, and techniques to ensure lasting change
@@ -129,7 +129,8 @@ html lang="en"
 
               p Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring.
 
-              p <b>Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgre, AWS Elastic Beanstalk, continuous integration (CI) with Jenkins, infrastructure automation with Ansible, AWS Relational Data Store (RDS). All code open sourced via <a href="https://github.com/alphagov/?utf8=%E2%9C%93&query=digitalmarketplace" target="_blank">github</a>.</b>
+              p <b>Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgres, AWS Elastic Beanstalk, continuous integration (CI) with Jenkins, infrastructure automation with Ansible, AWS Relational Data Store (RDS).</b> All code open sourced via <a href="https://github.com/alphagov/?utf8=%E2%9C%93&query=digitalmarketplace" target="_blank">github</a>.
+
 
             .job
               h3 Delivery Manager | Agile Transformation Coach
@@ -139,7 +140,7 @@ html lang="en"
               p Transformed two critical, at-risk programmes <!--away from traditional, dysfunctional waterfall delivery methods--> from dysfunctioal waterfall delivery methods to a high-functioning, lean/agile ones using Scrum, Lean, Kanban, BDD, etc. improving efficacy, efficiency, and quality ensuring timely accurate delivery, with high rates of customer and executive satisfaction.
               ul
                 li Complete redesign and rebuild of the <a href="https://qualifications.pearson.com" target="_blank">Pearson Qualifications</a> website (a £300M+ annual business with 60K+ pages and documents) from MS SharePoint to Adobe Experience Manager (AEM)
-                li A greenfield bespoke data-science platform for their e-learning business to predict renewal rates and identify high-risk clients.
+                li A real-time analytics platform to predict subscription renewal rates and identify high-risk clients of their e-learning platforms.
 
               / p Used Agile/lean methods to provide rich metrics that drive planning activities and optimise processes to improve both quality and performance. Drafted budgets, resource plans, risk profiles, and aligned project goals to wider programme objectives. Introduced Behavioural Driven Development (BDD) to streamline QA process and improve quality.
 
