@@ -52,29 +52,30 @@ html lang="en"
             ul.skills
               li Business Transformation
               li Agile / Lean Coaching
-              li Delivery management
+              li Delivery Management
               / li Scrum &amp; Kanban (CSM)
               li Objectives & Key Results (OKRs)
               li Agile Budgeting / Forecasting / Planning
-              li Cross-functional team management
-              li Adaptive risk management
+              li Cross-functional Team Management
+              li Adaptive Risk Management
               li Workshopping / Facilitation
               / li Management Information
-              li Management/busiess information (MI/BI)
-              li Basic accounting
+              li Management Information (MI)
+              li Business Intelligence (BI)
+              li Basic accounting / Finance
               / li Roadmapping
               li Stakeholder Management
-              li Process design / modeling
-              li Goal Setting
-              li Impact mapping
+              li Process Design / Modeling
+              li Goal Setting / Strategy
+              li Impact Mapping
               / li Test Automation
               / li Experience Working Globally
-              li Nonviolent Communication
+              / li Nonviolent Communication
               / li Regulated Financial Services
               li Behaviour Driven Dev (BDD)
               / li Cucumber, Capybara, PhantomJS
               li Continuous Delivery
-              li Basic Ruby on Rails / Python
+              li Ruby on Rails / Python
               li Product Management
               / li JIRA &amp; Greenhopper
               / li Medical Device Software
@@ -84,7 +85,7 @@ html lang="en"
               / li Adobe CQ
               / li SQL &amp NOSQL (MySQL &amp; MongoDB)
               li Basic Linux DevOps
-              li Cloud infrastructure
+              li Cloud infrastructure (AWS)
               / li Digital Media Strategy
               li Source Code Management (git)
               li Service Oriented Architecture (SOA)
