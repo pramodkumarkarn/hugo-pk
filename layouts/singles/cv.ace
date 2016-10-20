@@ -55,7 +55,8 @@ html lang="en"
               li Delivery Management
               / li Scrum &amp; Kanban (CSM)
               li Objectives & Key Results (OKRs)
-              li Agile Budgeting / Forecasting / Planning
+              li Agile Business Planning & Reporting
+              li Target Operating Model (TOM)
               li Cross-functional Team Management
               li Adaptive Risk Management
               li Workshopping / Facilitation
@@ -71,7 +72,7 @@ html lang="en"
               / li Test Automation
               / li Experience Working Globally
               / li Nonviolent Communication
-              / li Regulated Financial Services
+              li Regulated Financial Services
               li Behaviour Driven Dev (BDD)
               / li Cucumber, Capybara, PhantomJS
               li Continuous Delivery
