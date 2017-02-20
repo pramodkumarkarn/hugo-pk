@@ -10,4 +10,4 @@ buy_link:
 categories:
   - Art
 ---
-A more organized relative of the [Chromatic Galaxia](/art/chromatic-galaxia) series, these densely packed regular grid of randomly colored concentric circles evokes a kind of chaotic, fecund substrate bubbling with a sort of synthetic, pre-sentient life. Generated programmatically according to a strict set of mathematical rules to control degrees of randomness, every one is unique yet clearly part of the same family.
+A tight grid of randomly colored concentric circles evokes a kind of chaotic, fecund substrate bubbling with synthetic, pre-sentient life. Generated programmatically according to a strict set of mathematical rules to control degrees of randomness, every one is unique yet clearly part of the same family.

@@ -1,24 +1,28 @@
 # hugo-pk
 My awesome new personal, static website built with Hugo.
 
+## Domains
+A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy. `kapp.us` uses GoDaddy's "Domain forwarding" feature to forward requests to `peterkappus.com`. `peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
 
 
+## Development
 
-## Tips for awesomeness
-Here's how to do some handy things while you're developing:
+```
+# Watch the Sass folder and compile to static/css in the background
+sass -w sass:static/css &
 
+# start hugo
+hugo serve
 
-###Compiling Saas
-Watch the sass folder and compile to the static/css folder like so:
+#now visit http://localhost:1313
+```
 
-    %> sass -w sass:static/css
-  (assumes you're in the root directory)
 
 ## Deployment
 
     hugo ; s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*
 
-    NOTE: --rexclude=.git* prevents the git files in the subdirectory Spamwords from being uploaded
+  NOTE: --rexclude=.git* prevents the git files in the subdirectory Spamwords from being uploaded
 
 (generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (-P))
 
