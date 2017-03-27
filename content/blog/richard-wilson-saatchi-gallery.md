@@ -3,7 +3,6 @@ title: Richard Wilson's 20:50 at the Saatchi Gallery in London
 author: p3trk
 cover: richard-wilson/1.jpg
 date: 2012-03-11
-url: /blog/richard-wilson-saatchi-gallery
 categories:
   - Blog
   - Inspiration

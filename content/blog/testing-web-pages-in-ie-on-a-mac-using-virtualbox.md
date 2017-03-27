@@ -4,7 +4,7 @@ author: p3trk
 
 date: 2013-02-06
 cover: virtualbox.png
-url: /blog/testing-web-pages-in-ie-on-a-mac-using-virtualbox
+xurl: /blog/testing-web-pages-in-ie-on-a-mac-using-virtualbox
 categories:
   - Blog
 ---

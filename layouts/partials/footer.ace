@@ -3,7 +3,7 @@ footer
   p.pull-right
     a href="/colophon" Made in London.
   p.pull-left &copy; {{ .Now.Year }}
-script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"
+script src="/js/jquery.min.js"
 script src="/js/bootstrap.min.js"
 script src="/js/blazy.min.js"
 script src="/js/jquery.fittext.js"

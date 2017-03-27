@@ -8,11 +8,11 @@ A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both re
 ## Development
 
 ```
-# Watch the Sass folder and compile to static/css in the background
+# Watch the Sass folder and compile to static/css (in the background)
 sass -w sass:static/css &
 
-# start hugo
-hugo serve
+# start hugo server (in the background)
+hugo serve -w &
 
 #now visit http://localhost:1313
 ```
@@ -20,7 +20,8 @@ hugo serve
 
 ## Deployment
 
-    hugo ; s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*
+```
+hugo ; s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*```
 
   NOTE: --rexclude=.git* prevents the git files in the subdirectory Spamwords from being uploaded
 

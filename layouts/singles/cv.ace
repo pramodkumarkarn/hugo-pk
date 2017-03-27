@@ -39,7 +39,6 @@ html lang="en"
             p.bigger A data-savvy, highly technical, delivery-focused, business transformation consultant, Agile coach, programme/portfolio delivery manager and <b>certified scrum master</b> with a passion for problem-solving and 15+ years working across a diverse range of industries including finance, government, media/publishing, and bio-tech.
             p A natural servant-leader able to nurture lasting positive change in large organisations while rapidly understanding organisational context and broader strategy. Able to combine deep, hands-on technical knowledge with excellent communication and leadership skills to influence and engage participants from individual contributors to C-Level executives bringing about steady, measurable, constant improvement in complex, evolving environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
             p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
-        .page-break
         .row
           .col-sm-12
             hr
@@ -49,11 +48,13 @@ html lang="en"
           .col-sm-10
             ul.skills
               li Portfolio/Programme Delivery
-              li Operating Models
+              li Target Operating Model (TOM)
               li Business Transformation
               li Agile / Lean Coaching
               / li Delivery Management
               / li Scrum &amp; Kanban (CSM)
+              li Service Design
+              li Systems Thinking, Cynefin
               li Objectives & Key Results (OKRs)
               li Agile Business Planning & Reporting
               / li Target Operating Model (TOM)
@@ -68,7 +69,7 @@ html lang="en"
               li Stakeholder Management
               li Process Design / Modeling
               li Goal Setting / Strategy
-              li Impact Mapping
+              / li Impact Mapping
               / li Test Automation
               / li Experience Working Globally
               li Nonviolent Communication
@@ -95,6 +96,7 @@ html lang="en"
         .row
           .col-sm-12
             hr
+        .page-break
         .row
           .col-sm-2
             h3 Experience
@@ -110,6 +112,7 @@ html lang="en"
                 li Built bespoke tracking system using <b>Google Sheets</b> and <b>Ruby on Rails</b> to deliver real-time reporting for stakeholders and contributors
                 li Worked closely with strategy team to align delivery activity to business case goals
                 li Helped existing PMO to streamline reporting and planning efforts and introduce a more real-time agile approach
+                li Coached delivery teams in agile delivery methods
 
             .job
               h3 Portfolio Delivery Manager
@@ -201,7 +204,7 @@ html lang="en"
                 p <b>JIRA, Java EE, SDLC, SOA, Scrum, Agile, User Experience (UX), iOS, Android, Responsive Web, Service Design</b>.
 
             .job
-              h3 Scrum Master | Data Scientist
+              h3 Product Owner | Data Scientist
               h4 Gray Metrics
               h5 Apr 2012 - Nov 2012
               p Applied agile/lean principles and engineering capability enabling a <b>big data start-up</b> to conceive and deliver a first-gen social media data mining and trend analysis platform for the automobile industry. Included market strategy, product ownership, engineering, and business development. <b>AWS (EC2), MongoDB, Ruby on Rails, Jetty, D3.js, and R</b>
@@ -296,6 +299,6 @@ html lang="en"
             h3 Miscellany
           .col-sm-10
             p Dual-national (US &amp; UK). Musician, composer, abstract artist, and conversational French-speaker. Self-appointed world diplomat. Able to leap tall buildings in a single bound.
-            p Learn more at <a class="noprint" href="http://kapp.us">http://kapp.us</a>
+            p Learn more at <a class="noprint" href="http://www.peterkappus.com">http://www.peterkappus.com</a>
         .hidden-print
           {{ partial "footer" .}}

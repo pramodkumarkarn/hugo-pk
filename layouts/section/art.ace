@@ -13,7 +13,7 @@ html lang="en"
         .col-md-4
           a href="{{ .RelPermalink }}"
             .img.b-lazy data-src="/images/big_pics/{{.Params.cover}}" xstyle="background-image: url('/images/big_pics/{{.Params.cover}}');"
-          a href="{{ .RelPermalink}}" {{ .Title}}
+          a.title href="{{ .RelPermalink}}" {{ .Title}}
         / img.img-responsive src="/images/big_pics/{{.Params.cover}}"
         {{end}}
       {{ partial "footer" .}}

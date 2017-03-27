@@ -1,7 +1,6 @@
 ---
 title: Rest in Peace Count Von Count
 date: 2012-08-26
-url: /blog/rest-in-peace-count-von-count
 type: blog
 cover: RIP-Jerry-Nelson.jpg
 categories:

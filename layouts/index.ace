@@ -2,7 +2,7 @@
 html lang="en"
   {{ partial "header" .}}
   body
-    .container
+    .container.home
       / peace, man
         .row.flag
           .col-xs-12
@@ -22,16 +22,17 @@ html lang="en"
           .col-md-2
             a href="/contact" Contact
       h1.name Peter Kappus
+      / h1.name  
       hr
       h2
-        / a href="/agile" Agile Practitioner
-        a href="/cv" Consultant
+        a href="/cv" Consultant 
       h2
         a href="/music" Musician
       h2
         a href="/art" Artist
-      / h2
-        a href="/blog" Blog
+      h3 Infrequent
+      h2.subheaded
+        a href="/blog" Blogger
       hr
-      p.bigger Hello! I'm Peter Kappus and I write <a href="/music">music</a>, create <a href="/art">art</a> and use Lean/Agile methodologies to help teams to <a href="/cv">transform the way they work</a> and to deliver great services based on user needs.  This site uses cookies. Follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a>, <a href="http://instagram.com/peterkappus">Instagram</a>, or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>. Connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a> or <a href="/contact"> contact me.</a>
+      p.bigger Hello! I'm Peter Kappus and I write <a href="/music">music</a>, make <a href="/art">art</a> and help teams to <a href="/cv">transform the way they work</a> and to deliver outstanding services based around user needs. Follow me on <a href="http://twitter.com/peterkappus" target="_blank">Twitter</a>, <a href="http://instagram.com/peterkappus">Instagram</a>, or <a href="http://soundcloud.com/peterkappus" target="_blank">SoundCloud</a>. Connect on <a target="_blank" href="http://linkedin.com/in/peterkappus">LinkedIn</a> or <a href="/contact"> contact me.</a> Yep, this site uses cookies. 
       {{ partial "footer" .}}
