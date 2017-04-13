@@ -4,7 +4,7 @@ html lang="en"
   body
     .container
       {{ partial "nav" .}}
-      h2 Music
+      h2.big Music
       hr
       p.bigger My mum is a very <a href="http://www.carolkappus.com" target="_blank"> talented harpist and singer</a> and since I was tall enough to reach the keys on the piano, I've shared her love of making music.
       .row.thumb_grid
