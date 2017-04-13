@@ -1,4 +1,6 @@
 = doctype html
+{{ $available_msg := "Available from late April for contract roles in central London" }}
+{{ $looking := true }}
 {{ $left_side := 2}}
 html lang="en"
   {{ partial "header" .}}
@@ -14,6 +16,13 @@ html lang="en"
         .row
           .col-sm-8
             h1 Peter Kappus
+            {{ if $looking }}
+              .looking
+                i {{ $available_msg }}
+                br
+                i.noprint 
+                  a href="/contact" Contact me now!
+            {{ end }} 
           .col-sm-4.contact-info
             nobreak
               i
@@ -21,9 +30,9 @@ html lang="en"
               | <br>
               |
               = javascript
-                document.write("<a class='noprint' href=\"mailto:hello" + "" + "@" + "peterkappus.com\">hello" + "" + "@peterkappus.com</a>");
+                document.write("<a class='noprint_url' href=\"mailto:hello" + "" + "@" + "peterkappus.com\">hello" + "" + "@peterkappus.com</a>");
               br
-              a.noprint href="http://kapp.us/cv" http://kapp.us/cv
+              a.noprint_url href="http://kapp.us/cv" http://kapp.us/cv
               p.hidden-print
               p.hidden-print
                 a href="/PeterKappus.pdf"
@@ -299,6 +308,16 @@ html lang="en"
             h3 Miscellany
           .col-sm-10
             p Dual-national (US &amp; UK). Musician, composer, abstract artist, and conversational French-speaker. Self-appointed world diplomat. Able to leap tall buildings in a single bound.
-            p Learn more at <a class="noprint" href="http://www.peterkappus.com">http://www.peterkappus.com</a>
+            p Learn more at <a class="noprint_url" href="http://www.peterkappus.com">http://www.peterkappus.com</a>
+        {{ if $looking }}
+        .row.noprint
+          .col-sm-12
+            hr
+        .row.noprint.looking
+          .col-sm-12
+            i 
+              | {{ $available_msg }} 
+              a href="/contact" Contact me now!
+        {{ end }} 
         .hidden-print
           {{ partial "footer" .}}
