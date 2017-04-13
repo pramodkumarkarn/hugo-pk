@@ -21,8 +21,9 @@ html lang="en"
             a href="/about" About
           .col-md-2
             a href="/contact" Contact
+      / h1.name ISOKON
+      / h1.name ABSTRAKTOR
       h1.name Peter Kappus
-      / h1.name  
       hr
       h2
         a href="/cv" Consultant 

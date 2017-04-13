@@ -1,7 +1,6 @@
 ---
 title: The Tanks at Tate Modern
 author: p3trk
-
 cover: tate/cover.jpg
 pix_folder: tate
 more_pix: ['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg']
@@ -13,6 +12,7 @@ categories:
   - Blog
 ---
 Last Tuesday I had the pleasure of visiting the newly (re) opened Tanks at Tate Modern. Continuing the trajectory set by Tate director Nicholas Serota when he worked to move Tate Modern into the Bankside power station in 2000, the tanks provide a powerful, industrial, yet intimate space for performance art and large-scale installation which will enable Tate Modern to do things that no other museum can for years to come. Opening ahead of the Olympics is also a great move as it will really showcase, to the world, the intent of Tate Modern to attract cutting edge performance artists to London and to engage with the public in even more direct and conversational ways.
+
 
 These two huge industrial spaces originally held 5 million litres of fuel oil when the building was a power station. Swiss architectural practice <a href="http://www.herzogdemeuron.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.herzogdemeuron.com']);">Herzog & de Muron</a>, who did the original retrofit of the Bankside power station have returned to make these massive spaces into a kind of subterranean &#8220;vault&#8221; for contemporary performance and installation art. Entering the tanks from the floor of the gigantic turbine hall, you truly have the feeling of entering a secret, almost sacred space deep below the building. You feel acutely aware of the tons of concrete all around you and, as you enter the spaces you can clearly see the thickness of the walls. There is, unsurprisingly, no mobile reception down there which, I think, is a wonderful (if unintentional) way to heighten the experience of immersing yourself completely in the art with no distraction. Herzog & de Meuron have done a wonderful job of maintaining the powerful raw feeling of the tanks while updating them with the conveniences of HVA/C, lighting, sound-proofing, and, of course, bathrooms, lockers, and other amenities.
 

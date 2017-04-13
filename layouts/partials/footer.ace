@@ -10,7 +10,8 @@ script src="/js/jquery.fittext.js"
 script src="/js/flowtype.js"
 = javascript
   jQuery("h1").fitText(0.65);
-  jQuery(".short").fitText(0.85);
+  jQuery(".short").fitText(1);
+  //jQuery(".short").fitText(0.85);
   jQuery(".cvname").fitText(0.9);
 
   jQuery("b.headline").fitText(.55);

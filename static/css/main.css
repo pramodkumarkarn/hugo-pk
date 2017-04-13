@@ -7,10 +7,8 @@
  *   opacity: 0
  *   transition: opacity .3s ease-in */
 /* responsive video! */
-.home h2 {
-  line-height: 11rem; }
-  .home h2:last-of-type {
-    margin-bottom: 4rem; }
+.home h2:last-of-type {
+  margin-bottom: 4rem; }
 .home h2.subheaded {
   margin-top: 0; }
 .home h3 {
@@ -22,12 +20,6 @@
   margin-bottom: 2rem; }
   .big_pic:last-of-type {
     margin-bottom: 0; }
-
-.biglinks a {
-  font-size: 11rem;
-  font-weight: bold;
-  line-height: 11.5rem;
-  display: block; }
 
 hr {
   border-bottom: 1.2rem solid #000;

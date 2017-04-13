@@ -26,9 +26,9 @@ html lang="en"
             img.img-responsive.big_pic src=/images/big_pics/{{.Params.cover}}
           {{ end }}
           {{ if isset .Params "more_pix"}}
-          {{ $folder := .Params.pix_folder}}
+            {{ $folder := .Params.pix_folder}}
             {{ range .Params.more_pix}}
-            img.img-responsive.big_pic src=/images/big_pics/{{$folder }}/{{.}}
+              img.img-responsive.big_pic src=/images/big_pics/{{$folder }}/{{.}}
             {{ end }}
           {{ end }}
       {{ partial "footer" .}}
