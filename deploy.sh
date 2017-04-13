@@ -1,0 +1,1 @@
+hugo ; s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*
