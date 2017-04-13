@@ -4,7 +4,7 @@ html lang="en"
   body
     .container.blog
       {{ partial "nav" .}}
-      h2 Blog
+      h2.big Blog
       hr
       p.bigger Very occassionally, I write about things. To remember. To think through a problem. To share something I've learned or felt.
       / p Some of my favourite artists are Andy Warhol, Anselm Kiefer, Barnett Newman, Brice Marden, Buckminster Fuller, Charles & Ray Eames, Clyfford Still, Corey Arcangel, Cy Twombly, Donald Judd, Ellsworth Kelly, Francis Picabia, Frank Stella, Gabriel Orozco, Georgia O’Keeffe, Gerhard Richter, Hans Richter, Henri Matisse, Isamu Noguchi, Jackson Pollock, James Turrell, Jean Arp, Jean Dubuffet, Jean-Michel Basquiat, Joan Miró, Josef Albers, Karel Appel, László Moholy-Nagy, Lee Krasner, Man Ray, Mark Rothko, Pablo Picasso, Paul Klee, Richard Serra, Robert Delaunay, Robert Motherwell, Sol LeWitt, Viking Eggeling, Wassily Kandinsky, Willem de Kooning, Yves Klein.
