@@ -1,5 +1,5 @@
 ---
 languageCode: en-us
 permalinks:
-  blog: /:year/:month/:title/
+  blog: /blog/:title/
 ...
