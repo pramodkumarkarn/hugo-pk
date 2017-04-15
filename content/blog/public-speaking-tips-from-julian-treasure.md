@@ -6,8 +6,8 @@ date = "2017-04-13T23:57:02+01:00"
 title = "Public Speaking Tips from Julian Treasure"
 +++
 
-The always brilliant [Nick Tait] (https://www.linkedin.com/in/nick-tait-86516b1) shared this useful, [10 minute video](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
- from [Julian Treasure](http://www.juliantreasure.com/) with tips for public speaking. 
+The always brilliant [Nick Tait] (https://www.linkedin.com/in/nick-tait-86516b1) sent me this useful, [10 minute video](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
+ by [Julian Treasure](http://www.juliantreasure.com/) with some concise tips for public speaking. 
  
  As I'm preparing to speak at a [conference](http://conferences.unicom.co.uk/agile-methods/) later this month, I thought now was a good time to revisit this video. Here are some notes I’ve taken for quick reference: 
 
@@ -21,7 +21,7 @@ The always brilliant [Nick Tait] (https://www.linkedin.com/in/nick-tait-86516b1)
 - Dogmatism (confusion of facts with opinions)
 
 
-## Four cornerstones for great public speaking
+## Four cornerstones for speaking well
 So how can we avoid these pitfalls? Julian has developed the following mnemonic: 
 
 **“HAIL”** - e.g. to greet or acclaim enthusiastically
@@ -35,17 +35,17 @@ So how can we avoid these pitfalls? Julian has developed the following mnemonic:
 
 Here are some tools you can use to vary the quality of your speaking and help get your message across:
 
-**Register** Whether you speak in your nose, throat, or chest. Go low for depth and power.
+> **Register** Whether you speak in your nose, throat, or chest. Go low for depth and power.
 
-**Timbre** How your voice feels (research says we prefer rich, smooth, warm. Get a coach if you need one to help improve the timbre with breathing, posture, and exercises.)
+> **Timbre** How your voice feels (research says we prefer rich, smooth, warm. Get a coach if you need one to help improve the timbre with breathing, posture, and exercises.)
 
-**Prosody** The sing-song meta-language. The opposite of monotone. Rhythm, cadence, melody.
+> **Prosody** The sing-song meta-language. The opposite of monotone. Rhythm, cadence, melody.
 
-**Pace** Vary the pace according to your message. Speed can convey energy and excitement, slowness can give weight and emphasis. Silence. Nothing wrong with that. Use silence instead of “ummmm” or “uhhh” and when you want the audience to think.
+> **Pace** Vary the pace according to your message. Speed can convey energy and excitement, slowness can give weight and emphasis. Silence. Nothing wrong with that. Use silence instead of “ummmm” or “uhhh” and when you want the audience to think.
 
-**Pitch** You can vary the pitch to create different levels of arousal.
+> **Pitch** You can vary the pitch to create different levels of arousal.
 
-**Volume** Loud can be exciting. Quiet can make people pay close attention to a specific piece. Broadcasting the whole time is called “Sod-casting”… imposing your sound on everyone all the time carelessly and inconsiderately. 
+> **Volume** Loud can be exciting. Quiet can make people pay close attention to a specific piece. Broadcasting the whole time is called “Sod-casting”… imposing your sound on everyone all the time carelessly and inconsiderately. 
 
 ## Warm up your voice!
 Your voice is an engine that needs warming up. Here are six exercises Julian does before every big conversation:
