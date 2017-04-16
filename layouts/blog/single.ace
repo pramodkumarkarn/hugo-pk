@@ -1,0 +1,60 @@
+= doctype html
+html lang="en"
+  {{ partial "header" .}}
+  body
+    .container
+      {{ partial "nav" .}}
+      h4.capitalize
+        a href="/{{.Type}}" {{.Type}}
+      .headline style="width: 100%"
+        h1.short {{ .Title}}
+      hr
+      .row
+        .col-md-8.main
+          {{ if isset .Params "top_content" }}
+            {{ .Params.top_content | safeHTML}}
+          {{else}}
+            img.img-responsive.big_pic src=/images/big_pics/{{.Params.cover}}
+          {{ end }}
+          .blogdate {{ .Date.Format "2 January 2006" }}
+          p
+            {{ .Content}}
+          p.blognote 
+            | Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas or suggestions, please <a href="/contact">contact me</a>.
+          
+          br
+          {{ if isset .Params "more_pix"}}
+            {{ $folder := .Params.pix_folder}}
+            {{ range .Params.more_pix}}
+              img.img-responsive.big_pic src=/images/big_pics/{{$folder }}/{{.}}
+            {{ end }}
+          {{ end }}
+          {{if .PrevInSection}}
+            p
+              | Previous:&nbsp;
+              a href="{{.PrevInSection.Permalink}}" {{.PrevInSection.Title}}
+          {{end}}
+          ||
+          {{if .NextInSection}}
+            p
+              | Next:&nbsp;
+              a href="{{.NextInSection.Permalink}}" {{.NextInSection.Title}}
+          {{end}}
+        .col-md-4.sidebar
+          hr.hidden-lg.hidden-md
+          h2 About Peter Kappus
+          p Peter Kappus is a business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
+          a href="/cv" Find out more.
+          hr
+          h2 Other posts
+          {{if .PrevInSection}}
+            p
+              a href="{{.PrevInSection.Permalink}}" {{.PrevInSection.Title}}
+          {{end}}
+          ||
+          {{if .NextInSection}}
+            p
+              a href="{{.NextInSection.Permalink}}" {{.NextInSection.Title}}
+          {{end}}
+          
+      {{ partial "footer" .}}
