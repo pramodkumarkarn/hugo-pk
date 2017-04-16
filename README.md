@@ -6,6 +6,7 @@ A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both re
 
 
 ## Development
+NOTE: I've put these in a handy `deploy.sh` script which you can execute from your root folder. The only downside is you have to run `ps` to get the process ids and then kill them off manually when you're done.
 
 ```
 # Watch the Sass folder and compile to static/css (in the background)
@@ -19,14 +20,11 @@ hugo serve -w &
 
 
 ## Deployment
+NOTE: I've also packaged this one into a script called `deploy.sh`
 
-```
-hugo ; s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*```
+`hugo ; s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*`
 
-  NOTE: --rexclude=.git* prevents the git files in the subdirectory Spamwords from being uploaded
-
-(generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (-P))
-
+This will generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (`-P`). The `--rexclude=.git*` prevents the git files in the subdirectory (e.g. Spamwords) from being uploaded
 
 ## Other stuff...
 Image manipulation:

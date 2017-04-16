@@ -6,7 +6,7 @@ date = "2017-04-13T23:57:02+01:00"
 title = "Public Speaking Tips from Julian Treasure"
 +++
 
-The always brilliant [Nick Tait] (https://www.linkedin.com/in/nick-tait-86516b1) sent me this useful, [10 minute video](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
+The always brilliant [Nick Tait](https://www.linkedin.com/in/nick-tait-86516b1) sent me this useful, [10 minute video](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
  by [Julian Treasure](http://www.juliantreasure.com/) with some concise tips for public speaking. 
  
  As I'm preparing to speak at a [conference](http://conferences.unicom.co.uk/agile-methods/) later this month, I thought now was a good time to revisit this video. Here are some notes I’ve taken for quick reference: 
@@ -50,9 +50,14 @@ Here are some tools you can use to vary the quality of your speaking and help ge
 ## Warm up your voice!
 Your voice is an engine that needs warming up. Here are six exercises Julian does before every big conversation:
 
-1. Stand up. Arms up, deep breath in, and big sigh out. Ahhh.
+1. Stand up. Arms up, deep breath in, and big sigh out. Ahhhhh.
 2. Lips: “Bah bah bah bah bah”
 3. “BBBBBBBBBBBBBB”
 4. “LALALALALALALA” (tip of the tongue)
 5. “RRRRRRRRRR” (Roll the Rrrrr to warm up the sides of the tongue)
 6. "Weeeoooaaahheeeooo" (known as "The Siren")
+
+## Conscious speaking and listening
+
+Julian concludes with a question. What would the world be like if we were speaking consciously and listening consciously in environments specifically designed for creating and receiving sound? Love this idea. Let's make it happen.
+

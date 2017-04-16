@@ -13,12 +13,19 @@
 
 /* e.g. inside a post */
 .main h2 {
-  margin-top: 5rem;
-  font-size: 3.5rem;
-  margin-bottom: 2.5rem; }
+  margin-top: 4rem;
+  margin-bottom: 2rem; }
+.main .blognote {
+  margin-top: 4rem;
+  background: #eee;
+  padding: 2rem;
+  font-size: 1.8rem; }
+
+.sidebar h2 {
+  margin-top: 0; }
 
 .home h2 {
-  margin: 0; }
+  margin-top: 1.4rem; }
   .home h2:last-of-type {
     margin-bottom: 4rem; }
 .home h2.subheaded {
@@ -46,8 +53,9 @@ hr {
 .centered {
   text-align: center; }
 
-.single_page p:first-of-type {
-  font-size: 2.5rem; }
+.single_page p {
+  font-size: 2.5rem;
+  margin-bottom: 2.5rem; }
 
 .cv h2, .cv h3, .cv h4 {
   margin-top: 0; }
@@ -140,7 +148,6 @@ ul.skills {
   display: block; }
 
 .blog .thumb_grid a {
-  margin-top: 0;
   min-height: 80px; }
 
 /*@font-face
@@ -181,7 +188,12 @@ h4.capitalize {
     padding-right: 3rem; }
 
   .contact-info {
-    text-align: left; } }
+    text-align: left; }
+
+  .main h2 {
+    font-size: 2rem;
+    margin-top: 3.5rem;
+    margin-bottom: 2rem; } }
 body {
   /* borrowed from GOV.UK */
   font-size: 19px;

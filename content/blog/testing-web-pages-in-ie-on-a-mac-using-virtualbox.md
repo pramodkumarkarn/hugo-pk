@@ -12,13 +12,13 @@ categories:
   Mostly for my own future reference, here&#8217;s a quick low-down on how I like to test apps and web-pages in IE from my Mac.
 </p>
 
-Recently, I was building a <a href="http://carolkappus.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://carolkappus.com']);">website for my mom</a> While I&#8217;ve convinced her to use Chrome or Firefox, many of her friends (and much of the world) are still on IE8 or IE9 where things are a little different. 
+Recently, I was building my mom a {{% a_blank "website" "http://carolkappus.com" %}} and, while I&#8217;ve convinced her to use Chrome or Firefox, many of her friends (and much of the world) are still on IE8 or IE9 where things are a little different. 
 
 Here&#8217;s a way I&#8217;ve found to do real-time development on a Windows box with IE:
 
 ## Getting started
 
-Download <a href="https://www.virtualbox.org" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.virtualbox.org']);" target="_blank">VirtualBox</a> and use the <a href="https://github.com/xdissent/ievms" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://github.com']);" target="_blank">nicely packaged Windows/IE images</a>.
+Download {{% a_blank "VirtualBox" "http://www.virtualbox.org" %}} and use the <a href="https://github.com/xdissent/ievms" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://github.com']);" target="_blank">nicely packaged Windows/IE images</a>.
 
 ## Accessing a locally hosted app
 

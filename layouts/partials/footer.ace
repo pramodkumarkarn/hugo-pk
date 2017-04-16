@@ -13,6 +13,7 @@ script src="/js/flowtype.js"
   jQuery(".short").fitText(1);
   //jQuery(".short").fitText(0.85);
   jQuery(".cvname").fitText(0.9);
+  //jQuery(".main h2").fitText(1.8);
 
   jQuery("b.headline").fitText(.55);
   //jQuery(".short").fitText(0.75);

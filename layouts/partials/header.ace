@@ -8,4 +8,4 @@ head
   link rel="shortcut icon" href="/images/icon.png" type="image/x-icon"
   title Peter Kappus. Artist. Musician. Agile Practitioner. Entrepreneur.
   link href="/css/bootstrap.min.css" rel="stylesheet"
-  link href="/css/main.css" rel="stylesheet"
+  link href="/css/main.css?cachebust={{ .Date.Format "15:04:05" }}" rel="stylesheet"
