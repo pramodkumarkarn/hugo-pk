@@ -16,3 +16,5 @@ It's a [static site](https://en.wikipedia.org/wiki/Static_web_page) made with [H
 I considered using one of the many, beautiful free themes out there but (embracing the DIY spirit) decided to design and code my own. It uses [Twitter Bootstrap](http://getbootstrap.com/), [Sass](http://sass-lang.com/) (for custom CSS), and [ACE](https://github.com/yosssi/ace) templates. It deploys in seconds using [S3sync](http://s3tools.org/s3cmd-sync). The type is good ol' [Helvetica](https://en.wikipedia.org/?title=Helvetica).
 
 All the code is open source and kept on [GitHub](https://github.com/peterkappus/hugo-pk).
+
+Thanks for visiting!

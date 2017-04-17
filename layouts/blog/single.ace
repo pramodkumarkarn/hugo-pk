@@ -20,7 +20,7 @@ html lang="en"
           p
             {{ .Content}}
           p.blognote 
-            | Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas or suggestions, please <a href="/contact">contact me</a>.
+            | Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas, or suggestions, please <a href="/contact">contact me</a>.
           
           br
           {{ if isset .Params "more_pix"}}
@@ -43,7 +43,7 @@ html lang="en"
         .col-md-4.sidebar
           hr.hidden-lg.hidden-md
           h2 About Peter Kappus
-          p Peter Kappus is a business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
+          p Peter Kappus is an agile coach, business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
           a href="/cv" Find out more.
           hr
           h2 Other posts
