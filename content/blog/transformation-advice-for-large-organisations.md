@@ -3,7 +3,7 @@ author = "p3trk"
 categories = ["Art", "Blog"]
 cover = "advice-fernando-sanchez_cropped.jpg"
 date = "2017-04-17T23:47:05+01:00"
-draft = "true"
+draft = true
 title = "Transformation advice for larger organisations"
 aliases = ["/blog/advice"]
 +++
