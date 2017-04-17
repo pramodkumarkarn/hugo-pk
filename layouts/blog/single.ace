@@ -56,5 +56,16 @@ html lang="en"
             p
               a href="{{.NextInSection.Permalink}}" {{.NextInSection.Title}}
           {{end}}
+          hr
+          h2 Follow me
+          p
+            a href="http://twitter.com/peterkappus" target="_blank" Twitter
+          p
+            a href="http://linkedin.com/in/peterkappus" target="_blank" LinkedIn
+          p
+            a href="http://soundcloud.com/peterkappus" target="_blank" SoundCloud
+          p
+            a href="http://instagram.com/abstraktor" target="_blank" Instagram
+          
           
       {{ partial "footer" .}}
