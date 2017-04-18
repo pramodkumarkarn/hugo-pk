@@ -3,7 +3,7 @@ author = "p3trk"
 categories = ["Blog"]
 cover = "julian-treasure/cover.jpg"
 date = "2017-04-13T23:57:02+01:00"
-title = "Public Speaking Tips from Julian Treasure"
+title = "Public speaking tips from Julian Treasure"
 +++
 
 The always brilliant [Nick Tait](https://www.linkedin.com/in/nick-tait-86516b1) sent me this useful, [10 minute video](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)

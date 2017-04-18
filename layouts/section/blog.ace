@@ -13,7 +13,7 @@ html lang="en"
           a href="{{ .RelPermalink }}"
             .img style="background-image: url('/images/big_pics/{{.Params.cover}}'); background-color: rgb(0, 0, 0); background-position: 50% 50%; background-repeat: no-repeat; height: 250px; background-scale: 0.25; background-size: 150%"
           .blogdate {{ .Date.Format "2 January 2006" }}
-          a href="{{ .RelPermalink}}" {{ .Title}}
+          a.title href="{{ .RelPermalink}}" {{ .Title}}
         / img.img-responsive src="/images/big_pics/{{.Params.cover}}"
         {{end}}
       {{ partial "footer" .}}

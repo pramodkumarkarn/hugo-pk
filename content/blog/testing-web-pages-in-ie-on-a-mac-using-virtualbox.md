@@ -1,5 +1,5 @@
 ---
-title: Testing Web Pages in IE on a Mac using VirtualBox
+title: Testing web pages in IE on a Mac using VirtualBox
 author: p3trk
 
 date: 2013-02-06

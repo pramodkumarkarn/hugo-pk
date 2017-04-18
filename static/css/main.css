@@ -12,11 +12,14 @@
   color: #999; }
 
 /* e.g. inside a post */
+h1 {
+  font-size: 7rem; }
+
 .main h2 {
   margin-top: 4rem;
   margin-bottom: 2rem; }
 .main .blognote {
-  margin-top: 4rem;
+  margin-top: 5rem;
   background: #eee;
   padding: 2rem;
   font-size: 1.8rem; }
@@ -144,11 +147,12 @@ ul.skills {
   margin-bottom: 0 !important; }
 
 .thumb_grid a {
-  margin-top: 15px;
   display: block; }
+.thumb_grid a.title {
+  margin: 1rem 0 2rem 0; }
 
-.blog .thumb_grid a {
-  min-height: 80px; }
+.blog .thumb_grid a.title {
+  margin-top: 0; }
 
 /*@font-face
  * font-family: HelveticaLeagueSpartanBold
@@ -192,8 +196,11 @@ h4.capitalize {
 
   .main h2 {
     font-size: 2rem;
-    margin-top: 3.5rem;
-    margin-bottom: 2rem; } }
+    margin-top: 3.4rem;
+    margin-bottom: 1.4rem; }
+
+  h1 {
+    font-size: 4rem; } }
 body {
   /* borrowed from GOV.UK */
   font-size: 19px;

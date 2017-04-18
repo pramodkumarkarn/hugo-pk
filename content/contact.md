@@ -1,6 +1,6 @@
 ---
 title: Get in touch
-cover: green-comp.jpg
+cover: peter_kappus.jpg
 aliases:
   - /about
 script: |
