@@ -1,0 +1,3 @@
+[submodule "static/spamwords"]
+	path = static/spamwords
+	url = git@github.com:peterkappus/spamwords.git

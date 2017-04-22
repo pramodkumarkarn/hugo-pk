@@ -18,6 +18,8 @@ hugo serve -w &
 #now visit http://localhost:1313
 ```
 
+TIP: Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
+`hugo server -D --bind 192.168.0.10 --baseURL http://192.168.0.10`
 
 ## Deployment
 NOTE: I've also packaged this one into a script called `deploy.sh`
