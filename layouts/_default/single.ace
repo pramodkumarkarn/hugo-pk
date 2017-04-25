@@ -13,7 +13,7 @@ html lang="en"
         h1.short {{ .Title}}
       hr
       .row
-        .col-md-4
+        .col-md-4.main
           {{ .Content}}
         .col-md-8.media_
           {{ if isset .Params "soundcloud" }}
