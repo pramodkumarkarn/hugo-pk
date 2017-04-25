@@ -1,8 +1,10 @@
 # hugo-pk
-My awesome new personal, static website built with Hugo.
+My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Bootstrap, and a bunch of other stuff.
+
+This readme is mostly to remind me where stuff is and how to work on this site in case I forget... which I will sooner or later.
 
 ## Domains
-A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy. `kapp.us` uses GoDaddy's "Domain forwarding" feature to forward requests to `peterkappus.com`. `peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
+A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy. The `peterkappus.com` domain is still hosted on my old RackSpace cloud server (with (ABSTRAKTOR)[http://abstraktor.com] and some other stuff. This is because it was easier than setting up another S3/Cloudfront instance for `peterkappus.com` just to redirect to the `www` version. Might be time to lose the `www` anyway... The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
 
 
 ## Development
