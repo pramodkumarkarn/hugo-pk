@@ -26,6 +26,13 @@ h1 {
 .main p {
   line-height: 28px;
   margin-bottom: 25px; }
+.main .job p {
+  margin-bottom: 10px; }
+.main .job ul {
+  margin-bottom: 10px; }
+  .main .job ul li {
+    line-height: 28px;
+    /*margin-bottom: 8px */ }
 
 .sidebar h2 {
   margin-top: 0; }
@@ -63,10 +70,10 @@ hr {
   font-size: 2.5rem;
   margin-bottom: 2.5rem; }
 
-.cv h2, .cv h3, .cv h4 {
+.cv h2, .cv h4, .cv h3 {
   margin-top: 0; }
 .cv h5 {
-  margin-bottom: 3rem; }
+  margin-bottom: 2rem; }
 .cv p {
   margin-bottom: 2rem; }
 .cv .school {
@@ -94,7 +101,7 @@ ul.skills {
   display: inline-block; }
 
 .job {
-  padding-bottom: 2rem; }
+  margin-bottom: 40px; }
 
 .blogdate {
   font-size: 1.5rem;

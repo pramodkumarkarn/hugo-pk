@@ -1,11 +1,11 @@
 = doctype html
-{{ $available_msg := "Now available for interim roles in central London." }}
+{{ $available_msg := "Availabile immediately for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 html lang="en"
   {{ partial "header" .}}
   body
-    .container
+    .container.main
       .hidden-print
         .pull-right
           a href="/contact" Contact
@@ -47,7 +47,9 @@ html lang="en"
           .col-sm-10
             p.bigger A data-savvy, highly technical, delivery-focused, business transformation consultant, Agile coach, programme/portfolio delivery manager and <b>certified scrum master</b> with a passion for problem-solving and 15+ years working across a diverse range of industries including banking/financial services, government, media/publishing, and bio-tech. 
             
-            p A natural servant-leader, I specialise in turning around failing programmes, and moving organisations to a state of continuous delivery. I build strong communities of practice and nurture lasting positive change in large organisations while rapidly understanding organisational context and strategy. Adept at combining deep, hands-on technical knowledge with excellent communication and leadership skills to influence and engage participants from individual contributors to C-Level executives bringing about steady, measurable, constant improvement in complex, evolving environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
+            p A natural servant-leader, I specialise in turning around failing programmes, and transitioning organisations to a state of continuous delivery and improvement. I build strong internal communities and nurture lasting positive change within larger organisations while rapidly understanding and contribututing to the broader context and strategy. 
+            
+            p I combine deep, hands-on technical expertise with excellent communication and leadership skills to influence and engage participants from individual contributors to C-Level executives bringing about steady, measurable, constant improvement in complex, highly political environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
             p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
         .row
           .col-sm-12
@@ -81,8 +83,8 @@ html lang="en"
               / li Impact Mapping
               / li Test Automation
               / li Experience Working Globally
-              li Nonviolent Communication
-              / li Regulated Financial Services
+              / li Nonviolent Communication
+              li Regulated Financial Services
               li Behaviour Driven Dev (BDD)
               / li Cucumber, Capybara, PhantomJS
               li Continuous Delivery
@@ -90,7 +92,7 @@ html lang="en"
               li Product Management
               / li JIRA &amp; Greenhopper
               / li Medical Device Software
-              / li Mobile Design &amp; Development
+              li Mobile Design &amp; Development (iOS & Android)
               / li User Experience Design (UX)
               / li Social Media Marketing
               / li Adobe CQ
@@ -117,12 +119,14 @@ html lang="en"
               h5 Nov 2016 - April 2017
               p Developed robust flexible and simple processes to ensure the realisation of £1.5bn+ in cashable benefits by rolling out common technology solutions and stronger commercial arrangements across government.
               ul
-                li Used agile delivery methodologies to deliver benefits via rapid iteration
-                li Built bespoke tracking system using <b>Google Sheets</b> and <b>Ruby on Rails</b> to deliver real-time reporting for stakeholders and contributors
-                li Worked closely with strategy team to align delivery activity to business case goals
-                li Streamlined reporting and planning efforts and introduce a more real-time agile approach
-                li Coached delivery teams in agile delivery methods
-                li Pioneered savings methodologies adopted by central economics team for other programmes of work
+                li Coached delivery teams to use agile methodologies to deliver benefits via rapid iteration with increased transparency
+                / li Provided business case input via new benefits data/models
+                li Built bespoke online tracking tool and supporting economic models
+                li Enabled real-time decision-making for stakeholders and contributors
+                li Clearly aligned strategy and delivery teams via tangible benefits
+                li Dramatically streamlined internal planning/reporting process
+              
+              p Tools & Techniques: <b>Google Sheets w/ scripting, Ruby on Rails</b>, Google Forms, Lean/Agile cost/benefit modelling, Salesforce, etc.
                 
             .job
               h3 Portfolio Delivery Manager
@@ -132,7 +136,7 @@ html lang="en"
               h4 Government Digital Service (Cabinet Office, UK Government)
               h5 Jun 2015 - Nov 2016
               p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government.
-
+              
               ul
                 / li Proposed and implemented change to support greater organisational agility
                 / li Enabled real-time business planning and reporting with no additional overhead
@@ -143,6 +147,9 @@ html lang="en"
                 li Streamlined business planning to make it light-weight, continuous, and real-time
                 li Introduced impact-mapping and Objectives and Key Results (OKRs)
                 li Created bespoke <a href="https://github.com/peterkappus/panoflex" target="_blank">OKR tracking tool</a> using <b>Ruby on Rails</b>
+              
+              p Technologies: Google sheets w/ heavy scripting, Google Forms, Ruby on Rails, Hyperion, Anaplan, and others.
+
 
             .job
               h3 Programme Delivery Manager | Agile Coach
@@ -153,11 +160,13 @@ html lang="en"
 
               / The programme comprises an online platform, processes, policies, procurement frameworks, and services to enable government buyers to find, compare, and procure digital products and services from a wide range of suppliers with an emphasis on small and medium enterprises (SMEs).
 
-              p Coached teams in <b>agile methodologies</b>, business planning and reporting: resource management, road-mapping, benefits realisation, risk mitigation, stakeholder management. Oversaw a <b>~&pound;3M annual budget</b> for a 30+ person cross-functional team (spanning product design, user research, technology, procurement, engagement, support, legal, and analytics).
+              ul
+                li Coached teams in <b>agile methodologies</b>, business planning and reporting: resource management, road-mapping, benefits realisation, risk mitigation, stakeholder management
+                li Oversaw a <b>~&pound;3M annual budget</b> for a 30+ person cross-functional team (spanning product design, user research, technology, procurement, engagement, support, legal, and analytics)
 
-              p Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring.
+                li Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring across GDS
 
-              p <b>Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgres, AWS Elastic Beanstalk, continuous integration (CI) with Jenkins, infrastructure automation with Ansible, AWS Relational Data Store (RDS).</b> All code open sourced via <a href="https://github.com/alphagov/?utf8=%E2%9C%93&query=digitalmarketplace" target="_blank">github</a>.
+              p <b>Technology:</b> Pivotal Tracker, Java (Grails), Python (Flask), Jenkins, SQL Alchemy, git, Postgres, AWS Elastic Beanstalk, continuous integration (CI) with Jenkins, infrastructure automation with Ansible, AWS Relational Data Store (RDS). All code open sourced via <a href="https://github.com/alphagov/?utf8=%E2%9C%93&query=digitalmarketplace" target="_blank">github</a>.
 
 
             .job
@@ -165,17 +174,19 @@ html lang="en"
               / sup (freelance)
               h4 Pearson PLC
               h5 Jul 2013 - Nov 2014
-              p Transformed two critical, at-risk programmes <!--away from traditional, dysfunctional waterfall delivery methods--> from dysfunctioal waterfall delivery methods to a high-functioning, lean/agile ones using Scrum, Lean, Kanban, BDD, etc. improving efficacy, efficiency, and quality ensuring timely accurate delivery, with high rates of customer and executive satisfaction.
+              p Successfully two critical, at-risk programmes by transitioning from a dysfunctional waterfal to a high-functioning, lean/agile practice using Scrum, Lean, kanban, retrospectives, rapid prototyping, user testing, etc. 
+              
               ul
-                li Complete redesign and rebuild of the <a href="https://qualifications.pearson.com" target="_blank">Pearson Qualifications</a> website (a £300M+ annual business with 60K+ pages and documents) from MS SharePoint to Adobe Experience Manager (AEM)
-                li A real-time analytics platform to predict subscription renewal rates and identify high-risk clients of their e-learning platforms.
+                li Turned stakeholders from sceptics to partners by improving efficacy, quality and time to market while reducing cost
+                li Demonstrated high customer satisfaction with real data
+                li Introduced BDD using Capybara, Cucumber, phantomJS, and more 
+                li Delieverd complete redesign, rebuild, and platform migration of the <a href="https://qualifications.pearson.com" target="_blank">Pearson Qualifications</a> website (a £300M+ annual business with 60K+ pages and documents) from SharePoint to Adobe Experience Manager (CQ)
+                li Embedded lasting change: improved ways of working continue to deliver benefits today
+                li Delivered a real-time analytics platform using <b>Big Data</b> and <b>Machine Learning</b> to predict subscription renewal rates and identify at-risk clients
+                li Mentored senior stakeholders in lean/agile methodologies supporting wider digital transformation of the world's largest publishing company.
 
-              / p Used Agile/lean methods to provide rich metrics that drive planning activities and optimise processes to improve both quality and performance. Drafted budgets, resource plans, risk profiles, and aligned project goals to wider programme objectives. Introduced Behavioural Driven Development (BDD) to streamline QA process and improve quality.
-
-              p Mentored senior stakeholders in lean/agile methodologies supporting wider digital transformation of the world's largest publishing company.
-
-              / Agile coaching (scrum, kanban, sprint planning, planning poker, standups, demos, retrospectives), Lean UX, Build/Measure/Learn, SMART(er) KPIs, Behavioural Driven Development, scenario modeling, burn-downs, burn-ups, cycle-time tracking, and cumulative flow diagraming (CFDs),
-              p <b>Jira, Adobe CQ (Java), Solr, AngularJS, Apache, Jenkins, Cucumber (Ruby, Capybara, Poltergeist, PhantomJS), MySQL, CouchDB, MongoDB, Python/Flask, SOA/RESTful APIs</b>
+              
+              p <b>Technologies:</b> Single Sign on, Jira, Adobe CQ (Java), Solr, AngularJS, Apache, Jenkins, Cucumber (Ruby, Capybara, Poltergeist, PhantomJS), MySQL, CouchDB, MongoDB, Python/Flask, SOA/RESTful APIs
 
               /
                 .job
