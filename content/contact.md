@@ -37,7 +37,6 @@ script: |
 <!--a href="http://linkedin.com/in/peterkappus" target="_blank">
 <img src="http://www.linkedin.com/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Peter Kappus's profile on LinkedIn" /></a-->
 
-
-<div id="wufoo-mh2gcg319dqy7j">
+<div id="wufoo-mh2gcg319dqy7j" style="margin-top: 3rem">
 Fill out my <a href="https://peterkappus.wufoo.com/forms/mh2gcg319dqy7j">online form</a>.
 </div>

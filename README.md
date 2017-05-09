@@ -32,6 +32,9 @@ NOTE: I've also packaged this one into a script called `deploy.sh`
 
 This will generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (`-P`). The `--rexclude=.git*` prevents the git files in the subdirectory (e.g. Spamwords) from being uploaded
 
+## Contact form
+Currently using a free WufooForm but should consider [Formspree](https://formspree.io/). Downside of Formspree is your email get's exposed in the source (in the free version, at least).
+
 ## Other stuff...
 Image manipulation:
 

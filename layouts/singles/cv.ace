@@ -45,10 +45,10 @@ html lang="en"
           .col-sm-2
             h3 Profile
           .col-sm-10
-            p.bigger A data-savvy, highly technical, delivery-focused, business transformation consultant, Agile coach, programme/portfolio delivery manager and <b>certified scrum master</b> with a passion for problem-solving and 15+ years working across a diverse range of industries including banking/financial services, government, media/publishing, and bio-tech. 
+            p.bigger A data-savvy, highly technical, delivery-focused, business transformation consultant, Agile coach, and programme/portfolio delivery manager <!-- and <b>certified scrum master</b> -->with a passion for problem-solving and 15+ years working across a diverse range of industries including banking/financial services, government, media/publishing, and bio-tech. 
             
-            p A natural servant-leader, I specialise in turning around failing programmes, and transitioning organisations to a state of continuous delivery and improvement. I build strong internal communities and nurture lasting positive change within larger organisations while rapidly understanding and contribututing to the broader context and strategy. 
-            
+            p A natural servant-leader, I specialise in enabling succssful agile programmes, and transitioning organisations to a state of continuous delivery and improvement. I build strong internal communities of practice and nurture lasting positive change while rapidly delivering to the broader organisational context and strategy. 
+             
             p I combine deep, hands-on technical expertise with excellent communication and leadership skills to influence and engage participants from individual contributors to C-Level executives bringing about steady, measurable, constant improvement in complex, highly political environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
             p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
         .row
@@ -62,37 +62,43 @@ html lang="en"
               li Portfolio/Programme Delivery
               li Business Transformation
               li Agile / Lean Coaching
-              li Target Operating Model (TOM)
-              / li Delivery Management
-              / li Scrum &amp; Kanban (CSM)
-              li Service Design
-              li Systems Thinking, Cynefin
-              li Objectives & Key Results (OKRs)
               li Agile Business Planning & Reporting
+
+              / li Delivery Management
+              li Stakeholder management
+              li Target Operating Model (TOM)
+              li Scrum &amp; Kanban (CSM)
+              
+              / FINANCE
+              li Investment banking
+              li Forex (cash + options)
+              li Regulated Financial Services
+              
+              li Service design
+              li Systems thinking, cynefin
+              / li Objectives & Key Results (OKRs)
               / li Cross-functional Team Management
-              li Adaptive Risk Management
-              li Workshopping / Facilitation
-              li Management Information
+              li Risk management
+              li Workshopping / facilitation
+              / li Management Information
               / li Management Information (MI)
               / li Business Intelligence (BI)
-              li Basic accounting / Finance
+              li Basic accounting / finance
               / li Roadmapping
-              li Stakeholder Management
-              li Process Design / Modeling
+              li Process design / modeling
               li Goal Setting / Strategy
               / li Impact Mapping
               / li Test Automation
               / li Experience Working Globally
               / li Nonviolent Communication
-              li Regulated Financial Services
               li Behaviour Driven Dev (BDD)
               / li Cucumber, Capybara, PhantomJS
-              li Continuous Delivery
+              li Continuous delivery
               li Ruby on Rails / Python / Java
-              li Product Management
+              li Product management
               / li JIRA &amp; Greenhopper
               / li Medical Device Software
-              li Mobile Design &amp; Development (iOS & Android)
+              li Mobile Development
               / li User Experience Design (UX)
               / li Social Media Marketing
               / li Adobe CQ
@@ -101,8 +107,9 @@ html lang="en"
               li Cloud infrastructure (AWS)
               / li Digital Media Strategy
               li Source Code Management (git)
-              li Service Oriented Architecture (SOA)
-              li HTML / CSS / javascript
+              li Service Oriented Architecture 
+              / (SOA)
+              / li HTML / CSS / javascript
               / li.noline HAML / Sass / Slim
         .row
           .col-sm-12
@@ -238,9 +245,9 @@ html lang="en"
               p Managed delivery of a real-time social media management and analytics platform to web and mobile channels. Servant leader to a team of engineers, designers, and business owners between the UK &amp; South America. Provided individualised coaching to embed lasting agile transformation. <b>JIRA, SOA, RESTful APIs, PHP, MySQL, Apache, Tomcat, Java EE, GNIP, Watir, jQuery, Automated Testing, iOS, Android, Windows Phone</b>.
 
             .job
-              h3 Project Manager | Senior Producer
+              h3 Delivery Manager
               / sup (freelance)
-              h4 ustwo&trade; Studio Ltd.
+              h4 Credit Suisse (via ustwo&trade; Studio Ltd.)
               h5 Aug 2010 - Aug 2011
               p Managed front-end design and delivery of <!--of interaction designers, visual designers, and front-end developers--> an award-winning <b>Fixed Income (forex)</b> Single Dealer Platform (SDP) for a <b>global Tier 1 investment bank</b> including support for <b>cash, options, and algorithmic trading.</b> Worked with multiple stake-holders across various lines of business including client services, product management, and information technology. Introduced bespoke agile design process within the bank's legacy SDLC. Employed <b>JIRA, Confluence, OmniPlan, OmniFocus, Axure, Nirvana, Java EE, XAML, Silverlight, HTML, CSS, and Javascript.</b>
               /
