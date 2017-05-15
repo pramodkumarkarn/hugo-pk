@@ -45,12 +45,17 @@ html lang="en"
           .col-sm-2
             h3 Profile
           .col-sm-10
-            p.bigger A data-savvy, highly technical, delivery-focused, business transformation consultant, Agile coach, and programme/portfolio delivery manager <!-- and <b>certified scrum master</b> -->with a passion for problem-solving and 15+ years working across a diverse range of industries including banking/financial services, government, media/publishing, and bio-tech. 
+            / 
+              p.bigger A data-savvy, highly technical, delivery-focused, <!--business transformation consultant--> digital strategist, Agile coach, and programme/portfolio delivery manager <!-- and <b>certified scrum master</b> -->with a passion for problem-solving and 15+ years working across a diverse range of industries including banking/financial services, government, media/publishing, and bio-tech. 
             
-            p A natural servant-leader, I specialise in enabling succssful agile programmes, and transitioning organisations to a state of continuous delivery and improvement. I build strong internal communities of practice and nurture lasting positive change while rapidly delivering to the broader organisational context and strategy. 
+            p.bigger A data-savvy, highly technical digital strategist with a passion for service delivery, organisational transformation, and problem-solving spanning nearly twenty years of experience across a diverse range of industries including government, banking/financial services, media/publishing, and bio-tech. 
+            
+            / p A natural servant-leader, I specialise in building succssful agile teams, and transitioning organisations to a state of continuous delivery and improvement. I create strong internal communities of practice and nurture lasting positive change while rapidly delivering to the broader organisational context and strategy. 
+            
+            p A natural servant-leader, I specialise in building succssful agile organisations, embeddeing best practice, and creating a strong culture of <!--delivering outstanding digital services, and transitioning organisations to a state of -->continuous improvement. I create strong internal communities of practice and nurture lasting positive change while rapidly understanding and delivering to the broader organisational context and strategy. 
              
-            p I combine deep, hands-on technical expertise with excellent communication and leadership skills to influence and engage participants from individual contributors to C-Level executives bringing about steady, measurable, constant improvement in complex, highly political environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
-            p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
+            p I combine deep, hands-on technical expertise with excellent communication and leadership skills to influence and engage participants from individual contributors to senior stakeholders bringing about steady, measurable, constant improvement in complex, highly political environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
+            / p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
         .row
           .col-sm-12
             hr
@@ -59,32 +64,41 @@ html lang="en"
             h3 Skills
           .col-sm-10
             ul.skills
-              li Portfolio/Programme Delivery
-              li Business Transformation
-              li Agile / Lean Coaching
-              li Agile Business Planning & Reporting
-
-              / li Delivery Management
+              li Delivery Management
+              / li Portfolio/Programme Management
+              li Team setup & turn-around
+              / li Teambuilding
+              li Strategic cloud hosting
+              li Open source software
+              li Cloud infrastructure (AWS)
+              / li Improving ways of working
+              li Product/service management
+              li Roadmapping & reporting
+              li Agile governance
+              li Digital service design
+              li Agile / Lean coaching
+              li Scrum &amp; kanban (CSM)
+              li Code as infrastructure
+              / li Business planning & reporting
               li Stakeholder management
-              li Target Operating Model (TOM)
-              li Scrum &amp; Kanban (CSM)
+              / li Business transformation
+              li Adaptive risk management
+              li Workshopping / facilitation
+              li Target operating model (TOM)
               
               / FINANCE
-              li Investment banking
-              li Forex (cash + options)
-              li Regulated Financial Services
+              / NOTE THE INDENT to comment these out...
+                li Investment banking
+                li Forex (cash + options)
+                li Regulated Financial Services
               
-              li Service design
               li Systems thinking, cynefin
               / li Objectives & Key Results (OKRs)
               / li Cross-functional Team Management
-              li Risk management
-              li Workshopping / facilitation
               / li Management Information
               / li Management Information (MI)
               / li Business Intelligence (BI)
               li Basic accounting / finance
-              / li Roadmapping
               li Process design / modeling
               li Goal Setting / Strategy
               / li Impact Mapping
@@ -93,24 +107,27 @@ html lang="en"
               / li Nonviolent Communication
               li Behaviour Driven Dev (BDD)
               / li Cucumber, Capybara, PhantomJS
+              li Data analytics
               li Continuous delivery
               li Ruby on Rails / Python / Java
-              li Product management
+              li Basic Linux DevOps
               / li JIRA &amp; Greenhopper
               / li Medical Device Software
-              li Mobile Development
-              / li User Experience Design (UX)
+              / li Mobile Development
+              li User Centred Design (UX)
               / li Social Media Marketing
               / li Adobe CQ
               / li SQL &amp NOSQL (MySQL &amp; MongoDB)
-              li Basic Linux DevOps
-              li Cloud infrastructure (AWS)
               / li Digital Media Strategy
-              li Source Code Management (git)
-              li Service Oriented Architecture 
+              li Source control (git)
+              / li Service Oriented Architecture 
+              li Legacy IT integration
               / (SOA)
               / li HTML / CSS / javascript
               / li.noline HAML / Sass / Slim
+              li GDS Service Manual
+              li GDS Service Assessment
+
         .row
           .col-sm-12
             hr
@@ -124,16 +141,18 @@ html lang="en"
               / i.small (Contract)
               h4 Government Digital Service (Cabinet Office, UK Government)
               h5 Nov 2016 - April 2017
-              p Developed robust flexible and simple processes to ensure the realisation of £1.5bn+ in cashable benefits by rolling out common technology solutions and stronger commercial arrangements across government.
+              p Part of the programme management office (PMO) for the Common Technology Services programme which is rolling out common technology solutions and stronger commercial arrangements across government.
               ul
-                li Coached delivery teams to use agile methodologies to deliver benefits via rapid iteration with increased transparency
+                li Enabled delivery teams to use agile methodologies to deliver benefits via rapid, continuous iteration with increased transparency
+                li  Developed a robust, flexible and simple processes to roadmap and realise £1.5bn+ in cashable benefits
+                li Built contract analysis/management solution in Ruby on Rails
                 / li Provided business case input via new benefits data/models
-                li Built bespoke online tracking tool and supporting economic models
+                li Built bespoke online tracking tools and supporting economic models
                 li Enabled real-time decision-making for stakeholders and contributors
                 li Clearly aligned strategy and delivery teams via tangible benefits
                 li Dramatically streamlined internal planning/reporting process
               
-              p Tools & Techniques: <b>Google Sheets w/ scripting, Ruby on Rails</b>, Google Forms, Lean/Agile cost/benefit modelling, Salesforce, etc.
+              p Tools & Techniques: Google Sheets w/ scripting, Ruby on Rails, Google Forms, Lean/Agile cost/benefit modelling, Salesforce, etc.
                 
             .job
               h3 Portfolio Delivery Manager
@@ -142,7 +161,7 @@ html lang="en"
               / i.small (Contract)
               h4 Government Digital Service (Cabinet Office, UK Government)
               h5 Jun 2015 - Nov 2016
-              p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government.
+              p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment diversity, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government and benefiting millions of citizens.
               
               ul
                 / li Proposed and implemented change to support greater organisational agility
@@ -153,7 +172,7 @@ html lang="en"
                 li Trained Del Ops team on tools, concepts, and techniques to ensure lasting change
                 li Streamlined business planning to make it light-weight, continuous, and real-time
                 li Introduced impact-mapping and Objectives and Key Results (OKRs)
-                li Created bespoke <a href="https://github.com/peterkappus/panoflex" target="_blank">OKR tracking tool</a> using <b>Ruby on Rails</b>
+                li Created bespoke OKR tracking tool using <b>Ruby on Rails</b>
               
               p Technologies: Google sheets w/ heavy scripting, Google Forms, Ruby on Rails, Hyperion, Anaplan, and others.
 
@@ -168,7 +187,10 @@ html lang="en"
               / The programme comprises an online platform, processes, policies, procurement frameworks, and services to enable government buyers to find, compare, and procure digital products and services from a wide range of suppliers with an emphasis on small and medium enterprises (SMEs).
 
               ul
+                li Active in daily delivery ceremonies (stand-ups, planning, retrospectives, etc). 
+                
                 li Coached teams in <b>agile methodologies</b>, business planning and reporting: resource management, road-mapping, benefits realisation, risk mitigation, stakeholder management
+                
                 li Oversaw a <b>~&pound;3M annual budget</b> for a 30+ person cross-functional team (spanning product design, user research, technology, procurement, engagement, support, legal, and analytics)
 
                 li Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring across GDS
@@ -181,11 +203,12 @@ html lang="en"
               / sup (freelance)
               h4 Pearson PLC
               h5 Jul 2013 - Nov 2014
-              p Successfully two critical, at-risk programmes by transitioning from a dysfunctional waterfal to a high-functioning, lean/agile practice using Scrum, Lean, kanban, retrospectives, rapid prototyping, user testing, etc. 
+              p Successfully delivered two critical, at-risk programmes by transitioning from a dysfunctional waterfal to a high-functioning, lean/agile practice using Scrum, Lean, kanban, retrospectives, rapid prototyping, user testing, etc. 
               
               ul
                 li Turned stakeholders from sceptics to partners by improving efficacy, quality and time to market while reducing cost
                 li Demonstrated high customer satisfaction with real data
+                li Transitioned from legacy ITIL to modern DevOps culture
                 li Introduced BDD using Capybara, Cucumber, phantomJS, and more 
                 li Delieverd complete redesign, rebuild, and platform migration of the <a href="https://qualifications.pearson.com" target="_blank">Pearson Qualifications</a> website (a £300M+ annual business with 60K+ pages and documents) from SharePoint to Adobe Experience Manager (CQ)
                 li Embedded lasting change: improved ways of working continue to deliver benefits today
@@ -205,9 +228,9 @@ html lang="en"
                 p Designing and building a web start-up allowing users to create bespoke vector-based art-works, buy prints, and repost to various social networks via 3rd party REST APIs. Technologies include <b>Ruby on Rails, HTML5, Twitter Bootstrap, git, SVG, Delayed Job, ImageMagick, Slim, Sass, MySQL, CarrierWave, RMagick, OAuth, Capistrano, Passenger, RSpec, Guard &amp; Capybara (for TDD/CI)</b>.
 
             .job
-              h3 Scrum Master | Agile Coach
+              h3 Delivery Manager | Agile Coach
               / i.small (freelance)
-              h4 ustwo&trade;
+              h4 American Express (via ustwo&trade;)
               h5 Nov 2012 - May 2013
               /
                 ul
@@ -217,7 +240,7 @@ html lang="en"
                   li targeting 50 million households at launch
                   li for a large American Blue Chip credit-card company.
 
-              p Managed user experience delivery and coached technical and leadership teams at a Fortune 100 credit-card company delivering a multi-million dollar customer loyalty programme.
+              p Managed front-end/UX delivery and coached technical and leadership teams at a Fortune 100 credit-card company to deliver a multi-million dollar customer loyalty programme targeting over 1m households at launch.
 
               ul
                 li On-shore, near-shore, and off-shore teams in London, Boston, New York, Bangalore, Munich and Phoenix
@@ -247,7 +270,7 @@ html lang="en"
             .job
               h3 Delivery Manager
               / sup (freelance)
-              h4 Credit Suisse (via ustwo&trade; Studio Ltd.)
+              h4 Credit Suisse (via ustwo&trade;)
               h5 Aug 2010 - Aug 2011
               p Managed front-end design and delivery of <!--of interaction designers, visual designers, and front-end developers--> an award-winning <b>Fixed Income (forex)</b> Single Dealer Platform (SDP) for a <b>global Tier 1 investment bank</b> including support for <b>cash, options, and algorithmic trading.</b> Worked with multiple stake-holders across various lines of business including client services, product management, and information technology. Introduced bespoke agile design process within the bank's legacy SDLC. Employed <b>JIRA, Confluence, OmniPlan, OmniFocus, Axure, Nirvana, Java EE, XAML, Silverlight, HTML, CSS, and Javascript.</b>
               /
@@ -257,7 +280,7 @@ html lang="en"
             .job
               h3 Senior Project Management Consultant
               / sup (freelance)
-              h4 ustwo&trade; Studio Ltd.
+              h4 Cellnovo (via ustwo&trade;)
               h5 Dec 2009 - Aug 2010
               p Managed delivery of a ground-breaking wireless web-enabled insulin pump with touch-screen UI (requiring CE Mark and EN-60601-1 compliant embedded software). Reported directly to Chief Executive Officer and liaised with in-house and vendor teams in London, Winchester, Poland, and Wales. Applied agile methods to create a robust engineering, UX, and defect management processes prior to arrival of VP of engineering. Routinely met with investors and board members. <b>OmniGraffle, SpiraTeam, OmniPlan, C++, ANT-RF, GSM, ActionScript, WinCE, HaXe. <!--Agile methodologies included unit testing, continuous integration, user story creation and refinement, sprints, agile retrospectives and sprint planning.--></b>
 

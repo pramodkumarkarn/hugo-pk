@@ -6,6 +6,12 @@ head
   meta name="author" content=""
   link rel="icon" type="image/png" href="/images/icon.png"
   link rel="shortcut icon" href="/images/icon.png" type="image/x-icon"
-  title Peter Kappus. Artist. Musician. Agile Practitioner. Entrepreneur.
+  {{ $pageTitle := .Title | default ""}}
+  {{ if eq $pageTitle "" }}
+  title Peter Kappus | Artist, Musician, Agile Practitioner
+  {{ else }}
+  title Peter Kappus | {{ $pageTitle }}
+  {{ end }}
+  / Artist. Musician. Agile Practitioner. Entrepreneur.
   link href="/css/bootstrap.min.css" rel="stylesheet"
   link href="/css/main.css?cachebust={{ .Date.Format "15:04:05" }}" rel="stylesheet"
