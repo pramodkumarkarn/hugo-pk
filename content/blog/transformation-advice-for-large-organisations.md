@@ -8,7 +8,7 @@ title = "Transformation advice for larger organisations"
 aliases = ["/blog/advice"]
 +++
 
-While working at the {{% a_blank "Government Digital Service" "https://gds.blog.gov.uk/about" %}}, I was invited to fill out an employee survey for the {{% a_blank "Cabinet Office" "https://gds.blog.gov.uk/about/" %}}. Near the end of the survey was an open-ended _"What else would you like to tell us?"_ question. Below is my response:
+While working for one government client, I was invited to fill out an employee survey. The final question was an open-ended _"What else would you like to tell us?"_ question. Below is my response:
 
 <br>
 Thanks for asking! 

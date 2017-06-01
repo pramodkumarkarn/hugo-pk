@@ -13,7 +13,7 @@ As organisations move away from thinking about projects with fixed budgets, scop
 
 Through my work with various clients, I've learned a lot about simple ways to forecast and track headcount, vacancies, spend, milestones, etc so that teams and stakeholders can easily see where they are and stay on track. I've created a simple template that brings together a lot of what I learned in a concise, cloud-based format which should serve as a good starting point for small agile teams. This technique could even be used across an entire portfolio by "rolling up" the data into a portfolio-wide view.
 
-**Please note: This tool contains no proprietary data.** All data including but not limited to names, rates, line-items, roles, and pay-grades is completely fictitious and for demonstration purposes only. See the "README" tab for full terms of use.
+**Please note: This tool contains no personal or proprietary data.** All data including but not limited to names, rates, line-items, roles, and pay-grades is completely fictitious and for demonstration purposes only. See the "README" tab for full terms of use.
 
 ### <a href="https://docs.google.com/spreadsheets/d/1M3g6tKX-5Su6l2Fdmgqn5YKSPiXCEAYe6XDWbP-A8Kk/edit#gid=0" target="_blank">Get the template here.</a>
 
