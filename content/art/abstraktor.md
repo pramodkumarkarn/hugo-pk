@@ -11,7 +11,7 @@ cover: abstraktor.jpg
 ---
 ABSTRAKTOR is a collection of abstract art which attempts to reflect the vibrant color, complex rhythm, and chaotic beauty of the natural world using simple geometry and mathematical rules. I started this project in 2012 and have created more than one thousand pieces.
 
-## [Have a look &raquo;][1]
+## [See a few examples &raquo;][1]
 
 &nbsp;
 

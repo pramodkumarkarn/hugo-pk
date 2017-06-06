@@ -80,6 +80,8 @@ hr {
   margin-bottom: 2.5rem; }
 .cv .other {
   color: #555; }
+.cv p.tools {
+  font-size: 1.8rem; }
 
 .contact-info {
   margin: 2.5rem 0;
