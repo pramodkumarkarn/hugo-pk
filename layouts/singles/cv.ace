@@ -1,5 +1,5 @@
 = doctype html
-{{ $available_msg := "Availabile immediately for interim roles in central London." }}
+{{ $available_msg := "Available from <b>November 2017</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 html lang="en"
@@ -18,11 +18,11 @@ html lang="en"
             h1.cvname Peter Kappus
             {{ if $looking }}
               .looking.noprint
-                i {{ $available_msg }}
-                br
-                i 
+                {{ $available_msg | safeHTML }}
+                /
+                  br
                   a href="/contact" Contact me now!
-            {{ end }} 
+            {{ end }}
           .col-sm-4.contact-info
             nobreak
               i
@@ -45,24 +45,24 @@ html lang="en"
           .col-sm-2
             h3 Profile
           .col-sm-10
-            p.bigger A versatile, innovative, programme/portfolio delivery manager <!-- and <b>certified scrum master</b> -->with very strong technical and data skills, a passion for creative problem-solving and 15+ years delivering value for a range of organisations spanning bio-tech, government, automotive, banking/financial services, and advertising. 
-            
-            / p.bigger A data-savvy, highly technical digital strategist with a passion for service delivery, organisational transformation, and problem-solving spanning nearly twenty years of experience across a diverse range of industries including government, banking/financial services, media/publishing, and bio-tech. 
-            
-            p A natural servant-leader, I specialise in nurturing succssful agile teams, and transitioning organisations to a state of continuous delivery and improvement. I create strong internal communities of practice and create lasting positive change while rapidly delivering to the broader organisational context and strategy. 
-            
+            p.bigger A versatile, innovative, programme/portfolio delivery manager <!-- and <b>certified scrum master</b> -->with very strong technical and data skills, a passion for creative problem-solving and 15+ years delivering value for a range of organisations spanning bio-tech, government, automotive, banking/financial services, and advertising.
+
+            / p.bigger A data-savvy, highly technical digital strategist with a passion for service delivery, organisational transformation, and problem-solving spanning nearly twenty years of experience across a diverse range of industries including government, banking/financial services, media/publishing, and bio-tech.
+
+            p A natural servant-leader, I specialise in nurturing succssful agile teams, and transitioning organisations to a state of continuous delivery and improvement. I create strong internal communities of practice and create lasting positive change while rapidly delivering to the broader organisational context and strategy.
+
             / p A natural servant-leader, I create cross-functional high-performing teams and help them to <!--teams to explore and apply innovative managerial, strategic, and technical solutions to--> deliver outstanding digital products & services that delight customers and increase profitability. I create a culture of continuous, measurable improvement through careful critical thinking, strong interpersonal skills, and creative innovation. My strong goal-setting and strategic alignment skills (e.g. OKRs) combined with a relentless focus on commercial outcomes and financial responsibility (looking after budgets in excess of £150m) ensure outstanding results and highly engaged teams.
-            
-            / p I'm happy to roll up my sleeves and build my own tools or try new technologies and ways of working. I create strong internal communities of practice and nurture lasting positive change while rapidly understanding and delivering to the broader organisational context and strategy. 
-             
+
+            / p I'm happy to roll up my sleeves and build my own tools or try new technologies and ways of working. I create strong internal communities of practice and nurture lasting positive change while rapidly understanding and delivering to the broader organisational context and strategy.
+
             p I combine deep technical understanding with excellent communication and leadership skills to work with both in-house teams and external vendors locally and globally to deliver best-of-breed digital products which delight customers and help clients to succeed. Adept at providing robust, bespoke processes which minimise risk, navigate complex interdependent systems, and meet diverse requirements from multiple lines of business, often with competing agendas, while providing transparency and predictability throughout.
-            
+
             / p Possessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
-            
+
             / p I combine deep, hands-on technical expertise with excellent communication and leadership skills to influence and engage participants from individual contributors to senior stakeholders bringing about steady, measurable, constant improvement in complex, <!-- highly political --> dynamic environments. <!--plan and deliver varied programmes of work. Able to successfully harmonise project goals with a wider programme vision while engaging with external teams. -->
             / p <!--Skilled at using Lean/Agile metrics to improve processes, quality, and performance while supporting team members to keep everyone happily engaged.--> Posessing a naturally entrepreneurial mindset able to quickly devise and deliver innovative technological & managerial solutions to seemingly intractable problems.
-            
-            
+
+
         .row
           .col-sm-12
             hr
@@ -83,7 +83,7 @@ html lang="en"
                 li Continuous delivery
                 li Jira, Trello, Pivotal Tracker, etc.
                 li Ruby / Python / Java
-                li Rapid prototyping               
+                li Rapid prototyping
                 li Cloud infrastructure (AWS)
                 li Code as infrastructure
                 li Basic Linux DevOps
@@ -97,10 +97,10 @@ html lang="en"
                 li Behaviour Driven Dev (BDD)
                 li User Centred Design (UX)
                 li Source control (git)
-                li Service Oriented Architecture 
+                li Service Oriented Architecture
                 li HTML / CSS / javascript
 
-            
+
               li Lean / agile delivery
               li Portfolio / programme delivery
               li Nonviolent communication
@@ -135,7 +135,7 @@ html lang="en"
                 li Continuous delivery
                 li Jira, Trello, Pivotal Tracker, etc.
                 li Ruby / Python / Java
-                li Rapid prototyping               
+                li Rapid prototyping
                 li Cloud infrastructure (AWS)
                 li Code as infrastructure
                 li Basic Linux DevOps
@@ -143,17 +143,17 @@ html lang="en"
                 / li Agile governance
                 / li Digital service design
                 / li Agile / Lean coaching
-                / li Business planning & reporting              
-                / li Business transformation              
+                / li Business planning & reporting
+                / li Business transformation
                 li Workshopping / facilitation
                 / li Target operating model (TOM)
-                
+
                 / FINANCE
                 / NOTE THE INDENT to comment these out...
                   li Investment banking
                   li Forex (cash + options)
                   li Regulated Financial Services
-                
+
                 li Systems thinking, cynefin
                 / li Objectives & Key Results (OKRs)
                 li Matrix Management
@@ -178,7 +178,7 @@ html lang="en"
                 / li Digital Media Strategy
                 / li (Un) Structured data
                 li Source control (git)
-                li Service Oriented Architecture 
+                li Service Oriented Architecture
                 / li Legacy IT integration
                 / (SOA)
                 li HTML / CSS / javascript
@@ -195,10 +195,25 @@ html lang="en"
             h3 Experience
           .col-sm-10
             .job
+              h3 OKR Coach
+              / i.small (Contract)
+              h4 British Broadcasting Corporation (TV & Radio)
+              h5 Jun 2017 - present
+              p Coaching 10+ teams (100+ people) across TV & Radio including in adopting Objectives and Key Results
+              ul
+                li Holding various workshops and training sessions
+                li Engaging with iPlayer web & mobile, broadcast engineering, and others
+                li Developing an in-house centre of excellence and knowledge-base on OKRs
+                li Building bespoke tracking & reporting tools and configuring 3rd party ones
+                li Re-focusing programme governance structure around OKR delivery
+                li Working with finance to join up spending and delivery
+
+              p Tools & Techniques: Google Sheets w/ scripting, Ruby on Rails, Google Forms, Lean/Agile cost/benefit modelling, Salesforce, etc.
+            .job
               h3 Benefits Realisation Delivery Lead
               / i.small (Contract)
               h4 Government Digital Service (Cabinet Office, UK Government)
-              h5 Nov 2016 - April 2017
+              h5 Nov 2016 - Apr 2017
               p Within the Common Technology Services programme which is rolling out common technology solutions such as shared wifi, shared print, etc. with stronger commercial arrangements across government.
               ul
                 li Enabled delivery teams to use agile methodologies to deliver benefits via rapid, continuous iteration with increased transparency
@@ -210,9 +225,9 @@ html lang="en"
                 li Enabled real-time decision-making for stakeholders and contributors
                 li Clearly aligned strategy and delivery teams around concrete goals
                 li Dramatically streamlined internal planning/reporting process while improving transparency
-              
+
               p Tools & Techniques: Google Sheets w/ scripting, Ruby on Rails, Google Forms, Lean/Agile cost/benefit modelling, Salesforce, etc.
-                
+
             .job
               h3 Portfolio Delivery Manager
               / &amp;
@@ -221,7 +236,7 @@ html lang="en"
               h4 Government Digital Service (Cabinet Office, UK Government)
               h5 Jun 2015 - Nov 2016
               p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment diversity, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government and benefiting millions of citizens.
-              
+
               ul
                 / li Proposed and implemented change to support greater organisational agility
                 / li Enabled real-time business planning and reporting with no additional overhead
@@ -232,7 +247,7 @@ html lang="en"
                 li Streamlined business planning to make it light-weight, continuous, and real-time
                 li Introduced impact-mapping and Objectives and Key Results (OKRs)
                 li Created bespoke OKR tracking tool using <b>Ruby on Rails</b>
-              
+
               p Technologies: Google sheets w/ heavy scripting, Google Forms, Ruby on Rails, Hyperion, Anaplan, JavaScript, and more.
 
 
@@ -246,12 +261,12 @@ html lang="en"
               / The programme comprises an online platform, processes, policies, procurement frameworks, and services to enable government buyers to find, compare, and procure digital products and services from a wide range of suppliers with an emphasis on small and medium enterprises (SMEs).
 
               ul
-                li Active in daily delivery ceremonies (stand-ups, planning, retrospectives, etc). 
-                
-                li Managed multiple, complex stakeholder relationships 
-                
+                li Active in daily delivery ceremonies (stand-ups, planning, retrospectives, etc).
+
+                li Managed multiple, complex stakeholder relationships
+
                 li Coached teams in <b>agile methodologies</b>, business planning and reporting: resource management, road-mapping, benefits realisation, risk mitigation, stakeholder management
-                
+
                 li Oversaw a <b>~&pound;3M annual budget</b> for a 30+ person cross-functional team (spanning product design, user research, technology, procurement, engagement, support, legal, and analytics)
 
                 li Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring across GDS
@@ -264,19 +279,19 @@ html lang="en"
               / sup (freelance)
               h4 Pearson PLC
               h5 Jul 2013 - Nov 2014
-              p Successfully delivered two critical, at-risk programmes by transitioning from a dysfunctional waterfal to a high-functioning, lean/agile practice using Scrum, Lean, kanban, retrospectives, rapid prototyping, user testing, etc. 
-              
+              p Successfully delivered two critical, at-risk programmes by transitioning from a dysfunctional waterfal to a high-functioning, lean/agile practice using Scrum, Lean, kanban, retrospectives, rapid prototyping, user testing, etc.
+
               ul
                 li Turned stakeholders from sceptics to partners by improving efficacy, quality and time to market while reducing cost
                 li Demonstrated high customer satisfaction with real data
                 li Transitioned from legacy ITIL to modern DevOps culture
-                li Introduced BDD using Capybara, Cucumber, phantomJS, and more 
+                li Introduced BDD using Capybara, Cucumber, phantomJS, and more
                 li Delieverd complete redesign, rebuild, and platform migration of the <a href="https://qualifications.pearson.com" target="_blank">Pearson Qualifications</a> website (a £300M+ annual business with 60K+ pages and documents) from SharePoint to Adobe Experience Manager (CQ)
                 li Embedded lasting change: improved ways of working continue to deliver benefits today
                 li Delivered a real-time analytics platform using <b>Big Data</b> and <b>Machine Learning</b> to predict subscription renewal rates and identify at-risk clients
                 li Mentored senior stakeholders in lean/agile methodologies supporting wider digital transformation of the world's largest publishing company.
 
-              
+
               p <b>Technologies:</b> Single Sign on (Forgerock), Jira, Adobe CQ (Java), Solr, AngularJS, Apache, Jenkins, Cucumber (Ruby, Capybara, Poltergeist, PhantomJS), MySQL, CouchDB, MongoDB, Python/Flask, SOA/RESTful APIs
 
               /
@@ -293,7 +308,7 @@ html lang="en"
               / i.small (freelance)
               h4 American Express (via ustwo&trade;)
               h5 Nov 2012 - May 2013
-              p Managed front-end/UX delivery and coached technical and leadership teams at a Fortune 100 credit-card company to deliver a large-scare customer loyalty programme spanning 14 different partner organisations. 
+              p Managed front-end/UX delivery and coached technical and leadership teams at a Fortune 100 credit-card company to deliver a large-scare customer loyalty programme spanning 14 different partner organisations.
 
               ul
                 li Led agile ceremonies across multiple teams (50+ people)
@@ -419,9 +434,8 @@ html lang="en"
             hr
         .row.noprint.looking
           .col-sm-12
-            i 
-              | {{ $available_msg }} 
-              a href="/contact" Contact me now!
-        {{ end }} 
+            | {{ $available_msg | safeHTML}}
+            / a href="/contact" Contact me now!
+        {{ end }}
         .hidden-print
           {{ partial "footer" .}}
