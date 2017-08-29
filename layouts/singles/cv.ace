@@ -199,16 +199,16 @@ html lang="en"
               / i.small (Contract)
               h4 British Broadcasting Corporation (TV & Radio)
               h5 Jun 2017 - present
-              p Coaching 10+ teams (100+ people) across TV & Radio including in adopting Objectives and Key Results
+              p Coaching 15 teams (200+ people) across TV & Radio (including iPlayer) in adopting Objectives and Key Results
               ul
-                li Holding various workshops and training sessions
-                li Engaging with iPlayer web & mobile, broadcast engineering, and others
+                li Leading workshops and training sessions at all levels
+                / li Engaging with iPlayer web & mobile, broadcast engineering, and others
                 li Developing an in-house centre of excellence and knowledge-base on OKRs
                 li Building bespoke tracking & reporting tools and configuring 3rd party ones
                 li Re-focusing programme governance structure around OKR delivery
                 li Working with finance to join up spending and delivery
 
-              p Tools & Techniques: Google Sheets w/ scripting, Ruby on Rails, Google Forms, Lean/Agile cost/benefit modelling, Salesforce, etc.
+              p Tools & Techniques: Confluence, OKRs, Google Docs, Jira, Ruby on Rails, Docker, Vagrant, AWS, Cloud Formation, Postgres, etc.
             .job
               h3 Benefits Realisation Delivery Lead
               / i.small (Contract)
