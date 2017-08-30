@@ -208,7 +208,7 @@ html lang="en"
                 li Re-focusing programme governance structure around OKR delivery
                 li Working with finance to join up spending and delivery
 
-              p Tools & Techniques: Confluence, OKRs, Google Docs, Jira, Ruby on Rails, Docker, Vagrant, AWS, Cloud Formation, Postgres, etc.
+              p Tools & Techniques: Confluence, OKRs, Google Docs, Jira, Ruby on Rails, Cucumber, Docker, Vagrant, AWS, Cloud Formation, Postgres, etc.
             .job
               h3 Benefits Realisation Delivery Lead
               / i.small (Contract)
