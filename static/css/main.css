@@ -13,7 +13,7 @@
 
 /* e.g. inside a post */
 h1 {
-  font-size: 7rem; }
+  font-size: 6.5rem; }
 
 .main h2 {
   margin-top: 4rem;
@@ -27,11 +27,12 @@ h1 {
   line-height: 28px;
   margin-bottom: 25px; }
 .main .job p {
-  margin-bottom: 10px; }
+  margin-bottom: 0.5rem; }
 .main .job ul {
   margin-bottom: 10px; }
   .main .job ul li {
-    line-height: 28px;
+    line-height: 2.2rem;
+    font-size: 1.6rem;
     /*margin-bottom: 8px */ }
 
 .sidebar h2 {
@@ -55,7 +56,7 @@ h1 {
 
 hr {
   border-bottom: 1.2rem solid #000;
-  margin-bottom: 3rem; }
+  margin-bottom: 2rem; }
 
 .cv .col-sm-2 {
   margin-bottom: 3rem; }
@@ -70,14 +71,24 @@ hr {
   font-size: 2.5rem;
   margin-bottom: 2.5rem; }
 
+.cv .profile p.top {
+  font-size: 2.3rem;
+  line-height: 2.8rem; }
+.cv .profile p {
+  font-size: 1.8rem;
+  line-height: 2.5rem; }
 .cv h2, .cv h4, .cv h3 {
   margin-top: 0; }
 .cv h5 {
   margin-bottom: 2rem; }
 .cv p {
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  line-height: 2rem; }
 .cv .school {
-  margin-bottom: 2.5rem; }
+  margin-bottom: 2rem; }
+  .cv .school h5 {
+    margin-bottom: 1rem; }
 .cv .other {
   color: #555; }
 .cv p.tools {
@@ -94,7 +105,7 @@ ul.skills {
     float: left;
     margin: 0 0 1rem 0;
     list-style-type: none;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     width: 33%;
     display: block; }
 
@@ -103,7 +114,7 @@ ul.skills {
   display: inline-block; }
 
 .job {
-  margin-bottom: 40px; }
+  margin-bottom: 20px; }
 
 .blogdate {
   font-size: 1.5rem;
@@ -178,7 +189,7 @@ h4.nav {
   font-size: 2.5rem; }
 
 h4 {
-  font-size: 2rem; }
+  font-size: 1.8rem; }
 
 h4.capitalize {
   text-transform: capitalize; }

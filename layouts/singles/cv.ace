@@ -44,12 +44,12 @@ html lang="en"
         .row
           .col-sm-2
             h3 Profile
-          .col-sm-10
-            p.bigger A versatile, innovative, programme/portfolio delivery manager <!-- and <b>certified scrum master</b> -->with very strong technical and data skills, a passion for creative problem-solving and 15+ years delivering value for a range of organisations spanning bio-tech, government, automotive, banking/financial services, and advertising.
+          .col-sm-10.profile
+            p.top A versatile, innovative, programme/portfolio delivery manager <!-- and <b>certified scrum master</b> -->with very strong technical and data skills, a passion for creative problem-solving and 15+ years delivering value for a range of organisations spanning bio-tech, government, automotive, banking/financial services, and advertising.
 
             / p.bigger A data-savvy, highly technical digital strategist with a passion for service delivery, organisational transformation, and problem-solving spanning nearly twenty years of experience across a diverse range of industries including government, banking/financial services, media/publishing, and bio-tech.
 
-            p A natural servant-leader, I specialise in nurturing succssful agile teams, and transitioning organisations to a state of continuous delivery and improvement. I create strong internal communities of practice and create lasting positive change while rapidly delivering to the broader organisational context and strategy.
+            p A natural servant-leader, I specialise in helping digital product, service, operations, and finance teams to adopt lean/agile/kanban practices, thereby moving to a state of continuous delivery and improvement. I create strong internal communities of practice and create lasting positive change while rapidly delivering to the broader organisational context and strategy.
 
             / p A natural servant-leader, I create cross-functional high-performing teams and help them to <!--teams to explore and apply innovative managerial, strategic, and technical solutions to--> deliver outstanding digital products & services that delight customers and increase profitability. I create a culture of continuous, measurable improvement through careful critical thinking, strong interpersonal skills, and creative innovation. My strong goal-setting and strategic alignment skills (e.g. OKRs) combined with a relentless focus on commercial outcomes and financial responsibility (looking after budgets in excess of £150m) ensure outstanding results and highly engaged teams.
 
@@ -71,8 +71,9 @@ html lang="en"
             h3 Skills
           .col-sm-10
             ul.skills
-              / DWP Gig
+              / Gov Big-data Gig
                 li Lean/Agile Delivery
+                li Scrum / Kanban
                 li Portfolio/Programme Delivery
                 li Scrum &amp; kanban (CSM)
                 li Adaptive risk management
@@ -100,22 +101,43 @@ html lang="en"
                 li Service Oriented Architecture
                 li HTML / CSS / javascript
 
+              / financial services payment processing
 
+              li Kanban / Scrum
+              li Agile Budgeting <small>(Beyond Budgeting)</small>
               li Lean / agile delivery
               li Portfolio / programme delivery
-              li Nonviolent communication
+              / li Business planning
+              li Basic Accounting / finance
               li Stakeholder management
-              li Goal setting / strategy
-              li User centred design
+              li Goal setting / OKRs
+              li Target Operating Model (TOM)
+              / li User centred design
               li Risk management
-              li Budgeting / business planning
-              li Systems thinking / Cynefin
-              li Roadmapping & reporting
-              li Rapid prototyping
+              / li Systems thinking / Cynefin
+              li Reporting & governance
+              / li Rapid prototyping
               li Team leadership & motivation
-              li Accounting / finance
               li Product / service management
+              li Nonviolent communication
               li Ruby on Rails, HTML/JS/CSS
+
+              /
+                li Lean / agile delivery
+                li Portfolio / programme delivery
+                li Nonviolent communication
+                li Stakeholder management
+                li Goal setting / strategy
+                li User centred design
+                li Risk management
+                li Budgeting / business planning
+                li Systems thinking / Cynefin
+                li Roadmapping & reporting
+                li Rapid prototyping
+                li Team leadership & motivation
+                li Accounting / finance
+                li Product / service management
+                li Ruby on Rails, HTML/JS/CSS
 
 
               /
@@ -195,18 +217,19 @@ html lang="en"
             h3 Experience
           .col-sm-10
             .job
-              h3 OKR Coach
+              h3 Agile / OKR Coach
               / i.small (Contract)
               h4 British Broadcasting Corporation (TV & Radio)
               h5 Jun 2017 - present
               p Coaching 15 teams (200+ people) across TV & Radio (including iPlayer) in adopting Objectives and Key Results
               ul
+                li Introducing lean/kanban flow models for delivery
+                li Mentoring finance teams to join up spending and delivery
                 li Leading workshops and training sessions at all levels
                 / li Engaging with iPlayer web & mobile, broadcast engineering, and others
-                li Developing an in-house centre of excellence and knowledge-base on OKRs
-                li Building bespoke tracking & reporting tools and configuring 3rd party ones
-                li Re-focusing programme governance structure around OKR delivery
-                li Working with finance to join up spending and delivery
+                / li Developing an in-house centre of excellence and knowledge-base on OKRs
+                li Building bespoke tracking tools
+                / li Adjusting programme governance
 
               p Tools & Techniques: Confluence, OKRs, Google Docs, Jira, Ruby on Rails, Cucumber, Docker, Vagrant, AWS, Cloud Formation, Postgres, etc.
             .job
@@ -216,14 +239,14 @@ html lang="en"
               h5 Nov 2016 - Apr 2017
               p Within the Common Technology Services programme which is rolling out common technology solutions such as shared wifi, shared print, etc. with stronger commercial arrangements across government.
               ul
-                li Enabled delivery teams to use agile methodologies to deliver benefits via rapid, continuous iteration with increased transparency
                 li  Developed a robust, flexible and simple processes to roadmap and realise £1.5bn+ in cashable benefits over 10 years
-                li Built bespoke contract analysis/management tool (Ruby)
+                li Coached delivery teams in agile <b>(kanban)</b> methods to deliver benefits via rapid, continuous iteration
+                li Built bespoke contract analysis/management and forecasting system (Ruby)
                 / li Provided business case input via new benefits data/models
                 / li worked closely with economics team to define economic models
-                li Used Ruby on Rails to build bespoke forecasting and tracking tools
-                li Enabled real-time decision-making for stakeholders and contributors
-                li Clearly aligned strategy and delivery teams around concrete goals
+                / li Used Ruby on Rails to build bespoke forecasting and tracking tools
+                / li Enabled real-time decision-making for stakeholders and contributors
+                / li Clearly aligned strategy and delivery teams around concrete goals
                 li Dramatically streamlined internal planning/reporting process while improving transparency
 
               p Tools & Techniques: Google Sheets w/ scripting, Ruby on Rails, Google Forms, Lean/Agile cost/benefit modelling, Salesforce, etc.
@@ -235,15 +258,15 @@ html lang="en"
               / i.small (Contract)
               h4 Government Digital Service (Cabinet Office, UK Government)
               h5 Jun 2015 - Nov 2016
-              p Through close engagement with finance, people, and delivery teams combined with strong technical ability I added significant operational agility to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment diversity, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government and benefiting millions of citizens.
+              p Close engagement with finance, people, and delivery teams combined with strong technical ability added significant operational agility and data-driven, real-time decision-making around a <b>£500m change portfolio</b>. <!--to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment diversity, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government and benefiting millions of citizens.-->
 
               ul
                 / li Proposed and implemented change to support greater organisational agility
-                / li Enabled real-time business planning and reporting with no additional overhead
+                li Enabled real-time business planning and reporting with no additional overhead
                 li Replaced complex, inflexible vendor ERP solution with bespoke BI platform
                 li <b>Saved £100k+</b> while improving accuracy, engagement, and user satisfaction
                 li Reduced reporting cycles from quarterly to monthly
-                li Upskilled non-technical internal team to deliver internal digital tools, processes and services to ensure ongoing improvement
+                / li Upskilled non-technical internal team to deliver internal digital tools, processes and services to ensure ongoing improvement
                 li Streamlined business planning to make it light-weight, continuous, and real-time
                 li Introduced impact-mapping and Objectives and Key Results (OKRs)
                 li Created bespoke OKR tracking tool using <b>Ruby on Rails</b>
@@ -256,18 +279,17 @@ html lang="en"
               /  i.small (freelance)
               h4 Government Digital Service (Cabinet Office, HM Government)
               h5 Nov 2014 - Jun 2015
-              p Responsible for delivering the <a href="https://www.digitalmarketplace.service.gov.uk/" target="_blank">Digital Marketplace</a>, a revolutionary programme (comprising an online platform, legal &amp; commercial frameworks, and customer support) transforming how the government buys digital. <a href="https://www.gov.uk/performance/g-cloud" target="_blank">G-Cloud sales</a> alone circa £1.4B as of July 2016.
+              p Delivered the <a href="https://www.digitalmarketplace.service.gov.uk/" target="_blank">Digital Marketplace</a>, a revolutionary programme (comprising a submission/search/commissioning platform,legal &amp; commercial frameworks, and customer support) transforming how the government buys digital.
 
               / The programme comprises an online platform, processes, policies, procurement frameworks, and services to enable government buyers to find, compare, and procure digital products and services from a wide range of suppliers with an emphasis on small and medium enterprises (SMEs).
 
               ul
-                li Active in daily delivery ceremonies (stand-ups, planning, retrospectives, etc).
-
+                li <a href="https://www.gov.uk/government/statistical-data-sets/g-cloud-framework-sales-up-to-31-july-2017" target="_blank">G-Cloud sales</a> £2.4B+ as of Aug 2017
+                li Facilitated delivery ceremonies (stand-ups, planning, retrospectives, etc)
                 li Managed multiple, complex stakeholder relationships
+                li Coached teams in <b>agile methodologies</b>, scrum/<b>kanban</b>, business planning and reporting: resource management, road-mapping, benefits realisation, risk mitigation, stakeholder management
 
-                li Coached teams in <b>agile methodologies</b>, business planning and reporting: resource management, road-mapping, benefits realisation, risk mitigation, stakeholder management
-
-                li Oversaw a <b>~&pound;3M annual budget</b> for a 30+ person cross-functional team (spanning product design, user research, technology, procurement, engagement, support, legal, and analytics)
+                li Direct management of <b>~&pound;3m annual budget</b> for a 30+ person team (product design, user research, engineering, QA, procurement, engagement, support, legal, and analytics)
 
                 li Active participant in the Agile delivery community at GDS providing coaching, training, and mentoring across GDS
 
@@ -282,14 +304,16 @@ html lang="en"
               p Successfully delivered two critical, at-risk programmes by transitioning from a dysfunctional waterfal to a high-functioning, lean/agile practice using Scrum, Lean, kanban, retrospectives, rapid prototyping, user testing, etc.
 
               ul
-                li Turned stakeholders from sceptics to partners by improving efficacy, quality and time to market while reducing cost
-                li Demonstrated high customer satisfaction with real data
+                li Coached teams and stakeholders in scrum & <b>kanban</b> methods
+                / li Turned stakeholders from sceptics to partners by improving efficacy, quality and time to market while reducing cost
+                / li Demonstrated high customer satisfaction with real data
                 li Transitioned from legacy ITIL to modern DevOps culture
-                li Introduced BDD using Capybara, Cucumber, phantomJS, and more
-                li Delieverd complete redesign, rebuild, and platform migration of the <a href="https://qualifications.pearson.com" target="_blank">Pearson Qualifications</a> website (a £300M+ annual business with 60K+ pages and documents) from SharePoint to Adobe Experience Manager (CQ)
-                li Embedded lasting change: improved ways of working continue to deliver benefits today
-                li Delivered a real-time analytics platform using <b>Big Data</b> and <b>Machine Learning</b> to predict subscription renewal rates and identify at-risk clients
-                li Mentored senior stakeholders in lean/agile methodologies supporting wider digital transformation of the world's largest publishing company.
+                li Introduced BDD via Capybara, Cucumber, phantomJS, Jenkins
+                li Delivered complete redesign, rebuild, and platform migration of the <a href="https://qualifications.pearson.com" target="_blank">Pearson Qualifications</a> website (a <b>£300M+</b> annual business with 60K+ pages and documents) from SharePoint to Adobe Experience Manager (CQ)
+                / li Embedded lasting change: improved ways of working continue to deliver benefits today
+                li Lasting change to delivery methodologies
+                li Delivered a real-time analytics platform using <b>Big Data</b> and <b>Machine Learning</b> to predict subscription renewal rates and remove risk
+                / li Mentored senior stakeholders in lean/agile methodologies supporting wider digital transformation of the world's largest publishing company.
 
 
               p <b>Technologies:</b> Single Sign on (Forgerock), Jira, Adobe CQ (Java), Solr, AngularJS, Apache, Jenkins, Cucumber (Ruby, Capybara, Poltergeist, PhantomJS), MySQL, CouchDB, MongoDB, Python/Flask, SOA/RESTful APIs
@@ -306,17 +330,16 @@ html lang="en"
             .job
               h3 Delivery Manager | Agile Coach
               / i.small (freelance)
-              h4 American Express (via ustwo&trade;)
+              h4 American Express (via ustwo)
               h5 Nov 2012 - May 2013
               p Managed front-end/UX delivery and coached technical and leadership teams at a Fortune 100 credit-card company to deliver a large-scare customer loyalty programme spanning 14 different partner organisations.
 
               ul
-                li Led agile ceremonies across multiple teams (50+ people)
+                li Led agile ceremonies and coached in scrum/<b>kanban</b> methods across multiple teams (50+ people)
                 li Responsive Web, iOS, and Android
-                li Multi-million dollar programme of work
-                li Global programme with teams in London, Boston, New York, India, Germany, and Phoenix
+                li Multi-million dollar global programme with teams in 4 countries and 6 timezones
                 li Targeting 50 million households at launch
-                li Delivered on time with terrific reception
+                / li Delivered on time with terrific reception
 
               /
                 ul
@@ -347,7 +370,7 @@ html lang="en"
             .job
               h3 Delivery Manager
               / sup (freelance)
-              h4 Credit Suisse (via ustwo&trade;)
+              h4 Credit Suisse (via ustwo)
               h5 Aug 2010 - Aug 2011
               p Managed front-end design and delivery of <!--of interaction designers, visual designers, and front-end developers--> an award-winning <b>Fixed Income (forex)</b> Single Dealer Platform (SDP) for a <b>global Tier 1 investment bank</b> including support for <b>cash, options, and algorithmic trading.</b> Worked with multiple stake-holders across various lines of business including client services, product management, and information technology. Introduced bespoke agile design process within the bank's legacy SDLC. Employed <b>JIRA, Confluence, OmniPlan, OmniFocus, Axure, Nirvana, Java EE, XAML, Silverlight, HTML, CSS, and Javascript.</b>
               /
@@ -357,21 +380,21 @@ html lang="en"
             .job
               h3 Delivery Manager
               / sup (freelance)
-              h4 Cellnovo (via ustwo&trade;)
+              h4 Cellnovo (via ustwo)
               h5 Dec 2009 - Aug 2010
               p Managed delivery of a ground-breaking wireless web-enabled insulin pump with touch-screen UI (requiring CE Mark and EN-60601-1 compliant embedded software). Reported directly to Chief Executive Officer and liaised with in-house and vendor teams in London, Winchester, Poland, and Wales. Applied agile methods to create a robust engineering, UX, and defect management processes prior to arrival of VP of engineering. Routinely met with investors and board members. <b>OmniGraffle, SpiraTeam, OmniPlan, C++, ANT-RF, GSM, ActionScript, WinCE, HaXe. <!--Agile methodologies included unit testing, continuous integration, user story creation and refinement, sprints, agile retrospectives and sprint planning.--></b>
 
             .job
-              h3 Owner, Director of Technology
+              h3 Owner, Managing Director (Technology)
               h4 Design Commission, Inc.
               h5 Sep 2006 - Aug 2009
-              p Managing Director/Owner of a <b>full-service digital design and development agency</b>. Increased revenue 350% and grew headcount from 2 to 12 people. Responsibile for corporate strategy, account management, business development, forecasting and budgeting, employee development and retention, project management, technical delivery, user experience, information architecture and vendor management. <b>Ruby on Rails, PHP, jQuery, JavaScript, HTML, WordPress, ActionScript, Flash, Agile/Scrum, BaseCamp, Lighthouse, Rally, OmniFocus, OmniGraffle, GTD, Harvest, QuickBooks, MS Office, Google Analytics, Omniture, TextMate, MySQL.</b>
+              p <b>Full-service design and development agency</b>. 3.5x revenue and 6x headcount growth. Delivered corporate strategy, account management, biz-dev, forecasting/budgeting, employee development/retention, project management, technical delivery, UX, IA and vendor management. <b>Ruby on Rails, PHP, jQuery, JavaScript, HTML, WordPress, ActionScript, Flash, Agile/Scrum, BaseCamp, Rally, OmniFocus, OmniGraffle, GTD, Harvest, QuickBooks, Google Analytics, Omniture, TextMate, MySQL.</b>
 
             .job
               h3 Founder / CTO
               h4 Boom Bucket Mobile
               h5 Sep 2005 - Aug 2010
-              p Founder and CTO of a <b>mobile content</b> start-up. Built <b>digital asset management</b> platform for ingesting, cataloging, showcasing, distributing, and reporting on thousands of mobile wallpapers and ringtones. Also responsible for <b>business development and marketing</b> including the company's 2006 launch at <i>Mobile World Congress</i> in Barcelona Spain. <b>HTML, ActionScript, JavaScript, PHP, and MySQL.</b>
+              p <b>Mobile content</b> start-up. Built <b>digital asset management</b> platform for ingesting, cataloging, marketing, distributing, and reporting royalties on thousands of wallpapers and ringtones. Responsible for <b>business development and marketing</b> launching at <i>2006 Mobile World Congress</i> in Barcelona. <b>HTML, ActionScript, JavaScript, PHP, and MySQL.</b>
 
             /
               .job
@@ -383,7 +406,7 @@ html lang="en"
               h3 Senior Producer
               h4 Corbis, Inc.
               h5 Feb 2000 - May 2006
-              p Managed technical delivery of new Corbis Motion e-licensing platform and multiple online marketing campaigns. Designed, built, and deployed a Perl-based <b>content management and localisation product</b> enabling localised delivery of an E-Commerce platform with $13M annual turn-over to five markets in under two weeks. <b>Flash, ActionScript, ASP.NET, SQLServer, Perl, HTML, and JavaScript.</b>
+              p Delivered new Corbis Motion e-licensing platform and multiple online marketing campaigns. Designed, built, and deployed Perl-based <b>CMS and localisation engine</b> enabling localisation of an E-commerce platform with $13M annual revenue to five markets in under two weeks. <b>Flash, ActionScript, ASP.NET, SQLServer, Perl, HTML, and JavaScript.</b>
 
             .job
               h4.other Additional experience available upon request
@@ -413,7 +436,7 @@ html lang="en"
             .school
               h4 University of Colorado at Boulder, USA
               h5 Bachelor of Arts in Environmental Design (Architecture) &mdash; <strong>3.75 GPA</strong>
-              h6 Additional coursework in computer science
+              p Additional coursework in computer science
             .school
               h4 Rhode Island School of Design, USA
               h5 European Honors Program (EHP) Art History/Architecture studio &mdash; <b>4.0 GPA</b>
