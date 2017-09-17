@@ -1,0 +1,21 @@
+= doctype html
+html lang="en"
+  {{ partial "header" .}}
+  body
+    .container.home
+      h1.name Peter Kappus
+      hr
+      h2 404
+      p Alas, there's nothing interesting at this URL. Try one of the following:
+      hr
+      h2
+        a href="/" Home
+      h2
+        a href="/cv" Consulting
+      h2.subheaded
+        a href="/blog" Blog
+      h2
+        a href="/music" Music
+      h2
+        a href="/art" Art
+      {{ partial "footer" .}}
