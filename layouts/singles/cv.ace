@@ -1,5 +1,5 @@
 = doctype html
-{{ $available_msg := "Available from <b>November 2017</b> for interim roles in central London." }}
+{{ $available_msg := "Available from <b>April 2018</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 html lang="en"
