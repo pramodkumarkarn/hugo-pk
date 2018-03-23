@@ -1,5 +1,5 @@
 = doctype html
-{{ $available_msg := "Available from <b>April 2018</b> for interim roles in central London." }}
+{{ $available_msg := "Available from <b>June 2018</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 html lang="en"
@@ -45,11 +45,11 @@ html lang="en"
           .col-sm-2
             h3 Profile
           .col-sm-10.profile
-            p.top A versatile, innovative, programme/portfolio delivery manager <!-- and <b>certified scrum master</b> -->with very strong technical and data skills, a passion for creative problem-solving and 15+ years delivering value for a range of organisations spanning bio-tech, government, automotive, banking/financial services, and advertising.
+            p.top A versatile, innovative, programme/portfolio delivery manager and agile/OKR coach <!-- and <b>certified scrum master</b> -->with very strong technical and data skills, a passion for creative problem-solving, and 15+ years of experience <!--delivering value for a range of organisations--> spanning financial services, media, government, bio-tech, advertising, and more.
 
             / p.bigger A data-savvy, highly technical digital strategist with a passion for service delivery, organisational transformation, and problem-solving spanning nearly twenty years of experience across a diverse range of industries including government, banking/financial services, media/publishing, and bio-tech.
 
-            p A natural servant-leader, I specialise in helping product and finance teams to adopt lean/agile/kanban practices, thereby moving to a state of continuous delivery and improvement. I create strong internal communities of practice and drive lasting positive change while rapidly delivering to the broader organisational context and strategy.
+            p A natural servant-leader, I specialise in helping product and finance teams to adopt lean/agile/kanban practices and move to a state of continuous delivery and improvement. I create strong internal communities of practice and drive lasting positive change while rapidly delivering to the broader organisational context and strategy.
 
             / p A natural servant-leader, I create cross-functional high-performing teams and help them to <!--teams to explore and apply innovative managerial, strategic, and technical solutions to--> deliver outstanding digital products & services that delight customers and increase profitability. I create a culture of continuous, measurable improvement through careful critical thinking, strong interpersonal skills, and creative innovation. My strong goal-setting and strategic alignment skills (e.g. OKRs) combined with a relentless focus on commercial outcomes and financial responsibility (looking after budgets in excess of £150m) ensure outstanding results and highly engaged teams.
 
@@ -68,7 +68,7 @@ html lang="en"
             hr
         .row
           .col-sm-2
-            h3 Skills
+            h3 Delivery Skills
           .col-sm-10
             ul.skills
               / Gov Big-data Gig
@@ -103,9 +103,9 @@ html lang="en"
 
               / financial services payment processing
 
+              li Lean / agile coaching & delivery
               li Kanban / Scrum
               li Agile Budgeting <small>(Beyond Budgeting)</small>
-              li Lean / agile delivery
               li Portfolio / programme delivery
               / li Business planning
               li Basic Accounting / finance
@@ -114,13 +114,15 @@ html lang="en"
               li Target Operating Model (TOM)
               / li User centred design
               li Risk management
+              li Communities of practice
+              li Jira / Trello / Post-it Notes
               / li Systems thinking / Cynefin
               li Reporting & governance
               / li Rapid prototyping
               li Team leadership & motivation
               li Product / service management
               li Nonviolent communication
-              li Ruby on Rails, HTML/JS/CSS
+              / li Ruby on Rails, HTML/JS/CSS
 
               /
                 li Lean / agile delivery
@@ -137,7 +139,7 @@ html lang="en"
                 li Team leadership & motivation
                 li Accounting / finance
                 li Product / service management
-                li Ruby on Rails, HTML/JS/CSS
+                / li Ruby on Rails, HTML/JS/CSS
 
 
               /
@@ -207,7 +209,25 @@ html lang="en"
                 / li.noline HAML / Sass / Slim
                 / li GDS Service Manual
                 / li GDS Service Assessment
-
+        /
+        .row
+          .col-sm-12
+            hr
+        .row
+          .col-sm-2
+            h3 Technical Skills
+          .col-sm-10
+            ul.skills
+              li Java / Maven / Tomcat
+              li Ruby on Rails
+              li Docker
+              li AWS Cloud infrastructure
+              li Continuous integration (Jenkins)
+              li Linux DevOps
+              li Git & Github
+              li Maven/Tomcat
+              / li Google Apps
+              li BDD / Cucumber
         .row
           .col-sm-12
             hr

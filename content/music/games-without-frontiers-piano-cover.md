@@ -3,7 +3,6 @@ title: Games Without Frontiers
 sub-title: Piano Cover
 author: p3trk
 date: 2012-02-22
-url: /music/games-without-frontiers-piano-cover
 sgt_slide:
   - on
 categories:
