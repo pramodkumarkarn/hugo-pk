@@ -231,7 +231,7 @@ html lang="en"
         .row
           .col-sm-12
             hr
-        .page-break
+        / .page-break
         .row
           .col-sm-2
             h3 Experience
@@ -243,12 +243,13 @@ html lang="en"
               h5 Jun 2017 - present
               p Coaching 15 teams (200+ people) across TV & Radio (including iPlayer) in adopting Objectives and Key Results
               ul
-                li Introducing lean/kanban flow models for delivery
-                li Mentoring finance teams to join up spending and delivery
+                li Consulting on wider portfolio transformation efforts
                 li Leading workshops and training sessions at all levels
                 / li Engaging with iPlayer web & mobile, broadcast engineering, and others
                 / li Developing an in-house centre of excellence and knowledge-base on OKRs
-                li Building bespoke tracking tools
+                li Designing and building bespoke reporting tools
+                li Introducing lean/kanban flow models for delivery
+                li Mentoring finance teams to join up spending and delivery
                 / li Adjusting programme governance
 
               p Tools & Techniques: Confluence, OKRs, Google Docs, Jira, Ruby on Rails, Cucumber, Docker, Vagrant, AWS, Cloud Formation, Postgres, etc.
