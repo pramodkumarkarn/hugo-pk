@@ -8,4 +8,4 @@ categories:
 ---
 Imagine a long late afternoon drive in mid-autumn; a chill in the air as dry leaves fall on country roads; an orange sun slowly sinking behind the hills.
 
-<small>Photo by Nicholas T: <a href="http://bit.ly/tD7RWw" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://bit.ly']);" rel="nofollow" target="_blank">http://bit.ly/tD7RWw</a></small>
+<small>Photo by <a href="http://bit.ly/tD7RWw" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://bit.ly']);" rel="nofollow" target="_blank">Nicholas Tonelli</a></small>

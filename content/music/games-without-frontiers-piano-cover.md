@@ -5,10 +5,6 @@ author: p3trk
 date: 2012-02-22
 sgt_slide:
   - on
-categories:
-  - Music
-type: music
-layout: art
 cover: peter_gabriel.jpg
 ---
 An improvised piano cover of Peter Gabriel&#8217;s &#8220;Games Without Frontiers&#8221;. Originally submitted as part of a <a href="http://www.indabamusic.com/opportunities/remix-peter-gabriel/submissions/21033" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.indabamusic.com']);">remix contest at Indaba Music</a>, this track came in 45th out of more than 500 submissions.
