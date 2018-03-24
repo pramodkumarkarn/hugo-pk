@@ -3,4 +3,5 @@ languageCode: en-us
 permalinks:
   blog: /blog/:title/
 pluralizelisttitles: "false"
+enableEmoji: true
 ...

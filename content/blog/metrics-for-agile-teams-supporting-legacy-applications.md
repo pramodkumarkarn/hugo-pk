@@ -1,7 +1,7 @@
 ---
 author: p3trk
 cover: Picture-3.jpg
-date: 2018-03-25
+date: 2018-03-20
 title: Metrics for Agile Teams Supporting Legacy Applications
 categories:
   - Blog
@@ -29,8 +29,8 @@ How often do we complete a successful release? By dividing the number days betwe
 ### Release success rate
 It can also be useful to look at rolled back releases or "release attempts”. Divide the number of successful releases by the total number of attempts to get your success rate. As before, do we have a shared understanding of the criteria for cancelling or rolling back a release?
 
-### User-facing points per sprint
-Ideally, your definition of done ends with features being deployed to production at the end of each sprint. This isn’t always possible. You may also have a number of technical tasks in the backlog which don’t directly contribute to user-facing stories (e.g. infrastructure improvements, minor hot-fixes, build-process automation, etc). Therefore, rather than simply measuring how many points get “burned down”, we want to ask “What’s the average number of user-facing story points deployed to production each sprint?" Even if we're releasing stories completed in previous sprints, this metric will keep us focused on shipping more of our work, more regularly.
+### User-facing points released per sprint
+In a perfect world, "done" means "live" and every completed user story gets released by the end of each sprint. This isn’t always possible. Legacy apps often have lots of ad-hoc technical tasks which don't specifically relate to new features (e.g. infrastructure tweaks, tech-debt, hot-fixes, documentation, build automation, etc). These tasks should (eventually) result in more business value being delivered. By looking at the average number of user-facing story points deployed to production each sprint (even if they were "completed" but not released in previous sprints) we stay conscious of how much user value we're actually shipping.
 
 ### Unplanned Work (Emergencies)
 How many story points of unplanned "showstopper" work are getting introduced into each running sprint? Without automated tests and monitoring tools in place, we're relying on users to tell us what's broken. This is far from ideal. However, by embracing this metric, we can see how much time our defects are costing us and, hopefully, justify a greater investment in preventing defects from making it to production.
