@@ -9,7 +9,7 @@ categories:
   - Art
 cover: abstraktor2.jpg
 ---
-Playing at the edges of mathematics, science, and design, ABSTRAKTOR is a vaguely authoritarian, non-gendered non-denominational art collective looking to embrac
+Playing at the edges of mathematics, science, and design, ABSTRAKTOR is a vaguely authoritarian, non-gendered non-denominational art collective.
 
 Since 2012, ABSTRAKTOR has attempted to capture the complex rhythms, and chaotic beauty of the natural world using basic geometry and simple mathematical rules.
 
