@@ -68,7 +68,7 @@ html lang="en"
             hr
         .row
           .col-sm-2
-            h3 Delivery Skills
+            h3 Skills
           .col-sm-10
             ul.skills
               / Gov Big-data Gig
@@ -210,24 +210,25 @@ html lang="en"
                 / li GDS Service Manual
                 / li GDS Service Assessment
         /
-        .row
-          .col-sm-12
-            hr
-        .row
-          .col-sm-2
-            h3 Technical Skills
-          .col-sm-10
-            ul.skills
-              li Java / Maven / Tomcat
-              li Ruby on Rails
-              li Docker
-              li AWS Cloud infrastructure
-              li Continuous integration (Jenkins)
-              li Linux DevOps
-              li Git & Github
-              li Maven/Tomcat
-              / li Google Apps
-              li BDD / Cucumber
+          .row
+            .col-sm-12
+              hr
+          .row
+            .col-sm-2
+              h3 Technical Skills
+            .col-sm-10
+              ul.skills
+                li Java / Maven / Tomcat
+                li HTML/CSS/JavaScript (Bootstrap, jQuery)
+                li Ruby on Rails, Slim
+                li Docker
+                li AWS Cloud infrastructure
+                li Continuous integration (Jenkins)
+                li Linux DevOps
+                li Git & Github
+                li Maven/Tomcat
+                / li Google Apps
+                li BDD / Cucumber
         .row
           .col-sm-12
             hr
@@ -237,7 +238,22 @@ html lang="en"
             h3 Experience
           .col-sm-10
             .job
-              h3 Agile / OKR Coach
+              h3 Agile Coach / Delivery Manager
+              / i.small (Contract)
+              h4 British Broadcasting Corporation - Proteus Team
+              h5 Nov 2017 - present
+              p Delivering the platform which enables commissioning and scheduling of every second of audio played out on BBC Radio including meta-data data for tens of millions of episodes and transmissions covering over 90 years of outstanding radio programming.
+              ul
+                li Moved code from SVN to github
+                li Improved release cadence from 6 months to 21 days
+                li Introduced automated UI testing
+                li Enabled team to migrate from Team City to Jenkins and develop a complete CI tooling solution
+                li Enabled transition from a monolithic legacy app to a series of RESTful API-based micro-services
+                li Enabled transition from legacy JS frameworks to ReactJS components
+
+              p Tools & Techniques: Confluence, Scrum, Kanban, BDD, Jira, Java, Spring, Struts, Hibernate, ReactJS, Cucumber, Docker, AWS, etc.
+            .job
+              h3 Agile / OKR Coach / Portfolio consultant
               / i.small (Contract)
               h4 British Broadcasting Corporation (TV & Radio)
               h5 Jun 2017 - present

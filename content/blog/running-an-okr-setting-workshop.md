@@ -2,6 +2,7 @@
 cover: workshop.jpg
 title: Running an OKR setting workshop
 date: 23 Mar 2018
+draft: true
 ---
 
 Over the past year, I’ve been helping dozens of teams at a large media organisation to adopt OKRs. A major part of this has been facilitating OKR-setting workshops and teaching others to facilitate them. <!--Part of this role has involved running lots of OKR setting (and reviewing) workshops and helping teams to run their own workshops in the future. I thought it would be useful to jot down some thoughts on how I’ve been running these workshops for single teams and multiple teams together. --> Here's how I've been doing them. Much of this is adapted from [Christina Wodtke’s](http://eleganthack.com/) book [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028/). <!--neatly summarised by my brilliant colleague [Nora Bereczkei](https://uk.linkedin.com/in/norabereczkei).-->
@@ -46,7 +47,7 @@ Take a look at your beautiful, newly drafted OKRs.
   - Are they easy to measure?
   - Are they results and not "tasks"?
   - Are they tough and inspiring?
-3. Are you happy to base your team's success on reaching 70-90% of these in these quarter (and nothing else)?
+3. Are you happy to measure your team's success this quarter based on reaching 70-90% of these goals (and nothing else)?
 
 ## Share, tweak, and commit
-If you've answered "yes" to most of the above, they're ready to show to other teams stakeholders for feedback. This is your chance to align OKRs across the organisation. You might discover that you need to tweak some of the language or the targets themselves. You may have missed something major or included something which other parts of your organisation didn't expect. Spend a couple of weeks debating further with other teams and stakeholders until you're ready to commit to these and dive in!
+If you've answered "yes" to most of the above, they're ready to show to other teams and stakeholders for feedback. This is your chance to gather valuable feedback, give feedback to others and generally align your goals across the entire organisation. You might discover that you need to tweak some of the language or the targets themselves. You may have missed something major or included something which other parts of your organisation didn't expect or is already doing. Spend a couple of weeks debating further within your team and across other teams and stakeholders until you're ready to commit and start delivering!
