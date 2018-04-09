@@ -56,7 +56,7 @@ Look at that crisp, beautifully crafted OKR. Exciting, isn't it? Before you run 
 3. Are you happy to measure your team's success this quarter based on reaching 70-90% of this goal (and nothing else)?
 
 ## Share, align, and clarify
-If you've answered "yes" to most of the above, they're ready to show to other teams and stakeholders for feedback. This is your chance to gather valuable feedback, give feedback to others and generally align your goals across the entire organisation. You might discover that you need to tweak some of the language or the targets themselves. You may have missed something major or included something which other parts of your organisation didn't expect or is already doing. Spend a couple of weeks debating further within your team and across other teams and stakeholders to achieve precise alignment and crystal clear language. Remember to disagree and commit at scale if necessary. Warning: this is easier said than done!
+If you've answered "yes" to most of the above, they're ready to show to other teams and stakeholders for feedback. This is your chance to gather valuable feedback, give feedback to others and generally align your goals across the entire organisation. You might discover that you need to tweak some of the language or the targets themselves. You may have missed something major or included something which another part of your organisation didn't expect or is already doing. Spend a couple of weeks debating further within your team, across teams, and with other stakeholders to achieve precise alignment and crystal clear language. Remember to disagree and commit at scale if necessary. Warning: this is easier said than done!
 
 
 ## Summary
