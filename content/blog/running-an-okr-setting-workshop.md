@@ -21,7 +21,7 @@ Set aside about 4 hours to run the session. If you really focus, you can do it i
 It can be helpful to check in and create a bit of space at the start of the session. I usually do this by asking everyone to take a few deep breaths on their own. This can really help to centre the group.
 
 ### Pick the objective(s)
-To begin, put each objective on a sticky note on the wall. Do some affinity mapping: put similar objectives adjacent to each other and duplicates on top of each other. Debate, [dot-vote](https://en.wikipedia.org/wiki/Dot-voting), and debate some more until you determine your top objective (or two or three if you must :grimacing:).
+To begin, put each objective on a sticky note on the wall. Do some affinity mapping: put similar objectives adjacent to each other and duplicates on top of each other. Debate, [dot-vote](https://en.wikipedia.org/wiki/Dot-voting), and debate some more until you determine your top objective (or two or three if you must :grimacing:).
 
 ### Pick some metrics
 Now that you have a single, inspiring, important, scary objective (or maybe two or three if), it’s time to figure out what metrics will show that you’re getting closer to achieving this thing. Spend 5-10 minutes free listing as many metrics as you can think of but using place holders for specific targets.
