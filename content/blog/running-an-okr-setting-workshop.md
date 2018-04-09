@@ -38,18 +38,18 @@ Once you've agreed the right metrics for your objectives, it's time to set some 
 Remember that Key Results should be a little scary. If the team has a metric to track "Unique synth models played this quarter" then the Key result might look like "Play X different synth models this quarter". Setting X to 3 might not be very challenging. I could probably nail that with one trip to the music shop. Setting it to 100, however, might be unrealistic and demotivating. The challenge is to find a number that feels scary but which kickstarts our creative thinking for how we can meet the target. Maybe it's 10 or 20 or 50... Discuss each metric with the team until you've identified the right targets to make each one feel like an exciting and useful challenge. Remember that on day one, you should feel like you have about 50% confidence in achieving each Key Result.
 
 ## Disagree and commit
-One more thing... it's okay to disagree! It's okay to have a different viewpoint and a backbone to express it with. It is *NOT* okay to let that viewpoint prevent you (or the team) from committing to a clear course of action. Use the OKR workshop to explain your position as precisely, fully, and openly as you can. At the same time, commit to really hearing the viewpoints of others. Then get out of the way and make the best decision you can and commit to it.
+One more thing... it's okay to disagree! It's okay to have a different viewpoint and enough backbone to express it. It is *NOT* okay to let that viewpoint prevent you (or the team) from committing to a clear course of action. Use the OKR workshop to explain your position as precisely, fully, and openly as you can. At the same time, commit to really hearing the viewpoints of others. Then get out of the way, make the best decision you can, and commit to it.
 
-In his 2016 [Letter to Shareholders](https://blog.aboutamazon.com/working-at-amazon/2016-letter-to-shareholders), Amazon's Jeff Bezos talks about "High Velocity Decision-making" and the importance of not killing momentum with consensus. He invites us to practice saying "Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?"
+In his [2016 Letter to Shareholders](https://blog.aboutamazon.com/working-at-amazon/2016-letter-to-shareholders), Amazon's Jeff Bezos talks about "High Velocity Decision Making" and the importance of not killing momentum with consensus. He invites us to practice saying "Look, I know we disagree on this but will you gamble with me on it? Disagree and commit?"
 
 
-## Test out your OKRs
+## Test it out
 
 Look at that crisp, beautifully crafted OKR. Exciting, isn't it? Before you run off and start delivering, quickly ask:
 
 1. Is the Objective big and aspirational?
-2. Do the Key Results (KRs) make sense?
-3. Are the KRs clear and unambiguous?
+2. Do the Key Results make sense?
+3. Are they clear and unambiguous?
 4. Are they easy to measure?
 5. Are they actually results and not just "tasks to do"?
 6. Are they tough and inspiring?
@@ -61,8 +61,8 @@ If you've answered "yes" to most of the above, they're ready to show to other te
 
 ## Summary
 
-A good OKR is like a hard smooth stone you can sharpen steel against. They demand a clear hypothesis and precise language to powerfully steer your daily activitys. Keep the OKR-setting session small and focused. Start big and then add precision until you're completely clear on what you want and how you'll get there. Once you've debated them within the team, debate them with other teams and stakeholders, tweak and adjust until they're just right. Then *stop* debating, commit, and deliver!
+A good OKR is almost like a hard, smooth stone you could sharpen steel against. It expresses a clear hypothesis and uses precise language to powerfully steer your daily activities. Keep the OKR setting session small and focused. Start big and then add enough detail so it's completely clear  what you want and how you'll get there. Debate with the team, debate with other teams and stakeholders. Tweak and adjust until they're just right. Then *stop* debating, commit, and deliver!
 
-I hope this post helps you in your own OKR-setting workshops. [Drop me a line][253eface] and let me know how your sessions go!
+I hope this post helps you in your own OKR setting workshops. [Drop me a line][253eface] and let me know what worked well and what you've been able to improve!
 
   [253eface]: /contact "contact me"
