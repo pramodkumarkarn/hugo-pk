@@ -220,7 +220,7 @@ html lang="en"
             hr
         .row
           .col-sm-2
-            h3 Technical Skills
+            h3 style="line-height: 3.5rem" Technical Skills
           .col-sm-10
             ul.skills
               li Linux DevOps
