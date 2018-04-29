@@ -35,7 +35,7 @@ Marshall grew up in Detroit where he experienced anti-semitism and witnessed the
 He called this "natural giving" and believed that compassionate giving from the heart is our natural state but somehow we have "unlearned" how to do this. So he asked what skills were necessary to live compassionately.
 
 ## What skills are necessary to live compassionately?
-These skills are quite different than what we're taught. According to the theologan (Walter Wink)[https://en.wikipedia.org/wiki/Walter_Wink], we got off track about 10, 000 years ago when certain socio-political power-structures emerged wherein some people are "right" and others are "wrong". Maintaining these structures requires ["a certain way of thinking, communicating, and using power"](https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=12:20) to keep people compliant.<sup>1</sup> As such, modern notions of punishment and retribution have surfaced and become part of our popular culture.
+These skills are quite different than what we're taught. According to the theologan [Walter Wink](https://en.wikipedia.org/wiki/Walter_Wink), we got off track about 10, 000 years ago when certain socio-political power-structures emerged wherein some people are "right" and others are "wrong". Maintaining these structures requires ["a certain way of thinking, communicating, and using power"](https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=12:20) to keep people compliant.<sup>1</sup> As such, modern notions of punishment and retribution have surfaced and become part of our popular culture.
 
 ## Domination cultures
 Marshall believed that we've made violence towards others enjoyable. We've found ways that suggest certain people _deserve_ to suffer for their actions.
