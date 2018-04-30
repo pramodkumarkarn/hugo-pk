@@ -34,12 +34,28 @@ Marshall grew up in Detroit where he experienced anti-semitism and witnessed the
 
 He called this "natural giving" and believed that compassionate giving from the heart is our natural state but somehow we have "unlearned" how to do this. So he asked what skills were necessary to live compassionately.
 
-## What skills are necessary to live compassionately?
-These skills are quite different than what we're taught. According to the theologan [Walter Wink](https://en.wikipedia.org/wiki/Walter_Wink), we got off track about 10, 000 years ago when certain socio-political power-structures emerged wherein some people are "right" and others are "wrong". Maintaining these structures requires ["a certain way of thinking, communicating, and using power"](https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=12:20) to keep people compliant.<sup>1</sup> As such, modern notions of punishment and retribution have surfaced and become part of our popular culture.
-
 ## Domination cultures
-Marshall believed that we've made violence towards others enjoyable. We've found ways that suggest certain people _deserve_ to suffer for their actions.
+According to the theologan [Walter Wink](https://en.wikipedia.org/wiki/Walter_Wink), we got off track about 10, 000 years ago when certain socio-political power-structures emerged wherein some people are "right" and others are "wrong". Maintaining these structures requires ["a certain way of thinking, communicating, and using power"](https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=12:20) to keep people subordinate.<sup>1</sup> As such, modern notions of punishment and retribution have surfaced and become part of our popular culture.
+
+As part of this, Marshall believed that we've made violence towards others enjoyable. We've found ways that suggest certain people _deserve_ to suffer for their actions.
 Marshall often pointed out that most of our popular entertainment features a hero who, at the climax of a given film or TV programme, either kills someone or beats them up.
+
+## Punishment and reward
+Using systems of punishment and reward distance us from our needs and the needs of others and create a language that denies choice. This can become very dangerous.
+
+Marshall tells the story of the Nazi war criminal [Adolf Eichmann](https://en.wikipedia.org/wiki/Adolf_Eichmann) who, when asked if it was difficult to send millions of people to their deaths, replied (according to Rosenberg) "To tell you the truth, it was easy. Our language made it easy." When pressed, further he talked about a language they called "[Amptssprache](https://en.wiktionary.org/wiki/Amtssprache)", literally "office speak", which removes accountability from the individual. People are able to say things like "superior's orders", "I had no choice", "It's the law" instead of accepting resonsibility for one's actions. NVC helps us to remain conscious of choice in every moment. We may not like every action that we take, but we don't do anything that we don't explicitly choose to do.
+
+Two questions that help convince people that punishment is unnecessary.
+1. If somebody's doing something you don't like, what would you like them to do differently?
+
+  _Asking only this question, people might think that punishment sometimes works. But now ask the second question:_
+
+2. What do you want the other person's _reasons_ to be for doing what you request of them?
+
+This makes it pretty obvious that when people see us as a source of danger or reward, they give out of a very different engergy than when they own their own choices.
+
+See: Alfie Cohen's book "Punished by Rewards"
+
 
 
 ## no one can make you submit or rebel
