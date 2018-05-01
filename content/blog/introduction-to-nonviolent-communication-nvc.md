@@ -1,9 +1,11 @@
 ---
-cover: tate/cover.jpg
+cover: marshall_rosenberg.jpg
 author: p3trk
 date: 2018-04-25
 title: An Introduction to Nonviolent Communication (NVC)
+#url: introduction-to-nonviolent-communication-nvc
 draft: true
+photo: Beth Banning
 ---
 
 ## Quick start
@@ -30,33 +32,34 @@ Several years ago while we were talking about intimate relationships, a friend i
 [Marshall Rosenburg](https://en.wikipedia.org/wiki/Marshall_Rosenberg) (1934-2015), the founder of Nonviolent Communication, described it as a set of "skills and consciousness" which can keep us connected to our feelings and needs. In doing so, we greatly increase our chances of everyone having their needs met. He saw every act of violence as a "tragic expression of an unmet need".
 
 ## Where did it come from?
-Marshall grew up in Detroit where he experienced anti-semitism and witnessed the [race riots of 1943](https://en.wikipedia.org/wiki/Detroit_race_riot_of_1943). At the time, his paralysed grandmother lived with him and every evening, Marshall's uncle would come around to care for her. The compassionate and joyful way in which his uncle carried out what seemed, to Marshalll, to be very difficult and unpleasant tasks, affected him deeply. Initially, he suspected that violence was perpetrated by people who were "sick" and that compassionate giving was carried out by those who were "well" and perhaps he could learn to "cure" those who were sick so he studied psychology. Just before completing his PhD, however, his professor Michael Hakim helped him to see the limitations and political dangers of the concept of ["mental illness"](https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=7%3A00). After completing his degree he studied comparative religions and noticed the theme of compassionate giving and the joy of using mankind's resources to help improve the human condition.
+Marshall grew up in Detroit where he experienced anti-semitism and witnessed the [race riots of 1943](https://en.wikipedia.org/wiki/Detroit_race_riot_of_1943). At the time, his paralysed grandmother lived with him and every evening, Marshall's uncle would come around to care for her. The compassionate and joyful way in which his uncle carried out what seemed, to Marshalll, to be a very difficult and unpleasant task, also affected him deeply. 
 
-He called this "natural giving" and believed that compassionate giving from the heart is our natural state but somehow we have "unlearned" how to do this. So he asked what skills were necessary to live compassionately.
+Initially, he suspected that violence was perpetrated by people who were "sick" and that if he could "cure" those people, they would, again, be able to embrace compassionate giving. And so he studied psychology. Just before completing his PhD, however, his professor Michael Hakim helped him to see the limitations and great danger inherent in the concept of ["mental illness"](https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=7%3A00). So, after completing his degree, he studied comparative religions and noticed the common theme of giving from the heart and using mankind's resources to help improve the entire human condition.
+
+He called this "natural giving" and believed that it is our natural state but somehow we have "unlearned" how to do this. But how has this "unlearning" come about?
 
 ## Domination cultures
-According to the theologan [Walter Wink](https://en.wikipedia.org/wiki/Walter_Wink), we got off track about 10, 000 years ago when certain socio-political power-structures emerged wherein some people are "right" and others are "wrong". Maintaining these structures requires ["a certain way of thinking, communicating, and using power"](https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=12:20) to keep people subordinate.<sup>1</sup> As such, modern notions of punishment and retribution have surfaced and become part of our popular culture.
+According to the theologan [Walter Wink](https://en.wikipedia.org/wiki/Walter_Wink), we got off track about 10,000 years ago when certain sociopolitical power structures emerged. Maintaining these structures requires, according to Marshall, ["a certain way of thinking, communicating, and using power"](https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=12:20) that keeps people compliant. It becomes necessary to evaluate and label the behaviour of some people as "right" and others as "wrong". By this requirement to make moralistic evaluations, modern systems of punishment and reward have emerged as everyday components of our culture.
 
-As part of this, Marshall believed that we've made violence towards others enjoyable. We've found ways that suggest certain people _deserve_ to suffer for their actions.
-Marshall often pointed out that most of our popular entertainment features a hero who, at the climax of a given film or TV programme, either kills someone or beats them up.
+This also makes violence towards others _enjoyable_. When we believe certain people are "bad" it is easy to believe that they _deserve to suffer_ for their actions. Marshall was fond of pointing out that most of our popular entertainment revolves around a hero who, at the climax of the story, "either kills someone or beats someone up."
 
 ## Punishment and reward
-Using systems of punishment and reward distance us from our needs and the needs of others and create a language that denies choice. This can become very dangerous.
+Furthermore, systems of punishment and reward deny us the power of choice. They suggest that we act, not out of choice, but out of a desire for reward and avoidance of pain.
 
-Marshall tells the story of the Nazi war criminal [Adolf Eichmann](https://en.wikipedia.org/wiki/Adolf_Eichmann) who, when asked if it was difficult to send millions of people to their deaths, replied (according to Rosenberg) "To tell you the truth, it was easy. Our language made it easy." When pressed, further he talked about a language they called "[Amptssprache](https://en.wiktionary.org/wiki/Amtssprache)", literally "office speak", which removes accountability from the individual. People are able to say things like "superior's orders", "I had no choice", "It's the law" instead of accepting resonsibility for one's actions. NVC helps us to remain conscious of choice in every moment. We may not like every action that we take, but we don't do anything that we don't explicitly choose to do.
+This is very dangerous.
 
-Two questions that help convince people that punishment is unnecessary.
-1. If somebody's doing something you don't like, what would you like them to do differently?
+Marshall tells the story of the Nazi war criminal [Adolf Eichmann](https://en.wikipedia.org/wiki/Adolf_Eichmann) who, when asked if it was difficult for him to send millions of people to their deaths, replied (according to Rosenberg) "To tell you the truth, it was easy. Our language made it easy." When pressed, further he talked about a language they called "[Amptssprache](https://en.wiktionary.org/wiki/Amtssprache)", literally "office speak", which removed accountability from the individual. They were able to justify their actions by saying things like "they were the superior's orders", "I had no choice", "It's the law". NVC helps us to stay connected to choice moment by moment. We may not like every action that we take, but we don't do anything that we don't explicitly choose to do.
 
-  _Asking only this question, people might think that punishment sometimes works. But now ask the second question:_
+If you're still not convinced that punishment and reward are unnecessary, try asking these two questions when somebody is doing somethign you don't like:
+1. What would you like them to do differently?
 
-2. What do you want the other person's _reasons_ to be for doing what you request of them?
+  <span style="color: #333">Asking only this question, people might think that punishment _sometimes_ works. But now ask the second question.</span>
 
-This makes it pretty obvious that when people see us as a source of danger or reward, they give out of a very different engergy than when they own their own choices.
+2. What do you want the other person's **reasons** to be for doing what you request of them?
 
-See: Alfie Cohen's book "Punished by Rewards"
+This makes it pretty obvious that when people begin to see us as a personal threat or source of reward, they act from a very different engergy than when they own their decisions and act out of compassionate choice. 
 
-
+See Alfie Kohn's book "[Punished by Rewards](https://www.alfiekohn.org/punished-rewards/)"
 
 ## no one can make you submit or rebel
 ## no one can _make_ you feel anything
@@ -70,3 +73,5 @@ We're fortunate that Marshall Rosenberg left behind a wealth of [video content](
 
 
 <sup>1</sup>[NVC Training course (You Tube)](https://www.youtube.com/watch?v=O4tUVqsjQ2I) time: 00:13:00
+
+Photo by Beth Banning
