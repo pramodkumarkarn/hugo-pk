@@ -10,16 +10,21 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 
 
 ## Development
-NOTE: I've put these in a handy `deploy.sh` script which you can execute from your root folder. The only downside is you have to run `ps` to get the process ids and then kill them off manually when you're done.
 
 ```
-# Watch the Sass folder and compile to static/css (in the background)
+# Watch the Sass folder 
+# compile to static/css (in the background) 
+# also start the hugo server in the background
 sass -w sass:static/css &
+hugo serve -w & 
+sleep 2; open http://localhost:1313
+```
 
-# start hugo server (in the background)
-hugo serve -w &
-
-#now visit http://localhost:1313
+### shutting down
+```
+#bring the procs back to the foreground and kill them:
+fg # Now type CMD + C to kill Hugo
+fg # Now type CMD + C to kill Sass
 ```
 
 TIP: Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows

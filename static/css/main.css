@@ -174,8 +174,10 @@ ul.skills {
 .thumb_grid a.title {
   margin: 1rem 0 3rem 0; }
 
-.blog .thumb_grid a.title {
+.blog {
   margin-top: 0; }
+  .blog ul li {
+    line-height: 5rem; }
 
 /*@font-face
  * font-family: HelveticaLeagueSpartanBold
