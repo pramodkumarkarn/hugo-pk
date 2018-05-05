@@ -17,7 +17,7 @@ html lang="en"
             img.img-responsive.big_pic src=/images/big_pics/{{.Params.cover}}
           {{ end }}
           .blogdate {{ .Date.Format "2 January 2006" }}
-          p.blog
+          .blog
             {{ .Content}}
           p.blognote
             | Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas, or suggestions, please <a href="/contact">contact me</a>.
