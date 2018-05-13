@@ -16,7 +16,7 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 # compile to static/css (in the background) 
 # also start the hugo server in the background
 sass -w sass:static/css &
-hugo serve -w & 
+hugo server --disableFastRender --navigateToChanged & 
 sleep 2; open http://localhost:1313
 ```
 

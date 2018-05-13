@@ -1,0 +1,18 @@
+= doctype html
+html lang="en"
+  {{ partial "header" .}}
+  body
+    .container
+      {{ partial "nav" .}}
+      h2.big {{.Title}}
+      hr
+      .bigger 
+        {{.Content}}
+      .row.thumb_grid
+        {{ range .Data.Pages}}
+        .col-md-4
+          a href="{{ .RelPermalink }}"
+            .img.b-lazy data-src="/images/big_pics/{{.Params.cover}}" 
+          a.title href="{{ .RelPermalink}}" {{ .Title}}
+        {{end}}
+      {{ partial "footer" .}}

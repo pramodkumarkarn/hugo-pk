@@ -1,5 +1,5 @@
 = doctype html
-{{ $available_msg := "Available from <b>June 2018</b> for interim roles in central London." }}
+{{ $available_msg := "Available from <b>September 2018</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 html lang="en"
@@ -245,7 +245,7 @@ html lang="en"
             h3 Experience
           .col-sm-10
             .job
-              h3 Agile Coach / Delivery Manager
+              h3 Agile & OKR Coach / Delivery Manager
               / i.small (Contract)
               h4 British Broadcasting Corporation - Proteus Team
               h5 Nov 2017 - present

@@ -1,4 +1,0 @@
-h1 {{ .Get 0 }}
-b yep
-h2 {{ .Params }}
-b stop

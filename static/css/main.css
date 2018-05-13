@@ -7,6 +7,27 @@
  *   opacity: 0
  *   transition: opacity .3s ease-in */
 /* responsive video! */
+/* Custom styles for use in blog posts */
+blockquote {
+  background: #fafafa;
+  margin: 5rem 0;
+  border: 1px solid #999;
+  font-size: 2rem;
+  padding: 3rem; }
+  blockquote h3 {
+    margin: 0; }
+  blockquote li {
+    line-height: 3.2rem;
+    margin-bottom: 1rem; }
+
+figure {
+  margin-bottom: 5rem; }
+  figure h4 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    float: right;
+    color: #aaa; }
+
 /* Looking for work.... */
 .looking {
   color: #999; }
@@ -50,9 +71,11 @@ h1 {
   margin-bottom: 0; }
 
 .big_pic {
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
   /*&:last-of-type
    * margin-bottom: 0 */ }
+  .big_pic img {
+    width: 100%; }
 
 hr {
   border-bottom: 1.2rem solid #000;
@@ -66,6 +89,15 @@ hr {
 
 .centered {
   text-align: center; }
+
+.bigger {
+  margin-bottom: 3rem; }
+
+.credit {
+  margin-top: 0.5rem;
+  font-size: 1.5rem;
+  color: #bbb;
+  float: right; }
 
 .single_page p {
   font-size: 2.5rem;
@@ -175,9 +207,14 @@ ul.skills {
   margin: 1rem 0 3rem 0; }
 
 .blog {
-  margin-top: 0; }
-  .blog ul li {
-    line-height: 5rem; }
+  margin-top: 0;
+  line-height: 3rem; }
+  .blog h3 {
+    line-height: 3rem; }
+  .blog ul, .blog ol {
+    margin-bottom: 3rem; }
+  .blog img {
+    width: 100%; }
 
 /*@font-face
  * font-family: HelveticaLeagueSpartanBold

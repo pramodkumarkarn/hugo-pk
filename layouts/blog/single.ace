@@ -14,7 +14,10 @@ html lang="en"
           {{ if isset .Params "top_content" }}
             {{ .Params.top_content | safeHTML}}
           {{else}}
-            img.img-responsive.big_pic src=/images/big_pics/{{.Params.cover}}
+            .big_pic
+              img.img-responsive src=/images/big_pics/{{.Params.cover}}
+              .credit
+                {{.Params.cover_credit}}
           {{ end }}
           .blogdate {{ .Date.Format "2 January 2006" }}
           .blog
