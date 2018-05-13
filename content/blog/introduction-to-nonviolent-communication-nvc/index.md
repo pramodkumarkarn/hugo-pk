@@ -11,9 +11,11 @@ categories:
   - Blog
   - NVC
 resources: 
-  - name: cover
-    src: marshall.jpg
-    credit: Beth Banning
+  - name: steps
+    src: steps.jpg
+    params:
+      credit: Matt Brown
+      link: https://www.flickr.com/photos/londonmatt/36367935743/in/photolist-XpHbfT-9AawN5-4NZPac-a4tgiZ-sXZUN-my2ws2-ycWvZ-cknXco-6KFxDG-5ucz4S-8jX3D-8UJdMU-8nfk1x-fyNoXC-dpYqRD-5PAXRT-bQyKnR-6h4ZTf-n4hVC-53mfZH-ohZcid-4NZPag-4fbBe4-dpL25-5nrvpd-5xdLr8-q5sMtv-6yntQD-48jHtn-aEwV4a-7MVH1j-67hfxy-fEESFr-bBm3yH-4ffADL-74xVKY-2AFq39-4WYfeA-ayRpMj-nyEMNb-64Bdxf-633Fk2-7C8cS4-5nrvim-652FE6-6kL3xQ-7FARro-d87a2q-8FqeNA-4HX3Sm
   - name: giraffe
     src: giraffe.jpg
     params:
@@ -42,6 +44,9 @@ This provides several benefits allowing us to:
 * Stay conscious of _choice_ in every moment
 
 Professionally, Nonviolent Communication has the benefit of making teams much more effective and more pleasant to work in. :smile:
+
+{{<wide_pic steps Resize "800x">}}
+
 
 ## How it works
 Nonviolent Communication helps us to be explicit and transparent about our **observations, feelings, needs, and strategies** (for meeting those needs). We all share the [same basic needs](http://www.nonviolentcommunication.com/aboutnvc/feelings_needs.htm) (which are never in conflict) but we use strategies for meeting those needs which are sometimes in conflict. 
