@@ -28,22 +28,22 @@ resources:
       link: https://www.flickr.com/photos/dermoidhome/5918714768/in/photolist-deddMV-qidLHK-a21XGm-nBPf7d-o49egX-qb9pCE-pgGiJM-pW2Xsv-pW1MpP-rsk2r3-rsiuMt-JHn6Z4-25Ag2yW-a4y65Q-q4btUq-265GVcf-rcxdT4-addnH7-owe9b6-qr7YrL-8D8uSj-FvWqxf-Awdxbh-cGUTsd-5XRnAj-bkAgg2-8PbAzy-cSJ1Uf-aoRLsc-aoUvkb-9aWM2R-4eybMh-8V4YG3-24BakEs-qyjM7N-3okHZD-4N5Fd-qkJKEk-6cwKyr-383RjT-eJtFcJ-6KTa9p-4fEjXA-rjmTEN-9Gs37o-8DiTgM-mwDgBn-dT4oFX-38aKmb-8Xtsu7
 ---
 
-**Nonviolent Communication** or NVC is a vast and nuanced area of study but the basic concepts can be grasped and applied almost immediately. I recently gave a short training session to a few  colleagues and promised to write up short post introducing it. 
+**Nonviolent Communication** or NVC is a vast and nuanced area of study but the basic concepts can be grasped and applied almost immediately. I recently gave a short training session to a few  colleagues and promised to write up a short introduction. 
 
 ## What is Nonviolent Communication?
-The founder of NVC, [Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg), <a href="https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=51" target="_blank">didn't like</a> the name "Nonviolent Communication" for the same reason [Ghandi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) didn't like the term "nonviolent": it described what something _isn't_ instead of what it _is_. NVC has a very simple purpose:
+[Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg), the founder of NVC, <a href="https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=51" target="_blank">didn't like the name</a> "Nonviolent Communication" for the same reason [Ghandi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) didn't like the term "nonviolent": it describes what something _isn't_ instead of what it _is_. Nevertheless, the name has stuck. NVC has one very simple purpose:
 
 > ### Nonviolent Communication connects us to the feelings and needs within ourselves and others.
 
 ## Why is it great?
-This provides several benefits allowing us to:
+NVC provides several benefits allowing us to:
 
 * Resolve conflict in many forms and in various areas of our lives
 * Enjoy deeper, more productive relationships
 * Take ownership our _feelings_ and _actions_
 * Stay conscious of _choice_ in every moment
 
-Professionally, Nonviolent Communication has the benefit of making teams much more effective and more pleasant to work in. :smile:
+Professionally, Nonviolent Communication has the added sbenefit of making teams much more effective and more pleasant to work in. :smile:
 
 {{<wide_pic steps Resize "800x">}}
 
@@ -75,10 +75,10 @@ However, when we clearly articulate and label our emotions (and don't mix them w
 
 It's a useful exercise to write down some more nuanced words for expressing your emotions and practice using them on a regular basis. This way, they'll be available when you need them instead of making you feel like you can't express yourself (or be understood). 
 
-Check out [this list](https://www.cnvc.org/sites/default/files/feelings_inventory_0.pdf) from the Centre for Nonviolent Communication.
+Check out this [list of feelings](https://www.cnvc.org/sites/default/files/feelings_inventory_0.pdf) from the Centre for Nonviolent Communication.
 
 #### Judgements disguised as feelings
-It's also essential that we express actual needs and not judgements or evaluations. A statement beginning with "I feel" an an object (e.g. "I feel that...", "I feel they...") is often the start of an evaluation ("I feel that you're being unfair.") rather than a feeling ("I feel angry because this doesn't seem fair to me.").
+It's also essential that we express actual needs and not judgements or evaluations. This can be very tricky. A statement beginning with "I feel" and an object (e.g. "I feel that...", "I feel they...") is often the start of an evaluation ("I feel that you're being unfair") rather than a true feeling: "I feel angry because this doesn't seem fair to me".
 
 ### Expressing needs
 We often (and for the same reasons) have similar trouble expressing our needs. In addition to developing a better vocuabularly for Develop your ["needs vocabularly"](http://www.nonviolentcommunication.com/aboutnvc/feelings_needs.htm) and practice using it to articulate your needs in a given situation. 
@@ -102,7 +102,7 @@ In our workshop, we also discussed how different ways of speaking and listening 
 
  Characterised as being harsh and aggressive "**Jackal language**" makes communication more difficult by assuming and judging without looking at root feelings and needs. 
  
- **Jackal Language**
+ :ear:**Jackal Language**
 
 * Implies wrongness, blame, or criticism
 * Avoids making an empathic connection
