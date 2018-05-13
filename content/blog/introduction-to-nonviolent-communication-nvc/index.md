@@ -94,7 +94,7 @@ If we don't make our requests clear and achievable, people won't be able to do w
 Furthermore, it's essential that our requests are never heard as _demands_. Practice articulating requests using postive language "Would you be willing to speak with an adult?" rather than as a demand "Don't hit me when you're angry or I won't talk to you." Notice, this last example included a threat. I'll talk more about the tragic fuitility of threats and punishment in a future post.
 
 ## Ways of speaking and listening
-In our workshop, we also discussed how different ways of speaking and listening can either degrade or enhance communication between people. And how critical it is that we choose carefully, particularly when emotions come into play. A fun and useful "tool" for exploring this is the concept of Jackal and Giraffe Language.
+In the workshop, I also shared how different ways of speaking and listening can either degrade or enhance communication between people. And how critical it is that we choose carefully, particularly when emotions come into play. A fun and useful "tool" for exploring this is the concept of Jackal and Giraffe Language.
 
 {{<wide_pic jackal Resize "800x">}}
 
