@@ -19,6 +19,8 @@ sass -w sass:static/css &
 hugo server --disableFastRender --navigateToChanged & 
 sleep 2; open http://localhost:1313
 ```
+### Adding images.
+Check the front matter of the OKR Workshop post for info on how to include a cover photo.
 
 ### shutting down
 ```
