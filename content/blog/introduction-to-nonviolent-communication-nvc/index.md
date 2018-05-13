@@ -87,9 +87,9 @@ We often (and for the same reasons) have similar trouble expressing our needs. I
 As before when we can try to express a feeling but actually express an evaluation, we can also rush into a strategy for meeting the need without actually expressing the need. "I need you to be quiet." is not a need but a request, or a strategy. The underlying need might be "I need to be heard and understood." Watch out for these.
 
 ### Making a clear request
-Often (but not always) the final step after observing, feeling, and needing is to make a clear request that would help get our needs met. Sometimes, it is enough to simply express our observations and feelings, or our observations, feelings, and needs. But when we're ready to move into _strategies_ we need to articulate them as a request. 
+Often (but not always) the final step after observing, feeling, and needing is to make a clear request that would help get our needs met. Sometimes, it is enough to simply express our observations and feelings, or our observations, feelings, and needs. But when we're ready to move into _strategies_ it's important to clearly articulate them in a request. 
 
-If we don't make our requests clear, people won't be able to do what we ask. Rather than saying "Will you please listen to me." it's far more effective to ask "Would you be willing to wait to respond until I've finished speaking?" 
+If we don't make our requests clear and achievable, people won't be able to do what we ask. Rather than saying "Will you please listen to me." it's far more effective to ask "Would you be willing to wait to respond until I've finished speaking?" 
 
 Furthermore, it's essential that our requests are never heard as _demands_. Practice articulating requests using postive language "Would you be willing to speak with an adult?" rather than as a demand "Don't hit me when you're angry or I won't talk to you." Notice, this last example included a threat. I'll talk more about the tragic fuitility of threats and punishment in a future post.
 
