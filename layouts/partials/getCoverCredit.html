@@ -1,0 +1,6 @@
+{{ if (isset .Params "cover_credit") }}
+{{ .Params.cover_credit }}
+{{ else }}
+{{ $cover := .Resources.GetMatch "*cover*"}} 
+{{ $cover.Params.credit }}
+{{ end }}

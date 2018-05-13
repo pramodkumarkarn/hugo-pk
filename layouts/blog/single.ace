@@ -18,7 +18,7 @@ html lang="en"
               / img.img-responsive src=/images/big_pics/{{.Params.cover}}
               img.img-responsive src="{{ trim (partial "getCover.html" . ) "\n"  }}"
               .credit
-                {{.Params.cover_credit}}
+                {{partial "getCoverCredit.html" . }}
           {{ end }}
           .blogdate {{ .Date.Format "2 January 2006" }}
           .blog

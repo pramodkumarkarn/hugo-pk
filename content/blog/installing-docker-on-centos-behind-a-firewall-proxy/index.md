@@ -8,8 +8,9 @@ categories:
 resources:
   - name: cover
     src: cover.jpg
-    credit: Ben Watkin
-    link: https://www.flickr.com/photos/falcifer/542251701/in/photolist-PVbxg-4xjtAG-88e6qv-YBBKy-akFb78-43FX28-6tjvVE-dWkUmx-7uk4rJ-6N5CeB-DkfvJ-4uLw5G-nZ77yj-7K9dUo-89DfiC-5SmMuN-qoyaNe-bu2EBf-6goydB-6AsL2w-8FDfdS-5ShsEi-5SmMUL-b1mmqM-hbPAx-uJhbw-99aRUA-6QYxG7-e7XJ8D-4yqK19-a8mqdX-73Rtq5-7uKbYx-QVpJ5-4SiSiD-77nmEc-6vgs84-41DxvP-adE4Qr-5fVaf9-5sYq17-fj2L3k-2FGBAU-9gc1xM-6QceDJ-e5yFUM-7DYFwV-dVjTmv-btMUoR-7E3vRy
+    params:
+      credit: Ben Watkin
+      link: https://www.flickr.com/photos/falcifer/542251701/in/photolist-PVbxg-4xjtAG-88e6qv-YBBKy-akFb78-43FX28-6tjvVE-dWkUmx-7uk4rJ-6N5CeB-DkfvJ-4uLw5G-nZ77yj-7K9dUo-89DfiC-5SmMuN-qoyaNe-bu2EBf-6goydB-6AsL2w-8FDfdS-5ShsEi-5SmMUL-b1mmqM-hbPAx-uJhbw-99aRUA-6QYxG7-e7XJ8D-4yqK19-a8mqdX-73Rtq5-7uKbYx-QVpJ5-4SiSiD-77nmEc-6vgs84-41DxvP-adE4Qr-5fVaf9-5sYq17-fj2L3k-2FGBAU-9gc1xM-6QceDJ-e5yFUM-7DYFwV-dVjTmv-btMUoR-7E3vRy
 ---
 
 I've been helping a team to improve its [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) pipeline and as part of this work, we're introducing BDD-style test automation using [Serenity](http://www.thucydides.info). 
