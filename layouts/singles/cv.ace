@@ -266,7 +266,7 @@ html lang="en"
               / i.small (Contract)
               h4 British Broadcasting Corporation
               h5 Jun 2017 - present
-              p Coaching <b>18 teams</b> and nearly 300+ people across TV & Radio (including <b>iPlayer</b>) in adopting Objectives and Key Results
+              p Coaching 300+ people in <b>18 teams</b> across TV & Radio (including <b>iPlayer</b>) in adopting Objectives and Key Results
               ul
                 li Consulting on wider portfolio transformation efforts
                 li Leading workshops and training sessions at all levels
@@ -287,7 +287,7 @@ html lang="en"
               ul
                 li  Developed a robust, flexible and simple processes to roadmap and realise <b>£1.5bn+</b> in cashable benefits over 10 years
                 li Coached delivery teams in agile <b>(kanban)</b> methods to deliver benefits via rapid, continuous iteration
-                li Built bespoke contract analysis/management and forecasting system (Ruby)
+                li Built bespoke contract analysis, management,  and forecasting tool (Ruby)
                 / li Provided business case input via new benefits data/models
                 / li worked closely with economics team to define economic models
                 / li Used Ruby on Rails to build bespoke forecasting and tracking tools
@@ -305,7 +305,6 @@ html lang="en"
               h4 Government Digital Service (Cabinet Office, UK Government)
               h5 Jun 2015 - Nov 2016
               p Close engagement with finance, people, and delivery teams combined with strong technical ability added significant operational agility and data-driven, real-time decision-making around a <b>£500m change portfolio</b>. <!--to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment diversity, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government and benefiting millions of citizens.-->
-
               ul
                 / li Proposed and implemented change to support greater organisational agility
                 li Enabled real-time business planning and reporting with no additional overhead

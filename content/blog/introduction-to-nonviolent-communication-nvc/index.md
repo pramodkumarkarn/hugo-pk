@@ -48,7 +48,7 @@ Professionally, Nonviolent Communication has the added benefit of making teams m
 {{<wide_pic steps Resize "800x">}}
 
 
-## How it works
+## How does it work?
 Nonviolent Communication helps us to be explicit and transparent about our **observations, feelings, needs, and strategies** (for meeting those needs). We all share the [same basic needs](http://www.nonviolentcommunication.com/aboutnvc/feelings_needs.htm) (which are never in conflict) but we use strategies for meeting those needs which are sometimes in conflict. 
 
 When someone does something we don't like, a typical NVC approach to resolving this situation could look like this:

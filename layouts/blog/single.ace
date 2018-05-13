@@ -6,7 +6,7 @@ html lang="en"
       {{ partial "nav" .}}
       h4.capitalize
         a href="/{{.Type}}" {{.Type}}
-      .headline style="width: 100%"
+      .headline style="width: 100%"        
         h1.short {{ .Title}}
       hr
       .row
@@ -15,7 +15,8 @@ html lang="en"
             {{ .Params.top_content | safeHTML}}
           {{else}}
             .big_pic
-              img.img-responsive src=/images/big_pics/{{.Params.cover}}
+              / img.img-responsive src=/images/big_pics/{{.Params.cover}}
+              img.img-responsive src="{{ trim (partial "getCover.html" . ) "\n"  }}"
               .credit
                 {{.Params.cover_credit}}
           {{ end }}

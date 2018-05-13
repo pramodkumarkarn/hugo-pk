@@ -1,12 +1,10 @@
 ---
 title: Testing web pages in IE on a Mac using VirtualBox
-author: p3trk
-
 date: 2013-02-06
 cover: virtualbox.png
-xurl: /blog/testing-web-pages-in-ie-on-a-mac-using-virtualbox
 categories:
   - Blog
+  - Tech
 ---
 _Mostly for my own future reference, here&#8217;s a quick low-down on how I like to test apps and web-pages in IE from my Mac._
 <br>
