@@ -70,7 +70,7 @@ For example, instead of saying "you're always late" you might say "The past 3 ti
 ### Expressing feelings
 Many cultures discourage openly expressing emotions as part of regular communication between people. We are often taught that being "emotional" is a sign of weakness or that it makes communication more difficult. 
 
-As a result of such cultural training, most of us have a very limited vocabularly with which to express our feelings. It may be limited to "good", "bad", "happy", "angry", etc. 
+As a result of such cultural training, most of us have a very limited vocabulary with which to express our feelings. It may be limited to "good", "bad", "happy", "angry", etc. 
 
 When we clearly articulate and label our emotions (and don't mix them with observations, evaluations, or strategeies), they become an extremely powerful (even vital) tool for understanding how well our needs are being met and how to move forward. It can be enormously liberating to know that we've found a word to express our true feeling and that another has understood us.
 
@@ -82,7 +82,7 @@ Check out this [list of feelings](https://www.cnvc.org/sites/default/files/feeli
 It's also essential that we express actual feelings and not judgements or evaluations. This can be very tricky. Statements beginning with "I feel" and an object, such as "I feel that..." or "I feel they...", are often evaluations disguised as feelings (e.g. "I feel that you're being unfair") rather than a true feeling: "I feel angry because this situation isn't meeting my need for equality".
 
 ### Expressing needs
-As with feelings, we are often culturally conditioned to ignore or downplay our needs, leaving us without the critical vocabularly needed to describe them. Marshall Rosenberg believes that all human needs derive from ten basic needs: 
+As with feelings, we are often culturally conditioned to ignore or downplay our needs, leaving us without the critical vocabulary needed to describe them. Marshall Rosenberg believes that all human needs derive from ten basic needs: 
 
 * Autonomy
 * Celebration
