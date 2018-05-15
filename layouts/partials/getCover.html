@@ -2,9 +2,11 @@
 {{- trim (print "/images/big_pics/"  .Params.cover) "\n" -}}
 {{ else }}
 {{ $original := .Resources.GetMatch (printf "%s*" ("cover")) }}
+{{if $original }}
 {{ $options := "800x600" }}
 {{/* See options in wide_pic.html*/}}
 {{ .Scratch.Set "image" ($original.Fill $options) }}
 {{ $image := .Scratch.Get "image" }}
 {{ $image.RelPermalink }}
+{{ end }}
 {{ end }}

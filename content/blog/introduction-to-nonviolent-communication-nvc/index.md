@@ -1,16 +1,17 @@
 ---
-cover: marshall_rosenberg.jpg
-cover_credit: Beth Banning
 author: p3trk
 draft: false
 date: 2018-05-12
 title: An Introduction to Nonviolent Communication (NVC)
 url: /blog/introduction-to-nonviolent-communication-nvc
-draft: false
 categories:
   - Blog
   - NVC
 resources:
+  - name: cover
+    src: marshall_rosenberg.jpg
+    params:
+      credit: Beth Banning
   - name: steps
     src: steps.jpg
     params:
