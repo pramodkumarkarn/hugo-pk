@@ -13,16 +13,14 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 
 ### Use Docker
 
-```docker build -t hugo-pk .
+```
+docker build -t hugo-pk .
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
 hugo server --disableFastRender --navigateToChanged --bind=0.0.0.0 &
-watch sass sass/main.sass static/css/main.css &```
-
-#### TODO: sass...
-sass -w sass:static/css &
-hugo server --disableFastRender --navigateToChanged & 
-sleep 2; open http://localhost:1313
+watch sass sass/main.sass static/css/main.css
 ```
+
+
 ### Adding images.
 Check the front matter of the OKR Workshop post for info on how to include a cover photo.
 
@@ -42,6 +40,12 @@ NOTE: I've also packaged this one into a script called `deploy.sh`
 `hugo ; s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*`
 
 This will generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (`-P`). The `--rexclude=.git*` prevents the git files in the subdirectory (e.g. Spamwords) from being uploaded
+
+### Deploy via docker
+The docker file includes `s3cmd`. TODO: add instructions for configuring it `s3cmd --configure` and saving the state of the container (or storing the s3config file in the host (being sure to .gitignore it))
+
+OR, use [this](https://hub.docker.com/r/garland/docker-s3cmd/)
+
 
 ## Contact form
 Currently using a free WufooForm but should consider [Formspree](https://formspree.io/). Downside of Formspree is your email get's exposed in the source (in the free version, at least).
