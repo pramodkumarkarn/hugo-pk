@@ -11,10 +11,14 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 
 ## Development
 
-```
-# Watch the Sass folder 
-# compile to static/css (in the background) 
-# also start the hugo server in the background
+### Use Docker
+
+```docker build -t hugo-pk .
+docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
+hugo server --disableFastRender --navigateToChanged --bind=0.0.0.0 &
+watch sass sass/main.sass static/css/main.css &```
+
+#### TODO: sass...
 sass -w sass:static/css &
 hugo server --disableFastRender --navigateToChanged & 
 sleep 2; open http://localhost:1313

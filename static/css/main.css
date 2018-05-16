@@ -1,11 +1,11 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 /* body
- *   padding-top: 50px
- *   padding-bottom: 20px */
+ *  padding-top: 50px
+ *  padding-bottom: 20px */
 /* ease in images */
 /*  img
- *   opacity: 0
- *   transition: opacity .3s ease-in */
+ *  opacity: 0
+ *  transition: opacity .3s ease-in */
 /* responsive video! */
 /* Custom styles for use in blog posts */
 blockquote {
@@ -13,167 +13,213 @@ blockquote {
   margin: 5rem 0;
   border: 1px solid #999;
   font-size: 2rem;
-  padding: 3rem; }
-  blockquote h3 {
-    margin: 0; }
-  blockquote li {
-    line-height: 3.2rem;
-    margin-bottom: 1rem; }
+  padding: 3rem;
+}
+blockquote h3 {
+  margin: 0;
+}
+blockquote li {
+  line-height: 3.2rem;
+  margin-bottom: 1rem;
+}
 
 figure {
-  margin-bottom: 5rem; }
-  figure h4 {
-    font-size: 1.5rem;
-    font-weight: 400;
-    float: right;
-    color: #aaa; }
+  margin-bottom: 5rem;
+}
+figure h4 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  float: right;
+  color: #aaa;
+}
 
 /* Looking for work.... */
 .looking {
-  color: #999; }
+  color: #999;
+}
 
 /* e.g. inside a post */
 h1 {
-  font-size: 6.5rem; }
+  font-size: 6.5rem;
+}
 
 .main h2 {
   margin-top: 4rem;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+}
 .main .blognote {
   margin-top: 5rem;
   background: #eee;
   padding: 2rem;
-  font-size: 1.8rem; }
+  font-size: 1.8rem;
+}
 .main p {
   line-height: 28px;
-  margin-bottom: 25px; }
+  margin-bottom: 25px;
+}
 .main .job p {
-  margin-bottom: 0.5rem; }
+  margin-bottom: 0.5rem;
+}
 .main .job ul {
-  margin-bottom: 10px; }
-  .main .job ul li {
-    line-height: 2.2rem;
-    font-size: 1.6rem;
-    /*margin-bottom: 8px */ }
+  margin-bottom: 10px;
+}
+.main .job ul li {
+  line-height: 2.2rem;
+  font-size: 1.6rem;
+  /*margin-bottom: 8px*/
+}
 
 .sidebar h2 {
-  margin-top: 0; }
+  margin-top: 0;
+}
 
 .home h2 {
-  margin-top: 1.4rem; }
-  .home h2:last-of-type {
-    margin-bottom: 4rem; }
+  margin-top: 1.4rem;
+}
+.home h2:last-of-type {
+  margin-bottom: 4rem;
+}
 .home h2.subheaded {
-  margin-top: 0; }
+  margin-top: 0;
+}
 .home h3 {
   color: #aaa;
   font-size: 2.1rem;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+}
 
 .big_pic {
   margin-bottom: 5rem;
   /*&:last-of-type
-   * margin-bottom: 0 */ }
-  .big_pic img {
-    width: 100%; }
+  * margin-bottom: 0*/
+}
+.big_pic img {
+  width: 100%;
+}
 
 hr {
   border-bottom: 1.2rem solid #000;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+}
 
 .cv .col-sm-2 {
-  margin-bottom: 3rem; }
+  margin-bottom: 3rem;
+}
 
 .flag div {
-  min-height: 2rem; }
+  min-height: 2rem;
+}
 
 .centered {
-  text-align: center; }
+  text-align: center;
+}
 
 .bigger {
-  margin-bottom: 3rem; }
+  margin-bottom: 3rem;
+}
 
 .credit {
   margin-top: 0.5rem;
   font-size: 1.5rem;
   color: #bbb;
-  float: right; }
+  float: right;
+}
 
 .single_page p {
   font-size: 2.5rem;
-  margin-bottom: 2.5rem; }
+  margin-bottom: 2.5rem;
+}
 
 .cv .profile p.top {
   font-size: 2.3rem;
-  line-height: 2.8rem; }
+  line-height: 2.8rem;
+}
 .cv .profile p {
   font-size: 1.8rem;
-  line-height: 2.5rem; }
+  line-height: 2.5rem;
+}
 .cv h2, .cv h4, .cv h3 {
-  margin-top: 0; }
+  margin-top: 0;
+}
 .cv h5 {
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+}
 .cv p {
   margin-bottom: 2rem;
   font-size: 1.5rem;
-  line-height: 2rem; }
+  line-height: 2rem;
+}
 .cv .school {
-  margin-bottom: 2rem; }
-  .cv .school h5 {
-    margin-bottom: 1rem; }
+  margin-bottom: 2rem;
+}
+.cv .school h5 {
+  margin-bottom: 1rem;
+}
 .cv .other {
-  color: #555; }
+  color: #555;
+}
 .cv p.tools {
-  font-size: 1.8rem; }
+  font-size: 1.8rem;
+}
 
 .contact-info {
   margin: 2.5rem 0;
-  text-align: right; }
+  text-align: right;
+}
 
 ul.skills {
   margin: 3px 0;
-  padding: 0; }
-  ul.skills li {
-    float: left;
-    margin: 0 0 1rem 0;
-    list-style-type: none;
-    font-size: 1.4rem;
-    width: 33%;
-    display: block; }
+  padding: 0;
+}
+ul.skills li {
+  float: left;
+  margin: 0 0 1rem 0;
+  list-style-type: none;
+  font-size: 1.4rem;
+  width: 33%;
+  display: block;
+}
 
 .job .small {
   padding-left: 0.5rem;
-  display: inline-block; }
+  display: inline-block;
+}
 
 .job {
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+}
 
 .blogdate {
   font-size: 1.5rem;
   color: #999;
   margin: 10px 0 5px 0;
-  display: block; }
+  display: block;
+}
 
 .embed-3-4 {
   /* 3:4 aspect ratio */
-  padding-bottom: 75%; }
+  padding-bottom: 75%;
+}
 
 .embed-container {
   position: relative;
-  /*padding-bottom: 56.25% */
+  /*padding-bottom: 56.25%*/
   height: 0;
   overflow: hidden;
-  max-width: 100%; }
+  max-width: 100%;
+}
 
 .embed-container iframe, .embed-container object, .embed-container embed {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%; }
+  height: 100%;
+}
 
 .right {
-  text-align: right; }
+  text-align: right;
+}
 
 .img.b-lazy {
   background-color: black;
@@ -183,10 +229,12 @@ ul.skills {
   background-scale: 0.25;
   background-size: 150%;
   transition: opacity 0.3s ease-in;
-  opacity: 0; }
+  opacity: 0;
+}
 
 .b-lazy.b-loaded {
-  opacity: 1; }
+  opacity: 1;
+}
 
 .jumbotron {
   color: #fff;
@@ -196,82 +244,109 @@ ul.skills {
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)), url("/images/memory.png");
   background-position: -30px -30px;
-  background-attachment: fixed; }
+  background-attachment: fixed;
+}
 
 .navbar {
-  margin-bottom: 0 !important; }
+  margin-bottom: 0 !important;
+}
 
 .thumb_grid a {
-  display: block; }
+  display: block;
+}
 .thumb_grid a.title {
-  margin: 1rem 0 3rem 0; }
+  margin: 1rem 0 3rem 0;
+}
 
 .blog {
   margin-top: 0;
-  line-height: 3rem; }
-  .blog h3 {
-    line-height: 3rem; }
-  .blog ul, .blog ol {
-    margin-bottom: 3rem; }
-  .blog img {
-    width: 100%; }
+  line-height: 3rem;
+}
+.blog h3 {
+  line-height: 3rem;
+}
+.blog ul, .blog ol {
+  margin-bottom: 3rem;
+}
+.blog img {
+  width: 100%;
+}
 
 /*@font-face
  * font-family: HelveticaLeagueSpartanBold
  * font-weight: bold
- * src: url('/fonts/LeagueSpartan-Bold.otf') */
+ * src: url('/fonts/LeagueSpartan-Bold.otf')*/
 h1, h2, h3, h4 {
-  font-weight: bold; }
+  font-weight: bold;
+}
 
 h4.nav {
-  font-size: 2.5rem; }
+  font-size: 2.5rem;
+}
 
 h4 {
-  font-size: 1.8rem; }
+  font-size: 1.8rem;
+}
 
 h4.capitalize {
-  text-transform: capitalize; }
+  text-transform: capitalize;
+}
 
-@media(min-width: 990px) {
+@media (min-width: 990px) {
   .container {
-    width: 990px; }
+    width: 990px;
+  }
 
   .thumb_grid a.title {
-    min-height: 5rem; } }
+    min-height: 5rem;
+  }
+}
 .navbar-brand {
   font-size: 4rem;
-  font-weight: bold; }
+  font-weight: bold;
+}
 
 @media print {
   .noprint {
-    display: none; }
+    display: none;
+  }
 
   a.noprint_url[href]:after {
-    content: ""; } }
+    content: "";
+  }
+}
 .page-break {
-  page-break-after: always; }
+  page-break-after: always;
+}
 
-@media(max-width: 550px) {
+@media (max-width: 550px) {
   ul.skills li {
     width: 50% !important;
-    padding-right: 3rem; }
+    padding-right: 3rem;
+  }
 
   .contact-info {
-    text-align: left; }
+    text-align: left;
+  }
 
   .main h2 {
     font-size: 2.5rem;
     margin-top: 3.4rem;
-    margin-bottom: 1.4rem; }
+    margin-bottom: 1.4rem;
+  }
 
   .main h3 {
-    font-size: 2rem; }
+    font-size: 2rem;
+  }
 
   h1 {
-    font-size: 4rem; } }
+    font-size: 4rem;
+  }
+}
 body {
   /* borrowed from GOV.UK */
   font-size: 19px;
-  line-height: 1.31578947; }
+  line-height: 1.31578947;
+}
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=static/css/main.css.map */

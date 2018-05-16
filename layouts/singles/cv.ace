@@ -253,14 +253,13 @@ html lang="en"
               ul
                 li Management of meta-data for hundreds of millions of briefs, commissions, programmes, versions, episodes and transmissions spanning 90 years of BBC Radio
                 li Migrated code from SVN to github and improved branching strategy
-                li Moving towards continuous deployment via Jenkins
-                li Improved release cadence from 3 times per year to every 2 weeks
+                li Enabling continuous deployment via Jenkins
+                li Improved release cycle from quarterly to fortnightly
                 li Introduced test automation
-                li Migrated from Team City to Jenkins
-                li Enabled transition from a monolithic legacy app to a series of RESTful API-based micro-services
-                li Enabled transition from legacy JS frameworks to ReactJS components
+                li Decomposing a monolithic legacy app to a series of RESTful API-based micro-services
+                li Migrating from legacy JS frameworks to ReactJS components
 
-              p Tools & Techniques: Confluence, Scrum, Kanban, BDD, Jira, Java, Spring, Struts, Jenkins, Hibernate, ReactJS, Cucumber, Docker, AWS
+              p Tools & Techniques: Confluence, Scrum, Kanban, BDD (Serenity, Capybara, Cucumber), Jira, Java, Spring, Struts, Jenkins, Hibernate, ReactJS, Docker, AWS
             .job
               h3 Agile / OKR Coach / Portfolio consultant
               / i.small (Contract)
@@ -273,7 +272,7 @@ html lang="en"
                 / li Engaging with iPlayer web & mobile, broadcast engineering, and others
                 / li Developing an in-house centre of excellence and knowledge-base on OKRs
                 li Designing and building bespoke reporting tools
-                li Introducing lean/kanban flow models for delivery
+                / li Introducing lean/kanban flow models for delivery
                 li Mentoring finance teams to join up spending and delivery
                 / li Adjusting programme governance
 

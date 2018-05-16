@@ -3,9 +3,9 @@
 {{ else }}
 {{ $original := .Resources.GetMatch (printf "%s*" ("cover")) }}
 {{if $original }}
-{{ $options := "800x600" }}
+{{ $options := "800x" }}
 {{/* See options in wide_pic.html*/}}
-{{ .Scratch.Set "image" ($original.Fill $options) }}
+{{ .Scratch.Set "image" ($original.Resize $options) }}
 {{ $image := .Scratch.Get "image" }}
 {{ $image.RelPermalink }}
 {{ end }}
