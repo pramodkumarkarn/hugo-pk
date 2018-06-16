@@ -20,6 +20,8 @@ I've helped the BBC to set goals like Google, I helped revolutionise [digital pr
 
 In light of Theo Blackwell's compelling and ambitious "<a href="https://www.london.gov.uk/what-we-do/business-and-economy/supporting-londons-sectors/smart-london/smarter-london-together" target="_blank">Smarter London Together</a>" roadmap, I'm excited to learn more about what Croydon needs from its first CDO and explore how I can help.
 
+Please see my CV at http://www.peterkappus.com/cv
+
 Thank you,
 <br>[Peter Kappus](http://www.peterkappus.com)
 
