@@ -306,9 +306,17 @@ h4.capitalize {
   font-weight: bold;
 }
 
+.onlyprint {
+  display: none;
+}
+
 @media print {
   .noprint {
     display: none;
+  }
+
+  .onlyprint {
+    display: visible;
   }
 
   a.noprint_url[href]:after {

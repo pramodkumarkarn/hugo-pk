@@ -4,6 +4,9 @@ draft: false
 date: 2018-05-12
 title: An Introduction to Nonviolent Communication (NVC)
 url: /blog/introduction-to-nonviolent-communication-nvc
+aliases:
+  - /blog/nvc
+  - /nvc
 categories:
   - Blog
   - NVC

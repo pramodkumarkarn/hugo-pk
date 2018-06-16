@@ -14,11 +14,20 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 ### Use Docker
 
 ```
+#first time...
 docker build -t hugo-pk .
+
+#subsequent times
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
+#render pages in the background
 hugo server --disableFastRender --navigateToChanged --bind=0.0.0.0 &
+#render sass in the background
 watch sass sass/main.sass static/css/main.css
+#NOTE: For some reason, I can't redirect sass's output to /dev/null to hide it. Therefore, it's best to spin up another box when you need to run docker commands (e.g. new)
 ```
+
+### Creating posts, etc.
+`docker run hugo-pk hugo new <blog/newpost.md>`
 
 
 ### Adding images.

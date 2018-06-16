@@ -1,0 +1,21 @@
+= doctype html
+{{ $available_msg := "Available from <b>September 2018</b> for interim roles in central London." }}
+{{ $looking := true }}
+{{ $left_side := 2}}
+html lang="en"
+  {{ partial "header" .}}
+  body
+    .container.main
+      .row
+        .col-sm-12
+          div width="100%"
+            h1.fit style="color: #880088" {{ .Title}}
+            hr
+      .row
+        .col-xs-2.noprint
+          div style="width: 99%"
+            b.fit Hello!
+            hr
+        .col-xs-10 style="padding-top: 10px;"
+          {{ .Content }}
+      {{ partial "footer" .}}

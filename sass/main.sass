@@ -13,7 +13,7 @@
 /* responsive video! */
 
 /* Custom styles for use in blog posts */
-
+  
 blockquote
   background: #fafafa
   margin: 5rem 0
@@ -262,11 +262,16 @@ h4.capitalize
   font-size: 4rem
   font-weight: bold
 
+.onlyprint
+  display: none
+  
 @media print
   .noprint
     display: none
+  .onlyprint
+    display: visible
   a.noprint_url[href]:after
-    content: ""
+    content: ""  
 
 .page-break
   page-break-after: always
