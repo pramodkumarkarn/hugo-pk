@@ -18,7 +18,7 @@ I've helped the BBC to set goals like Google, I helped revolutionise [digital pr
 
 <!--My best digital transformation work has been about two things: simplicity, and humanity.--> I'm passionate about techniques such as [Nonviolent Communication](http://www.peterkappus.com/blog/introduction-to-nonviolent-communication-nvc/), maintaining a clear focus on user needs, and using existing, often deliberately low-tech tools in new ways to create powerful results.<!-- (often for far less investment than simply buying the shiniest newest thing off the shelf). -->
 
-In light of Theo Blackwell's compelling and ambitious "<a href="https://www.london.gov.uk/what-we-do/business-and-economy/supporting-londons-sectors/smart-london/smarter-london-together" target="_blank">Smarter London Together</a> roadmap, I look forward to learning more about what Croydon needs from its first CDO and looking together at how I can help.
+In light of Theo Blackwell's compelling and ambitious "<a href="https://www.london.gov.uk/what-we-do/business-and-economy/supporting-londons-sectors/smart-london/smarter-london-together" target="_blank">Smarter London Together</a>" roadmap, I'm excited to learn more about what Croydon needs from its first CDO and explore how I can help.
 
 Thank you,
 <br>[Peter Kappus](http://www.peterkappus.com)
