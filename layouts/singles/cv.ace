@@ -251,13 +251,13 @@ html lang="en"
               h5 Nov 2017 - present
               p In addition to my portfolio and process improvement work, I am now delivering the platform which enables commissioning and scheduling of every second of audio played  on BBC Radio.
               ul
-                li Management of meta-data for hundreds of millions of briefs, commissions, programmes, versions, episodes and transmissions spanning 90 years of BBC Radio
+                li Management of metadata for hundreds of millions of briefs, commissions, programmes, versions, episodes and transmissions spanning 90 years of BBC Radio
                 li Migrated code from SVN to github and improved branching strategy
-                li Enabling continuous deployment via Jenkins
-                li Improved release cycle from quarterly to fortnightly
-                li Introduced test automation
-                li Decomposing a monolithic legacy app to a series of RESTful API-based micro-services
-                li Migrating from legacy JS frameworks to ReactJS components
+                li Introduced test automation and continuous delivery via Jenkins 
+                li Reduced avgerage time between deployments from 4 months to 5 days
+                li Reduced regression testing time from 2 weeks to 2 days
+                li Decomposing monolithic legacy app into RESTful API-based micro-services
+                li Migrating from legacy JS frameworks to ReactJS
 
               p Tools & Techniques: Confluence, Scrum, Kanban, BDD (Serenity, Capybara, Cucumber), Jira, Java, Spring, Struts, Jenkins, Hibernate, ReactJS, Docker, AWS
             .job

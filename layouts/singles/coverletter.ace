@@ -5,17 +5,18 @@
 html lang="en"
   {{ partial "header" .}}
   body
-    .container.main
+    .container.main.coverletter
       .row
         .col-sm-12
           div width="100%"
             h1.fit style="color: #880088" {{ .Title}}
             hr
       .row
-        .col-xs-2.noprint
-          div style="width: 99%"
-            b.fit Hello!
-            hr
-        .col-xs-10 style="padding-top: 10px;"
+        /
+          .col-xs-2.noprint
+            div style="width: 99%"
+              b.fit Hello!
+              hr
+        .col-xs-12 style="padding-top: 10px;"
           {{ .Content }}
       {{ partial "footer" .}}

@@ -262,15 +262,14 @@ h4.capitalize
   font-size: 4rem
   font-weight: bold
 
-.onlyprint
-  display: none
-  
 @media print
   .noprint
     display: none
   .onlyprint
     display: visible
   a.noprint_url[href]:after
+    content: "" 
+  .coverletter  a[href]:after
     content: ""  
 
 .page-break
