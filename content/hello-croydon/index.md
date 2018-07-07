@@ -2,6 +2,7 @@
   type: singles
   layout: coverletter
   title: Hello Croydon!
+  draft: true
 ---
 
 <small style="font-size: 1.5rem;">18 June 2019</small>
