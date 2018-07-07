@@ -3,26 +3,24 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 
 This readme is mostly to remind me where stuff is and how to work on this site in case I forget... which I will sooner or later.
 
-## Domains
-A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
-
-The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
-
 
 ## Development
 
 ### Use Docker
 
 ```
-#first time...
+#first time only...
 docker build -t hugo-pk .
 
 #subsequent times
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
+
 #render pages in the background
 hugo server --disableFastRender --navigateToChanged --bind=0.0.0.0 &
+
 #render sass in the background
 watch sass sass/main.sass static/css/main.css
+
 #NOTE: For some reason, I can't redirect sass's output to /dev/null to hide it. Therefore, it's best to spin up another box when you need to run docker commands (e.g. new)
 ```
 
@@ -59,8 +57,14 @@ OR, use [this](https://hub.docker.com/r/garland/docker-s3cmd/)
 ## Contact form
 Currently using a free WufooForm but should consider [Formspree](https://formspree.io/). Downside of Formspree is your email get's exposed in the source (in the free version, at least).
 
+## Domains
+A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
+
+The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
+
+
 ## Other stuff...
-Image manipulation:
+Hopefully some of this is now irrelevant because we're using hugo short codes for resizing (see NVC post for examples)
 
 - Resize images for web use:
 ```
