@@ -2,7 +2,7 @@
 author: p3trk
 cover: Picture-3.jpg
 date: 2018-03-20
-title: Metrics for Agile Teams Supporting Legacy Applications
+title: Metrics for agile teams supporting legacy applications
 categories:
   - Blog
   - Agile

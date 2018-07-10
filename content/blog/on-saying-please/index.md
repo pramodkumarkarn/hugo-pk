@@ -1,8 +1,9 @@
 ---
-title: On Saying "Please"
+title: On saying "please"
 date: 2018-07-10
 categories:
   - Blog  
+  - NVC
 tags: NVC
 resources:
   - name: cover
