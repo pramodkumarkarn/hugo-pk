@@ -9,8 +9,8 @@ categories:
   - Art
 cover: abstraktor2.jpg
 ---
-Playing at the edges of mathematics, science, and design, ABSTRAKTOR is a vaguely authoritarian, non-gendered non-denominational art collective.
+Swaggering gallantly (but relatively ineptly) into the worlds of mathematics and biology, ABSTRAKTOR is a vaguely authoritarian, non-gendered art collective (of one) using algorithms, pattern, and selective mutation to explore the limits of mechanised human expression.
 
-Since 2012, ABSTRAKTOR has attempted to capture the complex rhythms, and chaotic beauty of the natural world using basic geometry and simple mathematical rules.
+In other words, an excuse to make pretty things with code.
 
-### <a href="http://abstraktor.com" target="_blank">Visit the site &raquo;</a>
+### <a href="http://abstraktor.com" target="_blank">Visit the website &raquo;</a>

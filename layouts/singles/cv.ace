@@ -249,17 +249,16 @@ html lang="en"
               / i.small (Contract)
               h4 British Broadcasting Corporation - Proteus Team
               h5 Nov 2017 - present
-              p In addition to my portfolio and process improvement work, I am now delivering the platform which enables commissioning and scheduling of every second of audio played  on BBC Radio.
-              ul
-                li Management of metadata for hundreds of millions of briefs, commissions, programmes, versions, episodes and transmissions spanning 90 years of BBC Radio
-                li Migrated code from SVN to github and improved branching strategy
-                li Introduced test automation and continuous delivery via Jenkins 
-                li Reduced avgerage time between deployments from 4 months to 5 days
+              p While continuing to support TV & Radio teams generally, I am now providing agile coaching and delivery management for the Proteus team. The Proteus platform enables the commissioning and scheduling of every second of audio played on BBC Radio and manages meta-data for hundreds of millions of briefs, commissions, programmes, versions, episodes and transmissions from the past 90 years.
+                li Reduced mean time between releases from 4 months to 9 days
                 li Reduced regression testing time from 2 weeks to 2 days
+                li Migrated 8k+ source code files from SVN to github 
+                li Improved code quality and understanding via pairing and Pull Requests
+                li Introduced test automation and continuous delivery via Jenkins 
                 li Decomposing monolithic legacy app into RESTful API-based micro-services
                 li Migrating from legacy JS frameworks to ReactJS
 
-              p Tools & Techniques: Confluence, Scrum, Kanban, BDD (Serenity, Capybara, Cucumber), Jira, Java, Spring, Struts, Jenkins, Hibernate, ReactJS, Docker, AWS
+              p Tools & Techniques: Confluence, Scrum, Kanban, BDD (Serenity, Capybara, Cucumber), Jira, Java (Spring, Struts, Hibernate), Jenkins, ReactJS, Docker, AWS, Puppet
             .job
               h3 Agile / OKR Coach / Portfolio consultant
               / i.small (Contract)
@@ -267,11 +266,11 @@ html lang="en"
               h5 Jun 2017 - present
               p Coaching 300+ people in <b>18 teams</b> across TV & Radio (including <b>iPlayer</b>) in adopting Objectives and Key Results
               ul
-                li Consulting on wider portfolio transformation efforts
-                li Leading workshops and training sessions at all levels
+                li Improving visibility across multi-million pound portfolio 
+                li Leading workshops and training sessions at all levels including senior leadership
                 / li Engaging with iPlayer web & mobile, broadcast engineering, and others
                 / li Developing an in-house centre of excellence and knowledge-base on OKRs
-                li Designing and building bespoke reporting tools
+                li Designing and implementing bespoke tracking & reporting tools (Ruby on Rails & Google Sheets)
                 / li Introducing lean/kanban flow models for delivery
                 li Mentoring finance teams to join up spending and delivery
                 / li Adjusting programme governance
@@ -309,11 +308,11 @@ html lang="en"
                 li Enabled real-time business planning and reporting with no additional overhead
                 li Replaced complex, inflexible vendor ERP solution with bespoke BI platform
                 li <b>Saved £100k+</b> while improving accuracy, engagement, and user satisfaction
-                li Reduced reporting cycles from quarterly to monthly
+                li Moved from quarterly to monthly delivery/finance reporting cycles
                 / li Upskilled non-technical internal team to deliver internal digital tools, processes and services to ensure ongoing improvement
-                li Streamlined business planning to make it light-weight, continuous, and real-time
-                li Introduced impact-mapping and Objectives and Key Results (OKRs)
-                li Created bespoke OKR tracking tool using <b>Ruby on Rails</b>
+                li Streamlined business planning making it light-weight, continuous, and real-time
+                li Introduced impact-mapping and <b>Objectives and Key Results (OKRs)</b>
+                li Created bespoke <b>OKR</b> tracking tool using <b>Ruby on Rails</b>
 
               p Technologies: Google sheets w/ heavy scripting, Google Forms, Ruby on Rails, Hyperion, Anaplan, JavaScript, and more.
 

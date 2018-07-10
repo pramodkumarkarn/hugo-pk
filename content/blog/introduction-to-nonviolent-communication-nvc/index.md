@@ -67,7 +67,7 @@ Let's look a little deeper at each of these...
 ### Observing without judging
 It's extremely difficult to observe without immediately judging or evaluating. Making judgements is something we're biologically hard-wired to do for our own survival and advancement.
 
-Practice identifying when you're making a judgement and instead try to make a clear observation. Even a statement like "You're yellling" can be interpreted as having an element of judgement or blame in it. Watch out for statements like "You always" or "you never".
+Practice identifying when you're making a judgement and instead try to make a clear observation. Even a statement like "You're yelling" can be interpreted as having an element of judgement or blame in it. Watch out for statements like "You always" or "you never".
 
 For example, instead of saying "you're always late" you might say "The past 3 times we've met, you've arrived more than 15 minutes after the agreed meeting time." This takes a lot of practice.
 
@@ -76,7 +76,7 @@ Many cultures discourage openly expressing emotions as part of regular communica
 
 As a result of such cultural training, most of us have a very limited vocabulary with which to express our feelings. It may be limited to "good", "bad", "happy", "angry", etc.
 
-When we clearly articulate and label our emotions (and don't mix them with observations, evaluations, or strategeies), they become an extremely powerful (even vital) tool for understanding how well our needs are being met and how to move forward. It can be enormously liberating to know that we've found a word to express our true feeling and that another has understood us.
+When we clearly articulate and label our emotions (and don't mix them with observations, evaluations, or strategies), they become an extremely powerful (even vital) tool for understanding how well our needs are being met and how to move forward. It can be enormously liberating to know that we've found a word to express our true feeling and that another has understood us.
 
 It's a useful exercise to write down some more nuanced words for expressing your emotions and practice using them on a regular basis. This way, they'll be available when you need them instead of making you feel like you can't express yourself (or be understood).
 
