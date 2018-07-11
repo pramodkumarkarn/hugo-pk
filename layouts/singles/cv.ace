@@ -249,9 +249,10 @@ html lang="en"
               / i.small (Contract)
               h4 British Broadcasting Corporation - Proteus Team
               h5 Nov 2017 - present
-              p While continuing to support TV & Radio teams generally, I am now providing agile coaching and delivery management for the Proteus team. The Proteus platform enables the commissioning and scheduling of every second of audio played on BBC Radio and manages meta-data for hundreds of millions of briefs, commissions, programmes, versions, episodes and transmissions from the past 90 years.
+              p While continuing to support TV & Radio teams more generally, I am now providing agile coaching and delivery management for the Proteus team, specifically. The 15+ year old Proteus platform enables the commissioning and scheduling of every second of audio played on BBC Radio and manages meta-data for hundreds of millions of briefs, commissions, programmes, versions, episodes and transmissions from the past 90 years.
               ul
                 li Reduced mean time between releases from 4 months to 9 days
+                li Reduced deployment time from 4 hours to 25 minutes
                 li Reduced regression testing time from 2 weeks to 2 days
                 li Migrated over 8,000 source code files from SVN to Github 
                 li Improved code quality and understanding via pairing and Pull Requests
@@ -275,7 +276,7 @@ html lang="en"
                 li Designing and implementing bespoke tracking & reporting tools (Ruby on Rails & Google Sheets)
                 / li Introducing lean/kanban flow models for delivery
                 li Mentoring finance teams to join up spending and delivery
-                / li Adjusting programme governance
+                /li Advising on portfolio governance
               
               p Tools & Techniques: Confluence, OKRs, Google Docs, Jira, Ruby on Rails, Cucumber, Docker, Vagrant, AWS, Cloud Formation, Postgres
             .job
@@ -465,39 +466,39 @@ html lang="en"
                   h3 The Stock Market Photo Agency
                   h4 Feb 2000 - May 2002
                   p <b>Lead UI designer</b> and <b>developer</b> of the core <b>e-commerce</b> site for a medium-sized stock photography house doing 40% of its business online. Implemented various digital marketing campaigns. Successfully designed and deployed a Perl-based <b>software CMS</b> solution that enabled local market leaders, without technical expertise, to deliver a local product to five markets in under two weeks. Technologies included <b>HTML, Perl, ASP, JavaScript.</b>xxx
-          .row
-            .col-sm-12
-              hr
-              / p style="page-break-before: always"
-            .col-sm-2
-              h3 Education
-            .col-sm-10
-              .school
-                h4 University of Colorado at Boulder, USA
-                h5 Bachelor of Arts in Environmental Design (Architecture) &mdash; <strong>3.75 GPA</strong>
-                p Additional coursework in computer science
-              .school
-                h4 Rhode Island School of Design, USA
-                h5 European Honors Program (EHP) Art History/Architecture studio &mdash; <b>4.0 GPA</b>
-              .school
-                h4.other Additional courses, certifications, and conferences available upon request
-          .row
-            .col-sm-12
-              hr
-          .row
-            .col-sm-2
-              h3 Miscellany
-            .col-sm-10
-              p Dual-national (US &amp; UK). Musician, composer, abstract artist, and conversational French-speaker. Self-appointed world diplomat. Able to leap tall buildings in a single bound.
-              p Learn more at <a class="noprint_url" href="http://www.peterkappus.com">http://www.peterkappus.com</a>
-              {{ if $looking }}
-          .row.noprint
-            .col-sm-12
-              hr
-          .row.noprint.looking
-            .col-sm-12
-              | {{ $available_msg | safeHTML}}
-              / a href="/contact" Contact me now!
-              {{ end }}
-              .hidden-print
-              {{ partial "footer" .}}
+            .row
+              .col-sm-12
+                hr
+                / p style="page-break-before: always"
+              .col-sm-2
+                h3 Education
+              .col-sm-10
+                .school
+                  h4 University of Colorado at Boulder, USA
+                  h5 Bachelor of Arts in Environmental Design (Architecture) &mdash; <strong>3.75 GPA</strong>
+                  p Additional coursework in computer science
+                .school
+                  h4 Rhode Island School of Design, USA
+                  h5 European Honors Program (EHP) Art History/Architecture studio &mdash; <b>4.0 GPA</b>
+                .school
+                  h4.other Additional courses, certifications, and conferences available upon request
+            .row
+              .col-sm-12
+                hr
+            .row
+              .col-sm-2
+                h3 Miscellany
+              .col-sm-10
+                p Dual-national (US &amp; UK). Musician, composer, abstract artist, and conversational French-speaker. Self-appointed world diplomat. Able to leap tall buildings in a single bound.
+                p Learn more at <a class="noprint_url" href="http://www.peterkappus.com">http://www.peterkappus.com</a>
+                {{ if $looking }}
+            .row.noprint
+              .col-sm-12
+                hr
+            .row.noprint.looking
+              .col-sm-12
+                | {{ $available_msg | safeHTML}}
+                / a href="/contact" Contact me now!
+                {{ end }}
+                .hidden-print
+                {{ partial "footer" .}}
