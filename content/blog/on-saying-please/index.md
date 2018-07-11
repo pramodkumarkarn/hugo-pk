@@ -12,13 +12,13 @@ resources:
       credit: Photo by Patrick Fore on Unsplash
       link: https://unsplash.com/photos/AfhSPYdkxiU
 ---
-One of my favourite quotes from [Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg), the founder of [Nonviolent Communication]({{< ref "/blog/introduction-to-nonviolent-communication-nvc" >}}), is that “people are only ever saying please and thank you”. 
+One of my favourite quotes from [Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg), the founder of [Nonviolent Communication]({{< ref "/blog/introduction-to-nonviolent-communication-nvc" >}}), is that “people are only ever saying 'please' and 'thank you'”. 
 
-When we use the word “please” to make a request, in almost any language, what we’re really saying is “if it pleases you”. We’re expressing consideration for another’s needs and asking them to only do what we’ve requested if it also helps meet their own needs.
+When we use the word “please” to make a request, in almost any language, what we’re really saying is “if it pleases you”. We’re expressing consideration for another’s needs and asking them to only do what we’ve requested if it also helps meet their own needs. 
 
-Marshall talked a lot about what he called **"natural giving"**, the giving that springs naturally from our basic human need to contribute to the wellbeing of others. We all want to deepen our relationships to others and to have a positive impact on the world around us. According to Marshall, we are most "alive" in this state of pleasurable, natural giving and receiving. 
+Marshall talked a lot about what he called **"natural giving"**: the giving that springs naturally from our basic human need to contribute to the wellbeing of others. We all want to deepen our relationships to others and to have a positive impact on the world around us. According to Marshall, we are most "alive" in this state of pleasurable, natural, giving and receiving. 
 
-Saying “please” brings us into contact with this state. It invites others to connect with their own needs to understand how helping us to meet _our needs_ might serve _them_ in the process. It makes them a co-creator in a better life for everyone rather than a competitor in a zero-sum game.
+Saying “please” brings us into contact with this state. It invites others to connect with their own needs to understand how helping us to meet _our needs_ might serve _them_ in the process. The wonderful [Greg McBride](https://www.dignitymemorial.com/obituaries/bellevue-wa/gregory-mcbride-6389745), suggested framing every request with the phrase _"If it would serve you..."_. By doing so, we make the "giver" a co-creator in a better life for everyone rather than a competitor in a zero-sum game.
 
 Practice thinking of the other person's needs before you make a request and observe what happens: 
 
