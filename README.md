@@ -28,11 +28,15 @@ watch sass sass/main.sass static/css/main.css
 ```
 
 ### Creating posts, etc.
-`docker run hugo-pk hugo new <blog/newpost.md>`
+`docker run hugo-pk hugo new blog/<POST-TITLE>/index.md`
 
-
-### Adding images.
-Check the front matter of the OKR Workshop post for info on how to include a cover photo.
+### Adding cover images
+[Unsplash](https://unsplash.com/) has great, free images.
+Find a picture...
+Download it into the blog post folder
+Copy the "Photo by..." line they give you.
+Then click on it, and click the "Share" button
+Copy the URL they give you and put this in the "link" attribute in the front matter.
 
 ### shutting down
 ```
