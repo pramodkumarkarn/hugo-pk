@@ -142,7 +142,7 @@ By using our different “ears” we can either hear blame, criticism, and attac
 
 According to Marshall Rosenberg, "with this technology it will be impossible for you to hear criticism, harsh remarks, [or] criticism. All you can hear is the only thing human beings are ever saying: 'please' and 'thank you'...what used to sound like criticism, judgements, and blame, are simply tragic, suicidal expressions of 'please'." <sup>[1](https://www.youtube.com/watch?v=snSBp9iUG_M&t=4:20)</sup>
 
-> ### Everyone is only ever saying “Please” or “Thank you”. We just need to be able to hear them. :ear::wink:
+> ### Everyone is only ever [saying “Please”]({{< ref "/blog/on-saying-please" >}}) or “Thank you”. We just need to be able to hear them. :ear::wink:
 
 ## Going deeper
 This is a tiny taste of what NVC has to offer but should provide you with some background and a few tools to try out. If you'd like to go deeper, I recommend reading the book :books: ["Nonviolent Communication, A Language of Life"](https://www.amazon.co.uk/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034) by Marshall Rosenberg or listening to this :cd: [9-hour audio programme](https://www.youtube.com/watch?v=O4tUVqsjQ2I) given by Marhsall, himself. I really enjoy being able to hear his voice and relaxed, clear way of speaking.
