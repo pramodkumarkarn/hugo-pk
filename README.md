@@ -17,7 +17,7 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 #first time...
 docker build -t hugo-pk .
 
-#subsequent times
+#subsequent times (just paste the following lines into a terminal and it will run the "inside this container" pieces once the container starts)
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
 #inside the container run the following...
 #render pages in the background

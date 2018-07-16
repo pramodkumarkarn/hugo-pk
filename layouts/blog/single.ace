@@ -73,15 +73,33 @@ html lang="en"
           a href="/cv" Find out more.
           hr
           h2 Other posts
+          {{ .Params.featured }}
+          / (where .Site.Taxonomies.tags.featured)
+          / {{ .Title }}
+          {{ .Scratch.Set "currentTitle" .Title }}
+          {{ range first 1 (where .Site.Pages ".Params.featured" "=" true) }}
+            {{ if (not (eq .Title (.Scratch.Get "currentTitle"))) }}
+              {{ .Scratch.Set "featuredTitle" .Title }}
+              p
+                a href="{{ .Permalink }}" {{ .Title }}
+            {{ end }}
+          {{ end }}
           {{if .PrevInSection}}
+            {{ if (not (eq .PrevInSection.Title (.Scratch.Get "featuredTitle")))}}
             p
-              a href="{{.PrevInSection.Permalink}}" {{.PrevInSection.Title}}
+              a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
+            {{ end }}
           {{end}}
           ||
           {{if .NextInSection}}
+            {{ if (not (eq .NextInSection.Title (.Scratch.Get "featuredTitle")))}}
             p
-              a href="{{.NextInSection.Permalink}}" {{.NextInSection.Title}}
+              a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
+            {{ end }}
           {{end}}
+          h2 {{ .Scratch.Get "featuredTitle" }}
+
+          
           hr
           h2 Follow me
           p

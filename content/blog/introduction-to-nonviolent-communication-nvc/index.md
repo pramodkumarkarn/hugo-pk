@@ -10,6 +10,7 @@ aliases:
 categories:
   - Blog
   - NVC
+featured: true
 resources:
   - name: cover
     src: marshall_rosenberg.jpg

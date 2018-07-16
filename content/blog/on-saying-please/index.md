@@ -14,8 +14,6 @@ resources:
 ---
 Previously, I've [introduced Nonviolent Communication]({{< ref "/blog/introduction-to-nonviolent-communication-nvc" >}}) and one of my favourite observations from its founder, [Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg): that “people are only ever saying 'please' and 'thank you'”. 
 
-Let's go deeper.
-
 When we use the word “please” to make a request, in almost any language, what we’re really saying is “if it pleases you”. We’re expressing consideration for another’s needs and asking them to only do what we’ve asked if it also helps meet their own needs. 
 
 Marshall talked a lot about what he called **"natural giving"**: the giving that springs naturally from our [basic human need to contribute](https://www.entrepreneur.com/article/240441) to the wellbeing of others. We all want to deepen our relationships to others and to have a positive impact on the world around us. According to Marshall, we are most "alive" in this state of pleasurable, natural, giving and receiving. 
