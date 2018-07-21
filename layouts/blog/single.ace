@@ -73,33 +73,30 @@ html lang="en"
           a href="/cv" Find out more.
           hr
           h2 Other posts
-          {{ .Params.featured }}
-          / (where .Site.Taxonomies.tags.featured)
-          / {{ .Title }}
-          {{ .Scratch.Set "currentTitle" .Title }}
-          {{ range first 1 (where .Site.Pages ".Params.featured" "=" true) }}
-            {{ if (not (eq .Title (.Scratch.Get "currentTitle"))) }}
-              {{ .Scratch.Set "featuredTitle" .Title }}
+          {{ $myScratch := newScratch }}
+          {{ $myScratch.Set "greeting" "hiya"}}
+          {{ $myScratch.Set "currentTitle" .Title }}
+          {{ $myScratch.Set "promotedTitle" "fish" }}       
+          {{ range (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) }}     
+            {{ $myScratch.Set "promotedTitle" .Title }} 
+            p
+              a href="{{ .Permalink }}" {{ .Title }}
+          {{ end }}
+
+          {{if .PrevInSection }}
+            {{ if ne .PrevInSection.Title ($myScratch.Get "promotedTitle") }}
               p
-                a href="{{ .Permalink }}" {{ .Title }}
+                a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
             {{ end }}
           {{ end }}
-          {{if .PrevInSection}}
-            {{ if (not (eq .PrevInSection.Title (.Scratch.Get "featuredTitle")))}}
-            p
-              a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
-            {{ end }}
-          {{end}}
           ||
           {{if .NextInSection}}
-            {{ if (not (eq .NextInSection.Title (.Scratch.Get "featuredTitle")))}}
+            {{ if ne .NextInSection.Title ($myScratch.Get "promotedTitle") }}
             p
               a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
-            {{ end }}
+            {{end}}
           {{end}}
-          h2 {{ .Scratch.Get "featuredTitle" }}
-
-          
+          h2 {{ $myScratch.Get "featuredTitle" }}
           hr
           h2 Follow me
           p

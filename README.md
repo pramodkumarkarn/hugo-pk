@@ -14,7 +14,7 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 ### Use Docker
 
 ```
-#first time...
+#first time...(or when a new version of hugo comes out)
 docker build -t hugo-pk .
 
 #subsequent times (just paste the following lines into a terminal and it will run the "inside this container" pieces once the container starts)
@@ -26,6 +26,9 @@ hugo server --disableFastRender --navigateToChanged --bind=0.0.0.0 &
 watch sass sass/main.sass static/css/main.css
 #NOTE: For some reason, I can't redirect sass's output to /dev/null to hide it. Therefore, it's best to spin up another box when you need to run docker commands (e.g. new)
 ```
+Need a new version of Hugo? 
+`docker rmi hugo-pk; docker pull jguyomard/hugo-builder:latest`
+Then run the commands above to rebuild with the new version.
 
 ### Creating posts, etc.
 `docker run hugo-pk hugo new blog/<POST-TITLE>/index.md`
@@ -51,7 +54,7 @@ TIP: Want to browse from your mobile device? Assuming your local IP (found via `
 ## Deployment
 NOTE: I've also packaged this one into a script called `deploy.sh`
 
-`hugo ; s3cmd sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*`
+`hugo; s3cmd sync -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com`
 
 This will generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (`-P`). The `--rexclude=.git*` prevents the git files in the subdirectory (e.g. Spamwords) from being uploaded
 

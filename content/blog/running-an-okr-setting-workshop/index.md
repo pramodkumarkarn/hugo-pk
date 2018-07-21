@@ -1,6 +1,7 @@
 ---
 title: Running an OKR setting workshop
 date: 2018-04-09
+featured: true
 resources:
   - name: cover
     src: okr-workshop.jpg

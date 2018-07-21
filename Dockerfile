@@ -1,4 +1,4 @@
-FROM jguyomard/hugo-builder
+FROM jguyomard/hugo-builder:latest
 
 #sass
 RUN apk add --update bash nodejs nodejs-npm
