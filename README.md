@@ -59,10 +59,13 @@ NOTE: I've also packaged this one into a script called `deploy.sh`
 This will generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (`-P`). The `--rexclude=.git*` prevents the git files in the subdirectory (e.g. Spamwords) from being uploaded
 
 ### Deploy via docker
-The docker file includes `s3cmd`. TODO: add instructions for configuring it `s3cmd --configure` and saving the state of the container (or storing the s3config file in the host (being sure to .gitignore it))
+```
+#setup
+docker run -it --rm -v $(pwd):/root peterk/s3cmd  --configure
 
-OR, use [this](https://hub.docker.com/r/garland/docker-s3cmd/)
-
+#syncing
+docker run -it --rm -v $(pwd):/root -v $(pwd)/public:/public peterk/s3cmd  sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*`
+```
 
 ## Contact form
 Currently using a free WufooForm but should consider [Formspree](https://formspree.io/). Downside of Formspree is your email get's exposed in the source (in the free version, at least).
