@@ -104,6 +104,7 @@ html lang="en"
               / financial services payment processing
 
               li Process improvement
+              li Change management training
               li Data-driven decision making
               li Objectives & Key Results (OKRs)
               li Lean / agile coaching & delivery
@@ -114,7 +115,7 @@ html lang="en"
               / li Business planning
               / li Basic Accounting / finance
               li Stakeholder management
-              / li Goal setting / OKRs
+              li Goal setting / OKRs
               / li Target Operating Model (TOM)
               / li User centred design
               li Risk management
@@ -127,7 +128,7 @@ html lang="en"
               / li Rapid prototyping
               / li Team leadership & motivation
               / li Product / service management
-              li Nonviolent communication
+              / li Nonviolent communication
               / li Ruby on Rails, HTML/JS/CSS
 
               /
@@ -269,14 +270,14 @@ html lang="en"
               h5 Jun 2017 - present
               p Coaching 300+ people in <b>18 teams</b> across TV & Radio (including <b>iPlayer</b>) in adopting Objectives and Key Results
               ul
-                li Improving visibility across multi-million pound portfolio 
+                li Improving visibility across multi-million pound change portfolio 
                 li Leading workshops and training sessions at all levels including senior leadership
                 / li Engaging with iPlayer web & mobile, broadcast engineering, and others
                 / li Developing an in-house centre of excellence and knowledge-base on OKRs
                 li Designing and implementing bespoke tracking & reporting tools (Ruby on Rails & Google Sheets)
                 / li Introducing lean/kanban flow models for delivery
                 li Mentoring finance teams to join up spending and delivery
-                /li Advising on portfolio governance
+                li Advising on portfolio governance
               
               p Tools & Techniques: Confluence, OKRs, Google Docs, Jira, Ruby on Rails, Cucumber, Docker, Vagrant, AWS, Cloud Formation, Postgres
             .job
@@ -354,8 +355,8 @@ html lang="en"
                   li Coached teams and stakeholders in scrum & <b>kanban</b> methods
                   / li Turned stakeholders from sceptics to partners by improving efficacy, quality and time to market while reducing cost
                   / li Demonstrated high customer satisfaction with real data
-                  li Transitioned from legacy ITIL to modern DevOps culture
-                  li Introduced BDD via Capybara, Cucumber, phantomJS, Jenkins
+                  li Transitioned from legacy <b>ITIL</b> to modern <b>DevOps</b> culture
+                  li Introduced <b>BDD</b> via Capybara, Cucumber, phantomJS, Jenkins
                   li Delivered complete redesign, rebuild, and platform migration of the <a href="https://qualifications.pearson.com" target="_blank">Pearson Qualifications</a> website (a <b>£300M+</b> annual business with 60K+ pages and documents) from SharePoint to Adobe Experience Manager (CQ)
                   / li Embedded lasting change: improved ways of working continue to deliver benefits today
                   li Lasting change to delivery methodologies
