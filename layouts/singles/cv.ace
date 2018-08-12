@@ -1,5 +1,5 @@
 = doctype html
-{{ $available_msg := "Available from <b>September 2018</b> for interim roles in central London." }}
+{{ $available_msg := "Available from <b>October 2018</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 html lang="en"
@@ -116,11 +116,13 @@ html lang="en"
               / li Basic Accounting / finance
               li Stakeholder management
               li Goal setting / OKRs
+              li Modernising legacy platforms
+              
               / li Target Operating Model (TOM)
               / li User centred design
               li Risk management
               li Communities of practice
-              li Jira / Trello / Post-it Notes ;)
+              / li Jira / Trello / Post-it Notes ;)
               li Modelling and forecasting
               / li Radical transparency
               / li Systems thinking / Cynefin
@@ -250,14 +252,14 @@ html lang="en"
               / i.small (Contract)
               h4 British Broadcasting Corporation - Proteus Team
               h5 Nov 2017 - present
-              p While continuing to support TV & Radio teams more generally, I am now providing agile coaching and delivery management for the Proteus team, specifically. The 15+ year old Proteus platform enables the commissioning and scheduling of every second of audio played on BBC Radio and manages meta-data for hundreds of millions of briefs, commissions, programmes, versions, episodes and transmissions from the past 90 years.
+              p While continuing to support TV & Radio teams more generally, I am now providing agile coaching and delivery management for the Proteus team, specifically. The 15+ year old legacy Proteus platform enables the commissioning and scheduling of <b>every second of audio played on BBC Radio</b> and manages meta-data for <b>hundreds of millions</b> of briefs, commissions, programmes, versions, episodes and transmissions from the past <b>90+ years</b>.
               ul
-                li Reduced mean time between releases from 4 months to 9 days
-                li Reduced deployment time from 4 hours to 25 minutes
-                li Reduced regression testing time from 2 weeks to 2 days
+                li Reduced mean time between releases from 4 months to 8 days
+                li Reduced deployment time from <b>4 hours to 10 minutes</b>
+                li Reduced regression testing time from <b>2 weeks to 2 days</b>
                 li Migrated over 8,000 source code files from SVN to Github 
                 li Improved code quality and understanding via pairing and Pull Requests
-                li Introduced test automation and continuous delivery via Jenkins 
+                li Introduced test automation and <b>continuous integration</b> via Jenkins 
                 li Decomposing monolithic legacy app into RESTful API-based micro-services
                 li Migrating from legacy JS frameworks to ReactJS
                 
