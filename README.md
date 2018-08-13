@@ -38,6 +38,7 @@ Then run the commands above to rebuild with the new version.
 Find a picture...
 Download it into the blog post folder
 Copy the "Photo by..." line they give you.
+Paste it into the front matter.
 Then click on it, and click the "Share" button
 Copy the URL they give you and put this in the "link" attribute in the front matter.
 

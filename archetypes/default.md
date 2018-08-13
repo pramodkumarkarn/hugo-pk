@@ -1,6 +1,6 @@
 ---
-title: This is my blog post title
-date: today
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 categories:
   - Blog  
 resources:
