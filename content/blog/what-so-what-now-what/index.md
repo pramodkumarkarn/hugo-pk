@@ -9,25 +9,26 @@ resources:
     params:
       credit: Photo by Zac Nielson on Unsplash
       link: https://unsplash.com/photos/XtdwbJy1rKc
-
 ---
 
 As long as we're growing, be it personally, professionally, or in any other way, we're constantly being confronted with new events and new information. Our task as engaged colleagues, artists, mentors, teams, leaders, companies, friends, lovers, etc. is to constantly look at each piece of information and decide the following: 
 
 >
-* What are we observing?
+* What are we looking at?
 * What does it mean to us?
 * What should we do next?
 
 In other words **Observe, then Evaluate, then Respond**.
 
-Clearly delineating each step provides structure and intentionality to what can otherwise, be a highly chaotic and emotionally charged process. 
+Clearly delineating each step provides structure and intentionality to what can otherwise, be a highly chaotic and emotionally charged process. Evaluation is critical to understanding how to move forward, but mixing judgement with observation can cloud your thinking and prevent meaningful discourse. Keep each step separate.
 
-In <a href="/blog/nvc">Nonviolent Communication</a>, the first step in looking at any complex interpersonal situation is to make a purely objective observation about what has happened, without any language that implies blame or judgement, whatsoever. This is easier said than done.
+It amazes me how many situations can use this simple technique.
 
-When working in an Agile team, we use the "daily standup" meeting to talk about what we've done, and what we're going to do next. At the end of each sprint, we look objectively at what has been delivered, then we "retrospect" about what it means and how to get better at delivering, and, finally, we make a commitment about what to do differently in the next sprint.
+In <a href="/blog/nvc">Nonviolent Communication</a>, the first step in looking at any complex interpersonal situation is to make a purely objective observation about what has happened, without any language that implies blame or judgement, whatsoever. This is easier said than done. From there, we identify how these events make us feel, what needs of ours are being met (or not) and we make a clear request of what we'd like to see happen, instead.
 
-When using quarterly <a href="/blog/running-an-okr-setting-workshop/">OKRs</a>, we quantifiably measure the outcomes of our Key Results, and then capture our "Lessons Learned" and use this to determine what objectives to pursue next and how to measure them.
+In an Agile team, we use the "daily standup" to talk about what we've done, and what we're going to do next. Following each sprint, we look objectively at what we delivered; then we "retrospect" about what that means to us and how we can get better at delivering. Finally, we make a commitment about what to do differently in the next sprint.
+
+Using quarterly <a href="/blog/running-an-okr-setting-workshop/">OKRs</a> to track progress, we quantifiably measure the outcomes of our Key Results, and then capture our "Lessons Learned" and use this to determine what objectives to pursue next and how to measure them.
 
 When responding to a crisis, whether in the moment or afterwards as part of a <a href="/https://github.com/etsy/DebriefingFacilitationGuide/tree/master/guide">post-incident-review</a>, the first step is always to gather accurate, factual information (without any judgement), then to evaluate what it means, and finally to agree a course of action.
 
