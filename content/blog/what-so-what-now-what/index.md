@@ -32,8 +32,8 @@ Using quarterly <a href="/blog/running-an-okr-setting-workshop/">OKRs</a> to tra
 
 When responding to a crisis, whether in the moment or afterwards as part of a <a href="/https://github.com/etsy/DebriefingFacilitationGuide/tree/master/guide">post-incident-review</a>, the first step is always to gather accurate, factual information (without any judgement), then to evaluate what it means, and finally to agree a course of action.
 
-Each of these is version of **<a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/">What? So what? Now What?</a>**, a phrase I first read in the book <a href="http://www.liberatingstructures.com/">Liberating Structures</a>.
+Each of these is version of **<a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/">What? So What? Now What?</a>**, a phrase I first read in the book <a href="http://www.liberatingstructures.com/">Liberating Structures</a>.
 
-When faced with a complex, frightening, or confusing situation I find it enormously useful to myself (and the teams I work with) to step back, breathe, and remember these three steps. It prevents us running around like headless chickens and gives us clear time and space to firstly gather information and agree upon what we're looking at (without any judgement or "<a href="https://www.urbandictionary.com/define.php?term=solutionizing">solusionizing</a>"), then decide what these observations mean (judge & evaluate to our hearts' content), and, finally, to agree what to do next (_time to <a href="https://en.wikipedia.org/wiki/Strategery">Strategerise</a>_)!
+When faced with a complex, frightening, or confusing situation I find it enormously useful to myself (and the teams I work with) to step back, breathe, and remember these three steps. It prevents us running around like headless chickens and gives us clear time and space to firstly gather information and agree upon what we're looking at (without any judgement or "<a href="https://www.urbandictionary.com/define.php?term=solutionizing">solusionizing</a>"), then to decide what these observations mean (judge & evaluate to our hearts' content), and finally, to agree what to do next (_time to <a href="https://en.wikipedia.org/wiki/Strategery">Strategerize</a>_)!
 
-I hope it helps you and your teams, too!
+How do you use this technique? <a href="/contact">Let me know!</a>

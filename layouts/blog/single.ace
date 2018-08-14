@@ -31,7 +31,7 @@ html lang="en"
           / h1 {{ .URL}}
           / NOT YET.... (24 March 2018)
             #disqus_thread style="margin-bottom: 3rem"
-            = xjavascript
+            = javascript
               /**
               *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
               *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
@@ -70,7 +70,9 @@ html lang="en"
           hr.hidden-lg.hidden-md
           h2 About Peter Kappus
           p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR</a> coach, business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
-          a href="/cv" Find out more.
+          a href="/cv" Find out more. 
+          |          
+          a href="/contact" Get in touch.
           hr
           h2 Other posts
           {{ $myScratch := newScratch }}
@@ -96,6 +98,7 @@ html lang="en"
               a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
             {{end}}
           {{end}}
+          a href="/blog" More &raquo;
           h2 {{ $myScratch.Get "featuredTitle" }}
           hr
           h2 Follow me
