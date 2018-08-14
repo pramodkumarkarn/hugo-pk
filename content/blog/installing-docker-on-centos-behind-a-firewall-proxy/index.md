@@ -2,6 +2,7 @@
 date: 2018-05-13
 title: Installing Docker on a Centos7 VM behind a corporate firewall
 draft: false
+type: blog_wide
 categories:
   - Blog
   - Tech

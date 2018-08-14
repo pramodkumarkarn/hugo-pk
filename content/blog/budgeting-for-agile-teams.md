@@ -2,6 +2,7 @@
 author = "p3trk"
 categories = ["Agile", "Blog"]
 cover = "blog/coin.jpg"
+type = "blog_wide"
 #draft = true
 date = "2017-05-09T15:13:44+01:00"
 title = "Budgeting for agile teams"
@@ -23,5 +24,3 @@ With that out of the way, I've created a <b>5 min</b> screencast to show you how
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vEM_Uwwy-ro" frameborder="0" allowfullscreen></iframe>
 
 <small>Cover photo: Peter Kappus</small>
-
-

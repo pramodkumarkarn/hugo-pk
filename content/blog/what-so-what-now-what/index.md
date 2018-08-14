@@ -1,6 +1,7 @@
 ---
 title: What? So What? Now What?
 date: 2018-08-12
+type: blog_wide
 categories:
   - Blog  
 resources:

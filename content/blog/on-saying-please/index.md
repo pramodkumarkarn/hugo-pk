@@ -1,6 +1,7 @@
 ---
 title: On saying "please"
 date: 2018-07-10
+type: blog_wide
 categories:
   - Blog  
   - NVC

@@ -2,6 +2,7 @@
 title: Running an OKR setting workshop
 date: 2018-04-09
 featured: true
+type: blog_wide
 resources:
   - name: cover
     src: okr-workshop.jpg
