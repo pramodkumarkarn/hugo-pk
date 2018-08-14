@@ -1,6 +1,7 @@
 ---
 title: Get in touch
 cover: peterkappus.jpg
+type: contact
 aliases: [/about]
 script: |
   <script type="text/javascript">

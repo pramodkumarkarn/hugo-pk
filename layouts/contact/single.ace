@@ -11,6 +11,5 @@ html lang="en"
         .col-md-4.main
           img.img-responsive src="{{ trim (partial "getCover.html" . ) "\n"  }}"
         .col-md-8.main
-          {{ .Content}}
-                  
+          {{ .Content}}                  
       {{ partial "footer" .}}
