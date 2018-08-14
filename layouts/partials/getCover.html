@@ -1,5 +1,5 @@
 {{ if (isset .Params "cover") }}
-{{- trim (print "/images/big_pics/"  .Params.cover) "\n" -}}
+{{ trim (print "/images/big_pics/"  .Params.cover) "\n" }}
 {{ else }}
 {{ $original := .Resources.GetMatch (printf "%s*" ("cover")) }}
 {{if $original }}

@@ -12,7 +12,7 @@ html lang="en"
         {{ range .Data.Pages}}
           .col-md-4
             a href="{{ .RelPermalink }}"
-              .img.b-lazy data-src="{{ trim (partial "getCover.html" . ) "\n"  }}"
+              .img.b-lazy data-src="{{ trim (partial "getCover.html" .) "\n" }}"
             a.title href="{{ .RelPermalink}}" {{ .Title}}
         {{end}}
       {{ partial "footer" .}}

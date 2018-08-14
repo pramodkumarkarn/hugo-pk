@@ -5,6 +5,7 @@ layout: page
 date: 2011-12-13
 related_post:
   - 730
+draft: true
 ---
 Below are a few causes that I support, should you feel inclined to give. This list will be updated periodically.
 

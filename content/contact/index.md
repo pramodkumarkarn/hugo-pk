@@ -1,8 +1,7 @@
 ---
 title: Get in touch
-cover: peter_kappus.jpg
-aliases:
-  - /about
+cover: peterkappus.jpg
+aliases: [/about]
 script: |
   <script type="text/javascript">
 
@@ -29,14 +28,24 @@ script: |
 
 ---
 
-<a href="https://twitter.com/peterkappus" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @peterkappus</a>
-
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/peterkappus" data-format="hover" data-related="false" data-text="Peter Kappus"></script>
-
 <!--a href="http://linkedin.com/in/peterkappus" target="_blank">
 <img src="http://www.linkedin.com/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Peter Kappus's profile on LinkedIn" /></a-->
 
-<div id="wufoo-mh2gcg319dqy7j" style="margin-top: 3rem">
+<div class="bigger">
+  <p>Whatever you're up to, I'd love to hear from you and hear what you're doing, learn about your ideas, and see if I can help!</p>
+</div>
+
+<div id="wufoo-mh2gcg319dqy7j" >
 Fill out my <a href="https://peterkappus.wufoo.com/forms/mh2gcg319dqy7j">online form</a>.
+</div>
+
+<div class="row">
+<div class="col-md-4">
+
+  <a href="https://twitter.com/peterkappus" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @peterkappus</a>
+</div>
+<div class="col-md-8">
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/peterkappus" data-format="hover" data-related="false" data-text="Peter Kappus"></script>
+</div>
 </div>

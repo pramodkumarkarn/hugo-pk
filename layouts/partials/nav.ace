@@ -1,6 +1,11 @@
 .pull-right
   h2
+  {{if (eq .Title "Get in touch")}}
+  a href="/blog" style="display: inline-block; margin-right: 2rem" Blog
+  a href="/cv" CV
+  {{- else -}}
   a href="/contact" Contact
+  {{- end -}}
 h3
   a href="/" Peter Kappus
 hr
