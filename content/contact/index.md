@@ -33,7 +33,7 @@ script: |
 <img src="http://www.linkedin.com/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Peter Kappus's profile on LinkedIn" /></a-->
 
 <div class="bigger">
-  <p>Whatever you're up to, I'd love to hear from you and hear what you're doing, learn about your ideas, and see if I can help!</p>
+  <p>Whatever you're up to, I'd love to hear from you to find out what I can learn from you and see if I can help!</p>
 </div>
 
 <div id="wufoo-mh2gcg319dqy7j" >

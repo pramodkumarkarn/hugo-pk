@@ -26,13 +26,13 @@ It amazes me how many situations can use this simple technique.
 
 In <a href="/blog/nvc">Nonviolent Communication</a>, the first step in looking at any complex interpersonal situation is to make a purely objective observation about what has happened, without any language that implies blame or judgement, whatsoever. This is easier said than done. From there, we identify how these events make us feel, what needs of ours are being met (or not) and we make a clear request of what we'd like to see happen, instead.
 
-In an Agile team, we use the "daily standup" to talk about what we've done, and what we're going to do next. Following each sprint, we look objectively at what we delivered; then we "retrospect" about what that means to us and how we can get better at delivering. Finally, we make a commitment about what to do differently in the next sprint.
+In an <a href="https://www.gov.uk/service-manual/agile-delivery" target="_blank">Agile team</a>, we use the "daily standup" to talk about what we've done, and what we're going to do next. Following each sprint, we look objectively at what we delivered; then we "retrospect" about what that means to us and how we can get better at delivering. Finally, we make a commitment about what to do differently in the next sprint.
 
 Using quarterly <a href="/blog/running-an-okr-setting-workshop/">OKRs</a> to track progress, we quantifiably measure the outcomes of our Key Results, and then capture our "Lessons Learned" and use this to determine what objectives to pursue next and how to measure them.
 
 When responding to a crisis, whether in the moment or afterwards as part of a <a href="/https://github.com/etsy/DebriefingFacilitationGuide/tree/master/guide">post-incident-review</a>, the first step is always to gather accurate, factual information (without any judgement), then to evaluate what it means, and finally to agree a course of action.
 
-Each of these is version of **<a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/">What? So What? Now What?</a>**, a phrase I first read in the book <a href="http://www.liberatingstructures.com/">Liberating Structures</a>.
+Each of these is version of **<a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/">What? So What? Now What?</a>**, a phrase I first read in the book <a href="http://www.liberatingstructures.com/" target="_blank">Liberating Structures</a>.
 
 When faced with a complex, frightening, or confusing situation I find it enormously useful to myself (and the teams I work with) to step back, breathe, and remember these three steps. It prevents us running around like headless chickens and gives us clear time and space to firstly gather information and agree upon what we're looking at (without any judgement or "<a href="https://www.urbandictionary.com/define.php?term=solutionizing">solusionizing</a>"), then to decide what these observations mean (judge & evaluate to our hearts' content), and finally, to agree what to do next (_time to <a href="https://en.wikipedia.org/wiki/Strategery">Strategerize</a>_)!
 
