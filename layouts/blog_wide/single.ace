@@ -9,7 +9,7 @@ html lang="en"
         .headline style=""        
           h1.short {{ .Title}}
     .container
-      .credit
+      .credit style="margin-bottom: 2rem"
         {{partial "getCoverCredit.html" . }}
     .container
       .row

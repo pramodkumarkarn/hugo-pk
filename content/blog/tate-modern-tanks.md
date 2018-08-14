@@ -2,6 +2,7 @@
 title: The Tanks at Tate Modern
 author: p3trk
 cover: tate/cover.jpg
+type: blog_wide
 pix_folder: tate
 more_pix: ['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg']
 date: 2012-07-21
