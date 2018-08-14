@@ -14,9 +14,9 @@ resources:
 As long as we're growing, be it personally, professionally, or in any other way, we're constantly being confronted with new events and new information. Our task as engaged colleagues, artists, mentors, teams, leaders, companies, friends, lovers, etc. is to constantly look at each piece of information and decide the following: 
 
 >
-* What are we looking at?
-* What does it mean to us?
-* What should we do next?
+* **What are we looking at?**
+* **What does it mean to us?**
+* **What should we do next?**
 
 In other words **Observe, then Evaluate, then Respond**.
 
@@ -32,7 +32,7 @@ Using quarterly <a href="/blog/running-an-okr-setting-workshop/">OKRs</a> to tra
 
 When responding to a crisis, whether in the moment or afterwards as part of a <a href="/https://github.com/etsy/DebriefingFacilitationGuide/tree/master/guide">post-incident-review</a>, the first step is always to gather accurate, factual information (without any judgement), then to evaluate what it means, and finally to agree a course of action.
 
-Each of these is version of **<a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/">What? So What? Now What?</a>**, a phrase I first read in the book <a href="http://www.liberatingstructures.com/" target="_blank">Liberating Structures</a>.
+Each of these is version of **<a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/">What? So What? Now What?</a>**, a guiding phrase (and associated exercise) I first learned from the amazing <a href="http://kathleenparis.com/" target="_blank">Kathleen Paris</a> and, subsequently, through the book <a href="http://www.liberatingstructures.com/" target="_blank">Liberating Structures</a>.
 
 When faced with a complex, frightening, or confusing situation I find it enormously useful to myself (and the teams I work with) to step back, breathe, and remember these three steps. It prevents us running around like headless chickens and gives us clear time and space to firstly gather information and agree upon what we're looking at (without any judgement or "<a href="https://www.urbandictionary.com/define.php?term=solutionizing">solusionizing</a>"), then to decide what these observations mean (judge & evaluate to our hearts' content), and finally, to agree what to do next (_time to <a href="https://en.wikipedia.org/wiki/Strategery">Strategerize</a>_)!
 

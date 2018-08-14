@@ -110,6 +110,4 @@ html lang="en"
             a href="http://soundcloud.com/peterkappus" target="_blank" SoundCloud
           p
             a href="http://instagram.com/abstraktor" target="_blank" Instagram
-
-
       {{ partial "footer" .}}
