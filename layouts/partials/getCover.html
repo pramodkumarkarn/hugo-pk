@@ -3,9 +3,12 @@
 {{ else }}
 {{ $original := .Resources.GetMatch (printf "%s*" ("cover")) }}
 {{if $original }}
-{{ $options := "800x" }}
+{{ $.Scratch.Set "width" "800x" }}
+{{if (eq .Params.type "blog_wide")}}
+{{ $.Scratch.Set "width" "1600x" }}
+{{ end }}
 {{/* See options in wide_pic.html*/}}
-{{ .Scratch.Set "image" ($original.Resize $options) }}
+{{ .Scratch.Set "image" ($original.Resize ($.Scratch.Get "width")) }}
 {{ $image := .Scratch.Get "image" }}
 {{ $image.RelPermalink }}
 {{ end }}
