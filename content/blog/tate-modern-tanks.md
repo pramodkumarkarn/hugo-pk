@@ -1,16 +1,23 @@
 ---
-title: The Tanks at Tate Modern
 author: p3trk
-cover: tate/cover.jpg
-pix_folder: tate
-more_pix: ['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg']
-date: 2012-07-21
-sgt_slide:
-  - on
 categories:
-  - Art
-  - Blog
+- Art
+- Blog
+cover: tate/cover.jpg
+date: "2012-07-21"
+more_pix:
+- 1.jpg
+- 2.jpg
+- 3.jpg
+- 4.jpg
+- 5.jpg
+- 6.jpg
+pix_folder: tate
+sgt_slide:
+- true
+title: The Tanks at Tate Modern
 ---
+
 Last Tuesday I had the pleasure of visiting the newly (re) opened Tanks at Tate Modern. Continuing the trajectory set by Tate director Nicholas Serota when he worked to move Tate Modern into the Bankside power station in 2000, the tanks provide a powerful, industrial, yet intimate space for performance art and large-scale installation which will enable Tate Modern to do things that no other museum can for years to come. Opening ahead of the Olympics is also a great move as it will really showcase, to the world, the intent of Tate Modern to attract cutting edge performance artists to London and to engage with the public in even more direct and conversational ways.
 
 

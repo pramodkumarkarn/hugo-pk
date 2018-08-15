@@ -1,14 +1,14 @@
 ---
-title: What? So What? Now What?
-date: 2018-08-12
 categories:
-  - Blog  
+- Blog
+date: "2018-08-12"
 resources:
-  - name: cover
-    src: zac-nielson-775742-unsplash.jpg
-    params:
-      credit: Photo by Zac Nielson on Unsplash
-      link: https://unsplash.com/photos/XtdwbJy1rKc
+- name: cover
+  params:
+    credit: Photo by Zac Nielson on Unsplash
+    link: https://unsplash.com/photos/XtdwbJy1rKc
+  src: zac-nielson-775742-unsplash.jpg
+title: What? So What? Now What?
 ---
 
 As long as we're growing, be it personally, professionally, or in any other way, we're constantly being confronted with new events and new information. Our task as engaged colleagues, artists, mentors, teams, leaders, companies, friends, lovers, etc. is to constantly look at each piece of information and decide the following: 

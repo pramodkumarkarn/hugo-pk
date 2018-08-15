@@ -1,17 +1,18 @@
 ---
-title: On saying "please"
-date: 2018-07-10
 categories:
-  - Blog  
-  - NVC
-tags: NVC
+- Blog
+- NVC
+date: "2018-07-10"
 resources:
-  - name: cover
-    src: patrick-fore-380241-unsplash.jpg
-    params:
-      credit: Photo by Patrick Fore on Unsplash
-      link: https://unsplash.com/photos/AfhSPYdkxiU
+- name: cover
+  params:
+    credit: Photo by Patrick Fore on Unsplash
+    link: https://unsplash.com/photos/AfhSPYdkxiU
+  src: patrick-fore-380241-unsplash.jpg
+tags: NVC
+title: On saying "please"
 ---
+
 Previously, I've [introduced Nonviolent Communication]({{< ref "/blog/introduction-to-nonviolent-communication-nvc" >}}) and one of my favourite observations from its founder, [Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg): that “people are only ever saying 'please' and 'thank you'”. 
 
 When we use the word “please” to make a request, in almost any language, what we’re really saying is “if it pleases you”. We’re expressing consideration for another’s needs and asking them to only do what we’ve asked if it also helps meet their own needs. 

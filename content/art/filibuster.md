@@ -1,16 +1,18 @@
 ---
-title: Filibuster
+/ date: "2011-09-19"
 author: p3trk
-cover: filibuster/cover.png
-/ date: 2011-09-19
-date: 2012-11-29
-url: /art/filibuster
-sgt_slide:
-  - on
-top_content: '<div class="embed-container embed-3-4"><iframe src="http://player.vimeo.com/video/22527248?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1" frameborder="0" width="100%" height="500"></iframe></div>'
 categories:
-  - Art
+- Art
+cover: filibuster/cover.png
+date: "2012-11-29"
+sgt_slide:
+- true
+title: Filibuster
+top_content: <div class="embed-container embed-3-4"><iframe src="http://player.vimeo.com/video/22527248?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1"
+  frameborder="0" width="100%" height="500"></iframe></div>
+url: /art/filibuster
 ---
+
 2005
 
 

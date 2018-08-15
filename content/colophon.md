@@ -1,12 +1,11 @@
-+++
-date = "2015-06-22T17:38:07+01:00"
-url= "/colophon"
-title = "Colophon"
-type="page"
-layout="page"
-cover="contract.jpg"
-
-+++
+---
+cover: contract.jpg
+date: "2015-06-22T17:38:07+01:00"
+layout: page
+title: Colophon
+type: page
+url: /colophon
+---
 
 With so many wonderful ways to self-publish these days, one hardly needs a "personal website". But I've had one since 1996 and each has been a great tool for self-expression and a low-risk place to experiment and keep my digital skills sharp. This one is no exception.
 

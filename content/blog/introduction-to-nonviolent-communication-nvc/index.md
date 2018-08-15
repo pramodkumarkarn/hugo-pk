@@ -1,36 +1,36 @@
 ---
-author: p3trk
-draft: false
-date: 2018-05-12
-title: An Introduction to Nonviolent Communication (NVC)
-url: /blog/introduction-to-nonviolent-communication-nvc
 aliases:
-  - /blog/nvc
-  - /nvc
+- /blog/nvc
+- /nvc
+author: p3trk
 categories:
-  - Blog
-  - NVC
+- Blog
+- NVC
+date: "2018-05-12"
+draft: false
 featured: false
 resources:
-  - name: cover
-    src: marshall_rosenberg.jpg
-    params:
-      credit: Beth Banning
-  - name: steps
-    src: steps.jpg
-    params:
-      credit: Matt Brown
-      link: https://www.flickr.com/photos/londonmatt/36367935743/in/photolist-XpHbfT-9AawN5-4NZPac-a4tgiZ-sXZUN-my2ws2-ycWvZ-cknXco-6KFxDG-5ucz4S-8jX3D-8UJdMU-8nfk1x-fyNoXC-dpYqRD-5PAXRT-bQyKnR-6h4ZTf-n4hVC-53mfZH-ohZcid-4NZPag-4fbBe4-dpL25-5nrvpd-5xdLr8-q5sMtv-6yntQD-48jHtn-aEwV4a-7MVH1j-67hfxy-fEESFr-bBm3yH-4ffADL-74xVKY-2AFq39-4WYfeA-ayRpMj-nyEMNb-64Bdxf-633Fk2-7C8cS4-5nrvim-652FE6-6kL3xQ-7FARro-d87a2q-8FqeNA-4HX3Sm
-  - name: giraffe
-    src: giraffe.jpg
-    params:
-      credit: John Hilliard
-      link: https://www.flickr.com/photos/praetoriansentry/5736099380/in/photolist-9JT1vb-86m7S5-9FDqcz-Nt9hZ-86hPCg-5sFiMq-gtiGA8-5SxRLu-kLEDm6-gtiV78-6PQ9BV-e7kUVq-4K8oFD-5hdLt4-86m1XL-5NbvVw-qQtmdb-5w2gp4-54dobM-69Dtp9-4vUjgX-9Z3fQp-3evPsm-CCQTTm-vXfvzu-diji9m-8bNdQ2-21LUqX3-92VJQ3-mjfPv-oFLcX-25bjx1u-d9zw1J-22Y9cQw-b5yYDV-65EfgK-bDzKUK-61WNsF-5jpnvs-6HoBfU-ncPPYP-8SQnmR-8ommGc-8fLpMk-dcNdv5-61WzqK-7AapLb-2akdHV-7kkc6c-9S8yqK
-  - name: jackal
-    src: jackal.jpg
-    params:
-      credit: Carol Foil
-      link: https://www.flickr.com/photos/dermoidhome/5918714768/in/photolist-deddMV-qidLHK-a21XGm-nBPf7d-o49egX-qb9pCE-pgGiJM-pW2Xsv-pW1MpP-rsk2r3-rsiuMt-JHn6Z4-25Ag2yW-a4y65Q-q4btUq-265GVcf-rcxdT4-addnH7-owe9b6-qr7YrL-8D8uSj-FvWqxf-Awdxbh-cGUTsd-5XRnAj-bkAgg2-8PbAzy-cSJ1Uf-aoRLsc-aoUvkb-9aWM2R-4eybMh-8V4YG3-24BakEs-qyjM7N-3okHZD-4N5Fd-qkJKEk-6cwKyr-383RjT-eJtFcJ-6KTa9p-4fEjXA-rjmTEN-9Gs37o-8DiTgM-mwDgBn-dT4oFX-38aKmb-8Xtsu7
+- name: cover
+  params:
+    credit: Beth Banning
+  src: marshall_rosenberg.jpg
+- name: steps
+  params:
+    credit: Matt Brown
+    link: https://www.flickr.com/photos/londonmatt/36367935743/in/photolist-XpHbfT-9AawN5-4NZPac-a4tgiZ-sXZUN-my2ws2-ycWvZ-cknXco-6KFxDG-5ucz4S-8jX3D-8UJdMU-8nfk1x-fyNoXC-dpYqRD-5PAXRT-bQyKnR-6h4ZTf-n4hVC-53mfZH-ohZcid-4NZPag-4fbBe4-dpL25-5nrvpd-5xdLr8-q5sMtv-6yntQD-48jHtn-aEwV4a-7MVH1j-67hfxy-fEESFr-bBm3yH-4ffADL-74xVKY-2AFq39-4WYfeA-ayRpMj-nyEMNb-64Bdxf-633Fk2-7C8cS4-5nrvim-652FE6-6kL3xQ-7FARro-d87a2q-8FqeNA-4HX3Sm
+  src: steps.jpg
+- name: giraffe
+  params:
+    credit: John Hilliard
+    link: https://www.flickr.com/photos/praetoriansentry/5736099380/in/photolist-9JT1vb-86m7S5-9FDqcz-Nt9hZ-86hPCg-5sFiMq-gtiGA8-5SxRLu-kLEDm6-gtiV78-6PQ9BV-e7kUVq-4K8oFD-5hdLt4-86m1XL-5NbvVw-qQtmdb-5w2gp4-54dobM-69Dtp9-4vUjgX-9Z3fQp-3evPsm-CCQTTm-vXfvzu-diji9m-8bNdQ2-21LUqX3-92VJQ3-mjfPv-oFLcX-25bjx1u-d9zw1J-22Y9cQw-b5yYDV-65EfgK-bDzKUK-61WNsF-5jpnvs-6HoBfU-ncPPYP-8SQnmR-8ommGc-8fLpMk-dcNdv5-61WzqK-7AapLb-2akdHV-7kkc6c-9S8yqK
+  src: giraffe.jpg
+- name: jackal
+  params:
+    credit: Carol Foil
+    link: https://www.flickr.com/photos/dermoidhome/5918714768/in/photolist-deddMV-qidLHK-a21XGm-nBPf7d-o49egX-qb9pCE-pgGiJM-pW2Xsv-pW1MpP-rsk2r3-rsiuMt-JHn6Z4-25Ag2yW-a4y65Q-q4btUq-265GVcf-rcxdT4-addnH7-owe9b6-qr7YrL-8D8uSj-FvWqxf-Awdxbh-cGUTsd-5XRnAj-bkAgg2-8PbAzy-cSJ1Uf-aoRLsc-aoUvkb-9aWM2R-4eybMh-8V4YG3-24BakEs-qyjM7N-3okHZD-4N5Fd-qkJKEk-6cwKyr-383RjT-eJtFcJ-6KTa9p-4fEjXA-rjmTEN-9Gs37o-8DiTgM-mwDgBn-dT4oFX-38aKmb-8Xtsu7
+  src: jackal.jpg
+title: An Introduction to Nonviolent Communication (NVC)
+url: /blog/introduction-to-nonviolent-communication-nvc
 ---
 
 **Nonviolent Communication** or NVC is a vast and nuanced area of study but the basic concepts can be grasped and applied almost immediately. I recently gave a training course to a few colleagues and promised to post a brief introduction.

@@ -1,10 +1,10 @@
 ---
-title: Urban Beach Party
-author: p3trk
-date: 2012-03-04
-cover: flipflops.png
 audiojungle_id:
-  - 1580635
+- 1580635
+author: p3trk
+cover: flipflops.png
+date: "2012-03-04"
+title: Urban Beach Party
 top_content: <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/225994273&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 ---
 

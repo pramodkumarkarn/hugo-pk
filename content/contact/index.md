@@ -1,8 +1,7 @@
 ---
-title: Get in touch
+aliases:
+- /about
 cover: peterkappus.jpg
-type: contact
-aliases: [/about]
 script: |
   <script type="text/javascript">
 
@@ -26,7 +25,8 @@ script: |
   var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
   })(document, 'script');
   </script>
-
+title: Get in touch
+type: contact
 ---
 
 <!--a href="http://linkedin.com/in/peterkappus" target="_blank">
