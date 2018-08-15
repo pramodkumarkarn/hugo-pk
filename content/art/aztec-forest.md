@@ -12,4 +12,4 @@ title: Aztec Forest
 url: /art/aztec-forest
 ---
 
-A nod to modernist Latin American abstract geometric design and institutional interior design of the 60s and 70s, this piece was rendered via custom image-analyisis software with lots of semi-randomized concentric rectangles using a palette that evokes walking through a mysterious lush green forest with a red mossy floor. I&#8217;d love to see this in a woven rug or ceramic tile format.
+A nod to modernist Latin American abstract geometric design and institutional interior design of the 60s and 70s, this piece was rendered via custom image analysis software with lots of semi-randomized concentric rectangles using a palette that evokes walking through a mysterious lush green forest with a red mossy floor. I&#8217;d love to see this in a woven rug or ceramic tile format.

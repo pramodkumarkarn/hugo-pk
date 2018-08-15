@@ -1,0 +1,14 @@
+{{ $related := .Site.RegularPages.Related . | shuffle | first 3 }}
+{{ with $related }}
+  .row
+    .col-md-12
+      h3 Other Posts
+      hr
+  .row
+    {{ range . }}
+      .col-md-4
+        a href="{{ .RelPermalink }}"
+          .img.b-lazy data-src="{{ trim (partial "getCover.html" .) "\n" }}"
+        a.title href="{{ .RelPermalink}}" {{ .Title}}
+    {{ end }}
+{{ end }}

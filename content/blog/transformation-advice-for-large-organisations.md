@@ -3,7 +3,6 @@ aliases:
 - /blog/advice
 author: p3trk
 categories:
-- Art
 - Blog
 cover: advice-fernando-sanchez_cropped.jpg
 cover_credit: Fernando Sanchez

@@ -55,24 +55,16 @@ html lang="en"
               img.img-responsive.big_pic src=/images/big_pics/{{$folder }}/{{.}}
             {{ end }}
           {{ end }}
-          {{if .PrevInSection}}
-            p
-              | Previous:&nbsp;
-              a href="{{.PrevInSection.Permalink}}" {{.PrevInSection.Title}}
-          {{end}}
-          ||
-          {{if .NextInSection}}
-            p
-              | Next:&nbsp;
-              a href="{{.NextInSection.Permalink}}" {{.NextInSection.Title}}
-          {{end}}
         .col-md-4.sidebar
           hr.hidden-lg.hidden-md
           h2 About Peter Kappus
           p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR</a> coach, business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
           a href="/cv" Find out more. 
-          |          
-          a href="/contact" Get in touch.
+          hr
+          h2 Get in touch
+          p 
+            | Want to find out more about something you've read? Can I help with something you're working on? Got an idea? 
+            a href="/contact" Contact me now!
           hr
           h2 Other posts
           {{ $myScratch := newScratch }}
@@ -110,4 +102,7 @@ html lang="en"
             a href="http://soundcloud.com/peterkappus" target="_blank" SoundCloud
           p
             a href="http://instagram.com/abstraktor" target="_blank" Instagram
+            
+      = include partials/relatedContent.html .
+
       {{ partial "footer" .}}

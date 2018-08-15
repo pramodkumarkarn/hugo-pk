@@ -34,6 +34,9 @@ type: contact
 
 <div class="bigger">
   <p>Whatever you're up to, I'd love to hear from you to find out what I can learn from you and see if I can help!</p>
+  <h2>Email: <a href="mailto:hello+2018@peterkappus.com">hello+2018@peterkappus.com</a></h2>
+  <h2>UK Phone: +44 (0) 203 468 4224</h2>
+  <h2>US Phone: +1 (206) 651-4428</h2>
 </div>
 
 <div id="wufoo-mh2gcg319dqy7j" >
