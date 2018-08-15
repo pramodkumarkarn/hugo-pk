@@ -9,4 +9,5 @@ related:
   indices:
     - name: categories # The name of the indice, same as Front Matter's .Param key.
       weight: 1 # We don't really need this, but omitting it would disable the index.
+
 ...

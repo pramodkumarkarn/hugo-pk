@@ -4,7 +4,7 @@
     .col-md-12
       h3 Other Posts
       hr
-  .row
+  .row.relatedContent
     {{ range . }}
       .col-md-4
         a href="{{ .RelPermalink }}"
