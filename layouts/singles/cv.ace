@@ -289,7 +289,7 @@ html lang="en"
               h5 Nov 2016 - Apr 2017
               p Within the Common Technology Services programme which is rolling out common technology solutions such as shared wifi, shared print, and mobile computing with stronger commercial arrangements across government.
               ul
-                li  Developed a robust, flexible and simple processes to roadmap and realise <b>£1.5bn+</b> in cashable benefits over 10 years
+                li  Developed a robust, flexible and simple process to roadmap and realise <b>£1.5bn+</b> in cashable benefits over 10 years
                 li Coached delivery teams in agile <b>(kanban)</b> methods to deliver benefits via rapid, continuous iteration
                 li Built bespoke contract analysis, management,  and forecasting tool (Ruby)
                 / li Provided business case input via new benefits data/models
@@ -311,7 +311,7 @@ html lang="en"
               p Close engagement with finance, people, and delivery teams combined with strong technical ability added significant operational agility and data-driven, real-time decision-making around a <b>£500m change portfolio</b>. <!--to the business; enabling senior leadership to make informed, data-driven decisions around prioritisation, investment diversity, delivery, risk, financial performance, headcount and benefits realisation to effectively manage a <b>£500m complex change portfolio (£150m+ in 16/17)</b> driving <b>digital transformation</b> across the UK government and benefiting millions of citizens.-->
               ul
                 / li Proposed and implemented change to support greater organisational agility
-                li Governance of £150m annual budget
+                li Governance of <b>£150m</b> annual budget
                 / li Enabled real-time business planning and reporting with no additional overhead
                 li Replaced complex, inflexible vendor ERP solution with bespoke BI platform
                 li <b>Saved £100k+</b> while improving accuracy, engagement, and user satisfaction
@@ -386,14 +386,13 @@ html lang="en"
                 
                 ul
                   li Led agile ceremonies and coached in scrum/<b>kanban</b> methods across multiple teams (50+ people)
-                  li Responsive Web, iOS, and Android
                   li Multi-million dollar global programme with teams in 4 countries and 6 timezones
                   li Targeting 50 million households at launch
                   / li Delivered on time with terrific reception
                   li Managed on-shore, near-shore, and off-shore teams in London, Boston, New York, Bangalore, Munich and Phoenix
                   li Facilitated agile ceremonies including sprint planning, stand-ups, show &amp; tells, and retrospectives
                   / li Allowed teams to define and manage work, provide clear estimates, improve quality, efficiency, and risk mitigation.
-                  li Resulted in timely, high-quality delivery across multiple platforms
+                  li Resulted in timely, high-quality delivery across responsive web, iOS, and Android channels
                 
                 p <b>Technologies:</b> Jira, Java EE, SDLC, SOA, Scrum, Agile, User Experience (UX), iOS, Android, Responsive Web
                 
