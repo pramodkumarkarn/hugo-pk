@@ -104,18 +104,18 @@ html lang="en"
               / financial services payment processing
 
               li Process improvement
-              li Change management training
-              li Data-driven decision making
               li Objectives & Key Results (OKRs)
+              li Project / programme / portfolio delivery              
+              / li Change management training
+              li Data-driven decision making
               li Lean / agile coaching & delivery
               li Kanban / Scrum
               li Lean operations
-              li Agile Finance <!--Budgeting <small>(Beyond Budgeting)</small>-->
-              li Portfolio / programme delivery
+              li Agile finance <!--Budgeting <small>(Beyond Budgeting)</small>-->
               / li Business planning
               / li Basic Accounting / finance
               li Stakeholder management
-              li Goal setting / OKRs
+              / li Goal setting / OKRs
               li Modernising legacy platforms
               
               / li Target Operating Model (TOM)
@@ -128,7 +128,7 @@ html lang="en"
               / li Systems thinking / Cynefin
               li Reporting & governance
               / li Rapid prototyping
-              / li Team leadership & motivation
+              li Team leadership & motivation
               / li Product / service management
               / li Nonviolent communication
               / li Ruby on Rails, HTML/JS/CSS
@@ -254,12 +254,12 @@ html lang="en"
               h5 Nov 2017 - present
               p While continuing to support TV & Radio teams more generally, I am now providing agile coaching and delivery management for the Proteus team, specifically. The 15+ year old legacy Proteus platform enables the commissioning and scheduling of <b>every second of audio played on BBC Radio</b> and manages meta-data for <b>hundreds of millions</b> of briefs, commissions, programmes, versions, episodes and transmissions from the past <b>90+ years</b>.
               ul
-                li Reduced mean time between releases from 4 months to 8 days
+                li Reduced mean time between releases from <b>4 months to 8 days</b>
                 li Reduced deployment time from <b>4 hours to 10 minutes</b>
                 li Reduced regression testing time from <b>2 weeks to 2 days</b>
                 li Migrated over 8,000 source code files from SVN to Github 
                 li Improved code quality and understanding via pairing and Pull Requests
-                li Introduced test automation and <b>continuous integration</b> via Jenkins 
+                li Introduced <b>test automation</b> and <b>continuous integration</b> via Jenkins 
                 li Decomposing monolithic legacy app into RESTful API-based micro-services
                 li Migrating from legacy JS frameworks to ReactJS
                 
