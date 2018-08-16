@@ -27,7 +27,7 @@ This is neatly summarised in the phrase **<a href="http://www.liberatingstructur
 What did we actually see? This is strictly an observation, an agreement of the facts. No evaluation or judgement at this stage. Do say: "Jim had his arms crossed during the meeting." Don't say: "Jim was angry." Unless we observed Jim saying "I'm angry" we don't know. All we know is that his arms were crossed during the meeting.
 
 ### So What?
-How do these observations make us feel? What meaning does this have for us? E.g. "Because 300 people RSVP'd for the party, I'm nervous we won't have enough food & drink." or "Because Anna didn't ask any questions during the meeting, we felt like she didn't like our ideas."
+How do these observations make us feel? What meaning does this have for us? E.g. "Because 300 people RSVP'd for the party, I'm nervous we won't have enough food & drink." or "Because Anna didn't ask any questions during the meeting, we felt like she didn't like our ideas." This is a critical and often overlooked step that requires people to take ownership of their feelings and acknowledge that their feelings have tremendous value. It can also underscore how the same stimulus can create very different feelings in different observers.
 
 ### Now What?
 Make a clear decision about what action to take next (e.g. Buy more food for the party.) Articulate these as clear decisions with clear actions, owners, and deadlines if possible.
