@@ -38,7 +38,7 @@ Clearly delineating each of these steps provides structure and intentionality to
 ## It's everywhere!
 Now that I've become aware of this technique, I'm seeing it everywhere!
 
-In <a href="/blog/nvc">Nonviolent Communication (NVC)</a>, the first step in looking at any complex interpersonal situation is to make a purely objective observation about what has happened, without any language that implies blame or judgement, whatsoever. This is easier said than done. From there, we identify how these events make us feel, what needs of ours are being met (or not) and we make a clear request of what we'd like to see happen, instead.
+In <a href="/blog/nvc">Nonviolent Communication (NVC)</a>, the first step in looking at any complex interpersonal situation is to make a purely objective observation about what has happened, without any language that implies blame or judgement, whatsoever. This is easier said than done. From there, we identify how these events make us feel and what needs of ours are (or are not) being met (So What?), and finally, we make a clear request of what we'd like to see happen next (Now What?).
 
 In an <a href="https://www.gov.uk/service-manual/agile-delivery" target="_blank">Agile team</a>, we use the "daily standup" to talk about what we've done, and what we're going to do next. Following each sprint, we look objectively at what we delivered; then we "retrospect" about what that means to us and how we can get better at delivering. Finally, we make a commitment about what to do differently in the next sprint.
 
