@@ -2,6 +2,7 @@
 categories:
 - Blog
 date: "2018-08-12"
+keywords: [featured]
 resources:
 - name: cover
   params:

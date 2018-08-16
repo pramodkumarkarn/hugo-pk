@@ -1,6 +1,5 @@
 ---
 categories:
-- Art
 - Blog
 cover: RIP-Jerry-Nelson.jpg
 date: "2012-08-26"

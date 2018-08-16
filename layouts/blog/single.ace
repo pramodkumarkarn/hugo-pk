@@ -61,10 +61,9 @@ html lang="en"
           p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR</a> coach, business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
           a href="/cv" Find out more. 
           hr
-          h2 Get in touch
-          p 
-            | Want to find out more about something you've read? Can I help with something you're working on? Got an idea? 
-            a href="/contact" Contact me now!
+          h2 Contact me
+          p Want to find out more about something you've read?  Got an idea? Can I help with something you're working on?
+          a.btn.btn-primary.btn-lg href="/contact" Let's talk!
           hr
           .hidden-sm.hidden-xs
             h2 Other posts

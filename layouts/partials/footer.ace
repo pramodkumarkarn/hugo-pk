@@ -9,6 +9,8 @@ script src="/js/bootstrap.min.js"
 script src="/js/blazy.min.js"
 script src="/js/jquery.fittext.js"
 script src="/js/flowtype.js"
+{{ block "footerjs" . }}
+{{ end }}
 = javascript
   fitty(".fit");
   //fitty(".cvname")

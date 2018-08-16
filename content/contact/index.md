@@ -34,8 +34,8 @@ type: contact
 
 <div class="bigger">
   <p>Whatever you're up to, I'd love to hear from you to find out what I can learn from you and see if I can help!</p>
-  <h2>UK Phone: +44 (0) 203 468 4224</h2>
-  <h2>US Phone: +1 (206) 651-4428</h2>
+  <!--<h3>UK: +44 (0) 203 468 4224</h3>
+  <h3>US: +1 (206) 651-4428</h3>-->
 </div>
 
 <div id="wufoo-mh2gcg319dqy7j" >

@@ -1,7 +1,6 @@
 ---
 author: p3trk
 categories:
-- Art
 - Blog
 cover: tate/cover.jpg
 date: "2012-07-21"

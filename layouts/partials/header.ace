@@ -14,6 +14,5 @@ head
   {{ end }}
   / Artist. Musician. Agile Practitioner. Entrepreneur.
   link href="/css/bootstrap.min.css" rel="stylesheet"
-  xlink href="/css/main.css?cachebust={{ now.Format "15:04:05" }}" rel="stylesheet"
   {{ $style := resources.Get "sass/main.sass" | toCSS | minify | fingerprint }}
   link rel="stylesheet" href="{{ $style.Permalink }}"

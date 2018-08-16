@@ -2,6 +2,7 @@
 date: "2018-04-09"
 featured: true
 categories: blog
+keywords: [featured]
 resources:
 - name: cover
   src: okr-workshop.jpg
