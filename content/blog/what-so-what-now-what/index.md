@@ -24,10 +24,10 @@ In other words **Observe, then _Feel_ and Evaluate, and finally Respond**.
 This is neatly summarised in the phrase **<a href="http://www.liberatingstructures.com/9-what-so-what-now-what-w/">What? So What? Now What?</a>**, an evaluation and facilitation model I first learned from the amazing [Kathleen Paris](http://kathleenparis.com/) and, subsequently, through the book [Liberating Structures](http://www.liberatingstructures.com/).
 
 ### What?
-What did we actually see? This is strictly an observation, an agreement of the facts. No evaluation or judgement at this stage. Do say: "Jim had his arms crossed during the meeting." Don't say: "Jim was angry." (Unless we observed Jim saying "I'm angry" we don't know. All we know is that his arms were crossed during the meeting.
+What did we actually see? This is strictly an observation, an agreement of the facts. No evaluation or judgement at this stage. Do say: "Jim had his arms crossed during the meeting." Don't say: "Jim was angry." Unless we observed Jim saying "I'm angry" we don't know. All we know is that his arms were crossed during the meeting.
 
 ### So What?
-How do these observations make us feel? What meaning does this have for us? E.g. "Because 300 people RSVP'd for the party, I'm nervous we won't have enough food & drink." or "Because Jim didn't ask any questions during the meeting, we felt like he didn't like our ideas."
+How do these observations make us feel? What meaning does this have for us? E.g. "Because 300 people RSVP'd for the party, I'm nervous we won't have enough food & drink." or "Because Anna didn't ask any questions during the meeting, we felt like she didn't like our ideas."
 
 ### Now What?
 Make a clear decision about what action to take next (e.g. Buy more food for the party.) Articulate these as clear decisions with clear actions, owners, and deadlines if possible.
