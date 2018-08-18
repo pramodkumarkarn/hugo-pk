@@ -61,34 +61,18 @@ html lang="en"
           h2 Contact me
           p Want to find out more about something you've read?  Got an idea? Can I help with something you're working on?
           a.btn.btn-primary.btn-lg href="/contact" Let's talk!
-          hr
-          .hidden-sm.hidden-xs
-            h2 Other posts
-            {{ $myScratch := newScratch }}
-            {{ $myScratch.Set "greeting" "hiya"}}
-            {{ $myScratch.Set "currentTitle" .Title }}
-            {{ $myScratch.Set "promotedTitle" "fish" }}       
-            {{ range (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) }}     
-              {{ $myScratch.Set "promotedTitle" .Title }} 
-              p
-                a href="{{ .Permalink }}" {{ .Title }}
-            {{ end }}
-
-            {{if .PrevInSection }}
-              {{ if ne .PrevInSection.Title ($myScratch.Get "promotedTitle") }}
-                p
-                  a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
-              {{ end }}
-            {{ end }}
-            ||
-            {{if .NextInSection}}
-              {{ if ne .NextInSection.Title ($myScratch.Get "promotedTitle") }}
-              p
-                a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
-              {{end}}
-            {{end}}
-            a href="/blog" More &raquo;
+          {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 3}}
+          {{ with $related }}  
             hr
+            .hidden-sm.hidden-xs
+              h2 Other posts
+              {{ range .}}
+                p
+                  a href="{{ .Permalink }}" {{ .Title }}
+              {{ end }}
+          {{- end -}}            
+          a href="/blog" More &raquo;
+          hr
           h2 Follow me
           p
             a href="http://twitter.com/peterkappus" target="_blank" Twitter

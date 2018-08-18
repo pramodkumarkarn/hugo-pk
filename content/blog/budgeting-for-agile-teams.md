@@ -1,5 +1,6 @@
 ---
 author: p3trk
+featured: true
 categories:
 - Agile
 - Blog

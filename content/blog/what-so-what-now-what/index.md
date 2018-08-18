@@ -46,7 +46,7 @@ Using quarterly <a href="/blog/running-an-okr-setting-workshop/">OKRs</a> to tra
 
 When responding to a crisis, whether in the moment or afterwards as part of a [post-incident-review](https://github.com/etsy/DebriefingFacilitationGuide/tree/master/guide), the first step is always to gather accurate, factual information (without any judgement), then to evaluate what it means, and finally to agree a course of action.
 
-_UPDATE:_ My former colleague <a href="https://twitter.com/twitrnick" target="_blank">Nick Smith</a> and [Martin Galbraith](https://martingilbraith.com/) have both pointed out that **What? So What? Now What?** is a close cousin of the [ORID](https://www.betterevaluation.org/en/evaluation-options/orid) facilitation model: _Observe, Reflect, Interpret, Decide_. Like NVC above, ORID adds an explicit "reflect" step inviting us to think about how we _feel_ when making these observations. You might include this in the "So What?" stage but whatever you do, **don't leave out your emotions**! They are a powerful tool in evaluating what's happening in any situation.
+_UPDATE:_ My former colleague <a href="https://twitter.com/twitrnick" target="_blank">Nick Smith</a> and [Martin Gilbraith](https://martingilbraith.com/) have both pointed out that **What? So What? Now What?** is a close cousin of the [ORID](https://www.betterevaluation.org/en/evaluation-options/orid) facilitation model: _Observe, Reflect, Interpret, Decide_. Like NVC above, ORID adds an explicit "reflect" step inviting us to think about how we _feel_ when making these observations. You might include this in the "So What?" stage but whatever you do, **don't leave out your emotions**! They are a powerful tool in evaluating what's happening in any situation.
 
 ## Summary
 

@@ -2,11 +2,12 @@
 date: "2018-04-09"
 featured: true
 categories: blog
-keywords: [featured]
+keywords: [featured, okrs]
 resources:
 - name: cover
   src: okr-workshop.jpg
 title: Running an OKR setting workshop
+aliases: /blog/okrs
 ---
 
 It's OKR season again! If you're like me, your teams are probably in the middle of setting quarterly (or even annual) OKRs. Over the past year, I’ve helped dozens of teams at a large media organisation to adopt Objectives and Key Results (OKRs) and (as you'd expect) I've run a lot of OKR  workshops and trained a number of facilitators. Here are some of the techniques I use. Many thanks to [Christina Wodtke](http://eleganthack.com/) and her book [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028/). <!--TODO: help  [Nora Bereczkei](https://uk.linkedin.com/in/norabereczkei) to write a post about her summary.-->

@@ -9,7 +9,7 @@ categories:
 keywords: [featured]
 date: "2018-05-12"
 draft: false
-featured: false
+featured: true
 resources:
 - name: cover
   params:
