@@ -14,7 +14,7 @@ resources:
       link: https://unsplash.com/photos/K4mSJ7kc0As
 ---
 
-Previously, I've written about [Nonviolent Communication](/blog/nvc) and [Saying Please]({{< ref "/blog/on-saying-please" >}}). When we do our best to make a request (ensuring it doesn't sound like a demand) and still receive a "No", it can be confusing and demoralising. Likewise, saying "Yes" to things which don't serve our true interests, ultimately saps our precious time and energy.
+Previously, I've written about [Nonviolent Communication](/blog/nvc) and [Saying Please]({{< ref "/blog/on-saying-please" >}}). When we do our best to make a request (ensuring it doesn't sound like a demand) and still receive a "No", it can be confusing and demoralising. Likewise, saying "Yes" to things which don't serve our true interests ultimately saps our precious time and energy.
 
 So what do we do when we receive a "No"? And how do we constructively say "No" in a way that strengthens our relationships and contributes to everyone having their needs met?
 
