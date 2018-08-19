@@ -1,7 +1,7 @@
 {{ partial "header" .}}
 .container
-  .headline style="width: 100%"        
-    h1.short {{ .Title}}
+  .headline style="width:100%"      
+    h1 {{ .Title}}
   hr
   .row
     .col-md-8.main
@@ -57,15 +57,15 @@
       a.btn.btn-primary.btn-lg href="/contact" Let's talk!
       {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 3}}
       {{ with $related }}  
-        hr
-        .hidden-sm.hidden-xs
+        .d-none.d-lg-block.d-md-block
+          hr
           h2 Other posts
           {{ range .}}
             p
               a href="{{ .Permalink }}" {{ .Title }}
           {{ end }}
+          a href="/blog" More &raquo;
       {{- end -}}            
-      a href="/blog" More &raquo;
       hr
       h2 Follow me
       p
