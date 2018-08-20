@@ -1,6 +1,6 @@
 {{ partial "header" .}}
 .container
-  h2.big {{.Title}}
+  h1 {{.Title}}
   hr
   .bigger 
     {{.Content}}
