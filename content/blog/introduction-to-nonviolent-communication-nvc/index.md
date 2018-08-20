@@ -88,7 +88,7 @@ Check out this [list of feelings](https://www.cnvc.org/sites/default/files/feeli
 It's also essential that we express actual feelings and not judgements or evaluations. This can be very tricky. Statements beginning with "I feel" and an object, such as "I feel that..." or "I feel they...", are often evaluations disguised as feelings (e.g. "I feel that you're being unfair") rather than a true feeling: "I feel angry because this situation isn't meeting my need for equality".
 
 ### Expressing needs
-As with feelings, we are often culturally conditioned to ignore or downplay our needs, leaving us without the critical vocabulary needed to describe them. Marshall Rosenberg believes that all human needs derive from ten basic needs:
+As with feelings, we are often culturally conditioned to ignore or downplay our needs, leaving us without the critical vocabulary needed to describe them. Marshall Rosenberg believes that all human needs derive from a few basic needs:
 
 * Autonomy
 * Celebration
