@@ -68,14 +68,12 @@
       {{- end -}}            
       hr
       h2 Follow me
-      p
-        a href="http://twitter.com/peterkappus" target="_blank" Twitter
-      p
-        a href="http://linkedin.com/in/peterkappus" target="_blank" LinkedIn
-      p
-        a href="http://soundcloud.com/peterkappus" target="_blank" SoundCloud
-      p
-        a href="http://instagram.com/abstraktor" target="_blank" Instagram
+      .follow
+        a.fa.fa-twitter href="http://twitter.com/peterkappus"
+        a.fa.fa-linkedin href="http://linkedin.com/in/peterkappus"
+        a.fa.fa-instagram href="http://instagram.com/abstraktor"
+        a.fa.fa-soundcloud href="http://soundcloud.com/peterkappus"
+      hr
         
   = include partials/relatedContent.html .
 

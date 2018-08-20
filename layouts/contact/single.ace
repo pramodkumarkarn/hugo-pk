@@ -3,9 +3,31 @@
     .headline style="width: 100%"
       h1.big {{ .Title}}
     hr
-    .row
-      .col-md-4.main
+    .row.contact
+      .col-md-4
         img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
-      .col-md-8.main
-        {{ .Content}}                  
+      .col-md-8
+        .row
+          .col-md-6
+            {{ .Content}}        
+          .col-md-6.connect
+            h2 Connect
+            .info
+              .loc UK: 
+              | +44 (0) 203 468 4224
+              br
+              .loc US: 
+              | +1 (206) 651-4428
+            .info
+              .loc Email: 
+              a href="mailto:hello2018@peterkappus.com" hello2018@peterkappus.com
+        .row
+          .col-md-12
+            .card style="background: #eee"
+              form action="https://formspree.io/hello2018@peterkappus.com" method="POST"
+                input type="text" name="name" placeholder="Your Name"
+                input type="email" name="_replyto" placeholder="Email"
+                textarea name="message" placeholder="Message"
+                button class="btn btn-primary btn-lg" type="submit" value="Send" Send
+                  i.fa.fa-arrow-alt-circle-right style="padding-left: 20px"
     {{ partial "footer" .}}

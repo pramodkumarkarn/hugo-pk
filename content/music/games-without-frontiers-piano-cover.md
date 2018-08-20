@@ -17,6 +17,5 @@ An improvised piano cover of Peter Gabriel&#8217;s &#8220;Games Without Frontier
 &nbsp;  
 <a href="http://soundcloud.com/peterkappus/games-without-frontiers/download" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://soundcloud.com']);" class="button">FREE DOWNLOAD!</a>
 
-*Given I did not write the original song, this version is free to download, share, and perform under an Attribution-NonCommercial 3.0 creative licence.*
-
+<small>*Given I did not write the original song, this version is free to download, share, and perform under an Attribution-NonCommercial 3.0 creative licence.*</small>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://creativecommons.org']);"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/80x15.png" /></a>

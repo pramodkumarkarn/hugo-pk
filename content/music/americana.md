@@ -11,6 +11,6 @@ top_content: <iframe width="100%" height="450" scrolling="no" frameborder="no" s
 One evening in the spring of 2009, shortly before leaving the US to move to London, I sat down at the piano and improvised a series of short pieces. Reflecting back on them later, their simple melodies and robust harmonies struck me as having a uniquely American pioneering sound to them. It felt like the perfect token of life in the USA to bring with me to London.
 
 
-<div class="buy">
+<div class="buy" style="margin-bottom: 2rem">
   <a href="http://peterkappus.bandcamp.com/album/americana" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://peterkappus.bandcamp.com']);" class="button">Available for purchase at bandcamp.</a>
 </div>

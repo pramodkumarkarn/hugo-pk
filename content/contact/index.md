@@ -31,24 +31,8 @@ type: contact
 
 <!--a href="http://linkedin.com/in/peterkappus" target="_blank">
 <img src="http://www.linkedin.com/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Peter Kappus's profile on LinkedIn" /></a-->
+## Hello!
 
-<div class="bigger">
-  <p>Whatever you're up to, I'd love to hear from you to find out what I can learn from you and see if I can help!</p>
+Whatever you're up to, I'd love to hear from you to find out what I can learn from you and see if I can help!
   <!--<h3>UK: +44 (0) 203 468 4224</h3>
   <h3>US: +1 (206) 651-4428</h3>-->
-</div>
-
-<div id="wufoo-mh2gcg319dqy7j" >
-Fill out my <a href="https://peterkappus.wufoo.com/forms/mh2gcg319dqy7j">online form</a>.
-</div>
-
-<div class="row">
-<div class="col-md-4">
-
-  <a href="https://twitter.com/peterkappus" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @peterkappus</a>
-</div>
-<div class="col-md-8">
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/peterkappus" data-format="hover" data-related="false" data-text="Peter Kappus"></script>
-</div>
-</div>

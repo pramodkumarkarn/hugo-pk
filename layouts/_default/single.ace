@@ -6,6 +6,8 @@
   .row
     .col-md-4.main
       {{ .Content}}
+      p
+        a href=".." More {{.Type}} &raquo;
     .col-md-8.media_
       {{ if isset .Params "soundcloud" }}
       .embed-container
@@ -22,4 +24,5 @@
           img.img-fluid.big_pic src=/images/big_pics/{{$folder }}/{{.}}
         {{ end }}
       {{ end }}
+  = include partials/relatedContent.html .
   {{ partial "footer" .}}
