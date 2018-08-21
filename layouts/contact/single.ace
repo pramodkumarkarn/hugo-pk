@@ -18,7 +18,7 @@
               br
               .loc US: 
               | +1 (206) 651-4428
-            .info
+            .info style="padding-bottom: 1rem"
               .loc Email: 
               a href="mailto:hello2018@peterkappus.com" hello2018@peterkappus.com
         .row
