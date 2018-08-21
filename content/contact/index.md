@@ -28,7 +28,6 @@ script: |
 title: Get in touch
 type: contact
 ---
-
 <!--a href="http://linkedin.com/in/peterkappus" target="_blank">
 <img src="http://www.linkedin.com/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Peter Kappus's profile on LinkedIn" /></a-->
 ## Hello!

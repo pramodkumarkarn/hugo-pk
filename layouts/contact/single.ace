@@ -4,7 +4,7 @@
       h1.big {{ .Title}}
     hr
     .row.contact
-      .col-md-4
+      .col-md-4 style="margin-bottom: 1rem"
         img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
       .col-md-8
         .row
