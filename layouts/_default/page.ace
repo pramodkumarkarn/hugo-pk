@@ -1,8 +1,13 @@
 {{ partial "header" .}}
-.container
-  .headline style="width: 100%"
-    h1.short {{ .Title}}
-  hr
-  .single_page
-    {{ .Content}}
-  {{ partial "footer" .}}
+  .container
+    .headline style="width: 100%"
+      h1.big {{ .Title}}
+    hr
+    .row
+      .col-md-4 style="margin-bottom: 1rem"
+        img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
+        .credit
+          {{partial "getCoverCredit.html" . }}
+      .col-md-8
+        {{.Content}}
+    {{ partial "footer" .}}

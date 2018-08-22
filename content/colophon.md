@@ -16,4 +16,4 @@ I considered using one of the many, beautiful free themes out there but (embraci
 
 All the code is open source and kept on [GitHub](https://github.com/peterkappus/hugo-pk).
 
-Thanks for visiting!
+Checkout my [privacy policy](/privacy). Thanks for visiting!

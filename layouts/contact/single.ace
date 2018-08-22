@@ -6,6 +6,8 @@
     .row.contact
       .col-md-4 style="margin-bottom: 1rem"
         img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
+        .credit
+          {{partial "getCoverCredit.html" . }}
       .col-md-8
         .row
           .col-md-6
@@ -30,4 +32,6 @@
                 textarea name="message" placeholder="Message"
                 button class="btn btn-primary btn-lg" type="submit" value="Send" Send
                   i.fa.fa-arrow-alt-circle-right style="padding-left: 20px"
+                small style="color: #999; margin-bottom: 2rem" I promise not to spam you or sell your data. <a href="/privacy">Learn more</a>.
+
     {{ partial "footer" .}}
