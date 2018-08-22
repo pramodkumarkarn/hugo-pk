@@ -2,30 +2,7 @@
 aliases:
 - /about
 cover: peterkappus.jpg
-script: |
-  <script type="text/javascript">
-
-  //twitter
-  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-
-  var mh2gcg319dqy7j;(function(d, t) {
-  var s = d.createElement(t), options = {
-  'userName':'peterkappus',
-  'formHash':'mh2gcg319dqy7j',
-  'autoResize':true,
-  'height':'597',
-  'async':true,
-  'host':'wufoo.com',
-  'header':'show',
-  'ssl':true};
-  s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-  s.onload = s.onreadystatechange = function() {
-  var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-  try { mh2gcg319dqy7j = new WufooForm();mh2gcg319dqy7j.initialize(options);mh2gcg319dqy7j.display(); } catch (e) {}};
-  var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-  })(document, 'script');
-  </script>
-title: Get in touch
+title: Let's talk!
 type: contact
 ---
 <!--a href="http://linkedin.com/in/peterkappus" target="_blank">
