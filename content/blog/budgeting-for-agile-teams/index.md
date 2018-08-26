@@ -13,9 +13,11 @@ url: /blog/budgeting-for-agile-teams
 
 As organisations move away from thinking about **projects** with fixed budgets, scope  and timelines, focusing, _instead_, on long-running **digital services** that can evolve over time, teams need a way to see their actual expenses in the context of their plans and regularly update their forecasts and resource needs so everyone in the organisation can make timely, evidence-based decisions that keep delivery on track.
 
+Concepts like "[Beyond Budgeting](https://bbrt.org/the-beyond-budgeting-principles/)" are making this a reality.
+
 It's simply not cool anymore, to ask "how long will this project take and how much will you spend?" As agile ways of working become the norm a "project" can now take as long as you want it to and cost as much as you're willing to spend, all while guaranteeing reasonably good outcomes. 
 
-It's far better to ask: What's your current burn-rate and what am I getting for that? How much more do you need to deliver X? What about Y? What if we postpone that by 2 months? Or do slightly less? Or make it faster? Do you need more people? Or fewer? What does that look like?
+It's far better to ask: What's your current burn-rate and what value are we getting for that? How much more do you need to deliver X? What about Y? What if we postpone that by 2 months? Or do slightly less? Or make it faster? Do you need more people? Or fewer? What does that look like?
 
 {{<wide_pic graph Resize "800x">}}
 
