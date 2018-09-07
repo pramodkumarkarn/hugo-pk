@@ -101,7 +101,7 @@ As with feelings, we are often culturally conditioned to ignore or downplay our 
 Here's a more [comprehensive list](http://www.nonviolentcommunication.com/aboutnvc/feelings_needs.htm).
 
 #### Strategies disguised as needs
-Sometimes we use the word "need" without actually expressing a need. Often this is because we want to jump immediately into a strategy for meeting the need. For example, saying "I need you to be quiet" is a request or strategy but not a need. The underlying need might be expressed as "I need to be heard and understood." If we jump straight into the first strategy miss out on expressing the need and may be unable to see the most effective or achievable strategy for meeting that need. Watch out for these.
+Sometimes we use the word "need" without actually expressing a need. Often this is because we want to jump immediately into a strategy for meeting the need. For example, saying "I need you to be quiet" is a request or strategy but not a need. The underlying need might be expressed as "I need to be heard and understood." If we jump straight to a solution, we miss out on expressing the need and may not see the most effective or achievable strategy for meeting that need. Watch out for these.
 
 ### Making a clear request
 Often (but not always) the final step after observing, feeling, and needing is to make a clear request that would help get our needs met. Sometimes, it is enough to simply express our observations and feelings, or our observations, feelings, and needs. But when we're ready to move into _strategies_ it's important to clearly articulate them in a request.

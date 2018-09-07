@@ -1,7 +1,7 @@
 ---
-aliases:
-- /about
-cover: peterkappus.jpg
+resources:
+  - name: cover
+    src: headshot.jpg
 title: Let's talk!
 type: contact
 ---
