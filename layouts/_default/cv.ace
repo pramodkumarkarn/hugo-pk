@@ -1,5 +1,5 @@
 {{ partial "header" .}}
-{{ $available_msg := "Available from <b>October 2018</b> for interim roles in central London." }}
+{{ $available_msg := "Available in <b>January 2019</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 .container.main
@@ -27,7 +27,7 @@
           p.hidden-print
           p.hidden-print
             a href="/PeterKappus.pdf"
-              span.glyphicon.glyphicon-download aria-hidden="true" style="padding-right: .2rem"
+              span.fa.fa-download aria-hidden="true" style="padding-right: .2rem"
               | Download PDF
     .row
       .col-sm-12

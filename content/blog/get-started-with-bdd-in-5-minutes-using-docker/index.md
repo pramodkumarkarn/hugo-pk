@@ -1,10 +1,11 @@
 ---
 title: Get started with BDD and Test Automation in 5 minutes using Docker and Selenium
-date: 2018-09-10T11:38:21Z
+date: 2018-09-10
 categories: 
   - Blog
   - Tech
 featured: true
+draft: false
 resources:
   - name: other
     src: erik-jan-leusink-326914-unsplash.jpg

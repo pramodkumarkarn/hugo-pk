@@ -1,8 +1,6 @@
 # hugo-pk
 My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Bootstrap, and a bunch of other stuff.
 
-This readme is mostly to remind me where stuff is and how to work on this site in case I forget... which I will sooner or later.
-
 ## Development
 
 ### Using Docker
@@ -21,6 +19,22 @@ docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRend
 Delete the old image `docker rmi hugo-pk`
 Then run the commands above to rebuild with the new version.
 
+### Deployment
+```
+
+# set your AWS credentials...
+export $AWS_ID=<YOUR AWS KEY ID>
+export $AWS_SECRET=<YOUR AWS KEY SECRET>
+
+
+#generate the files
+docker run --rm -it -v "$PWD":/src -v "$PWD"/public:/target hugo-pk
+
+#upload and set permissions, remove deleted files
+docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SECRET_ACCESS_KEY=$AWS_SECRET garland/aws-cli-docker aws s3 sync . s3://www.peterkappus.com --delete --acl=public-read --exclude=".git*"
+
+```
+
 ### Creating posts, etc.
 `docker run hugo-pk new blog/<POST-TITLE>/index.md`
 
@@ -38,18 +52,9 @@ Copy the URL they give you and put this in the "link" attribute in the front mat
 Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
 `docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server -D --bind 192.168.0.10 --baseURL http://192.168.0.10`
 
-### Deploy via docker
-```
-#generate the files
-docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
-
-#syncing
-NOT DONE!   NEED TO CHECK EXACT SYNC SYNTAX!!!!
-###### docker run -v $(pwd):/root -v $(pwd)/public:/public --env AWS_ACCESS_KEY_ID=<<YOUR_ACCESS_KEY>> --env AWS_SECRET_ACCESS_KEY=<<YOUR_SECRET_ACCESS>> garland/aws-cli-docker aws s3 sync public/ s3://www.peterkappus.com --delete --acl=public-read --exclude=".git*"`
-```
 
 ## Contact form
-Currently using a free WufooForm but should consider [Formspree](https://formspree.io/). Downside of Formspree is your email get's exposed in the source (in the free version, at least).
+Using [Formspree](https://formspree.io/).
 
 ## Domains
 A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
@@ -59,6 +64,7 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 
 ## Other stuff...
 Image manipulation:
+This isn't necessary anymore now that I'm using the built-in resource (image cropping) tools within hugo.
 
 - Resize images for web use:
 ```
