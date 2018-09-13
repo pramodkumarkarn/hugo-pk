@@ -20,14 +20,16 @@ resources:
   
 ---
 
-[Behaviour Driven Development (or BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) ensures everyone has the same understanding of how an application should work and gives you a clear indication when a feature is finished. In general, test-automation dramatically speeds up acceptance and regression testing.
+[Behaviour Driven Development (or BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) ensures everyone has the same understanding of how an application should work and gives you a clear indication when a feature is finished. In general, any test-automation dramatically speeds up acceptance and regression testing. 
+
+Plus, it feels like magic.
 
 Unfortunately, getting started can be tough. You need a browser, a testing framework like [Cucumber](https://cucumber.io/), a web driver like [Selenium](https://www.seleniumhq.org/), and something like [Capybara](https://github.com/teamcapybara/capybara) to glue it all together (which requires [Ruby](https://www.ruby-lang.org/en/)).
 
-For more advanced BDD, check out things like the Java-based [Serenity](http://www.thucydides.info/#/) framework which uses the popular [Screenplay Pattern](http://thucydides.info/docs/articles/screenplay-tutorial.html).
+For more advanced BDD, check out things like the Java-based [Serenity](http://www.thucydides.info/#/) framework which uses the popular [Screenplay Pattern](http://thucydides.info/docs/articles/screenplay-tutorial.html). For something simple to get you started, read on...
 
 ## Get started in 5 minutes
-Here's a quick and easy way to set up a BDD environment using [Docker](https://docker.io) and [standalone Selenium containers](https://github.com/SeleniumHQ/docker-selenium). In the video below we create a browser container, connect to it with [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing) so we can see what's happening, then create another container to run Ruby/Capybara and then we test Google to make sure that we see the word "dog" when we search for "puppies". Check out the video!
+Here's a quick and easy way to set up a BDD environment using [Docker](https://docker.io) and [standalone Selenium containers](https://github.com/SeleniumHQ/docker-selenium). In the video below we create a browser container, connect to it with [VNC](https://en.wikipedia.org/wiki/Virtual_Network_Computing) so we can see what's happening, then create another container to run Ruby/Capybara and then we test Google to make sure that we see the word "dog" when we search for "puppies".
 
 {{< youtube xjwdaE36oIY >}}
 
@@ -70,11 +72,11 @@ Start it up. Notice how we're mapping the current working folder to the `/app` d
 docker run -v "$(PWD)":/app -it ruby_test
 ```
 
-Looking at the VNC window, we'll see a browser open and perform a Google search, and then close. 
+Looking at the VNC window, we'll see a browser open and perform a Google search, and then close. In the Ruby container, we can see the tests running and see the results.
 
-In the Ruby container, we can see the tests running and see the results.
+We can now extend this by writing tests in our "feature" folder and step definitions in our "features/step_definitions" folder. The repo above includes a few generic step definitions for seeing things and clicking on things. You'll no doubt want to write your own but this will get you started. 
 
-We can now extend this by writing tests in our "feature" folder and step definitions in our "features/step_definitions" folder. The repo above includes a few generic step definitions for seeing things and clicking on things. You'll no doubt want to write your own but this will get you started. Take a look at the [capybara documentation](https://www.rubydoc.info/github/teamcapybara/capybara/master) and this [cheat sheet](https://gist.github.com/zhengjia/428105) for help writing step definitions.
+Take a look at the [capybara documentation](https://www.rubydoc.info/github/teamcapybara/capybara/master) and this [cheat sheet](https://gist.github.com/zhengjia/428105) for help writing step definitions.
 
 I hope this helps you to get started exploring test automation and BDD and makes it easier to standardise your test environment among your development team.
 
