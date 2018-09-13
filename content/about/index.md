@@ -15,12 +15,14 @@ resources:
 
 I was born in **London** (UK) but grew up in St. Louis MO (USA), then Denver CO, then Boulder CO where I studied art, architecture, and computer science at [University of Colorado](https://www.colorado.edu/), and then New York City (Brooklyn), then Seattle where I helped build a [digital agency](http://designcommission.com/), and now I'm growing up in London (again).
 
-I love [art](http://www.abstraktor.com) (especially modern art), [music](/music) (especially electronic), writing code, and working with people to make cool things (like a trading platform, data-mining tools, a mobile content company, a [digital marketplace](https://www.digitalmarketplace.service.gov.uk/) for the UK government, and a way for the TV & Radio crew at the BBC to manage its ambitious change portfolio).
+I love [art](http://www.abstraktor.com) (especially modern art), [music](/music) (especially electronic), writing code, and working with smart people to make cool things (like a trading platform, social media data-mining tools, or a [digital marketplace](https://www.digitalmarketplace.service.gov.uk/) for the UK government). Lately I've been helping the TV & Radio crew at the BBC to manage its ambitious change portfolio.
 
 To do this, I've used a lot of lean/agile practices, including things like systems thinking, [Objectives & Key Results](/okr), Liberating Structures [Liberating Structures](http://www.liberatingstructures.com/), and [Nonviolent Communication](/nvc). I've built things using C++, HTML, JavaScript, Java, Ruby on Rails, Python, and even Perl back in the day. You're looking at [some of my code](/colophon) right now.
+
+I love helping teams to get clear on what they're doing and why. And then figure out how to get better at doing it. 
  
 Want to learn more? Check out my [CV](/cv). 
 
-Want to get a coffee together or go look at some art? 
+I'd love to know what you're working on and have a coffee or go look at some art.
 
 ## [Get in touch!](/contact)
