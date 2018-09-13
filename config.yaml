@@ -7,9 +7,8 @@ enableEmoji: true
 related:
   includeNewer: true
   indices:
-    - name: keywords # The name of the indice, same as Front Matter's .Param key.
+    - name: keywords
       weight: 100
-    - name: categories # The name of the indice, same as Front Matter's .Param key.
+    - name: categories
       weight: 20
-
 ...

@@ -2,7 +2,6 @@
 categories:
 - Blog
 - NVC
-keywords: [featured]
 featured: true
 date: "2018-07-10"
 resources:

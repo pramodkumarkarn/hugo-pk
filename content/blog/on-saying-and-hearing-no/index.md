@@ -2,8 +2,8 @@
 title: On hearing and saying "no"
 date: 2018-08-16
 draft: false
-featured: true
-keywords: [nvc, featured]
+featured: false
+keywords: [nvc]
 categories:
   - Blog  
 resources:

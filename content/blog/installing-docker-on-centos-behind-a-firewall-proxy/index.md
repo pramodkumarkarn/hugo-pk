@@ -1,7 +1,7 @@
 ---
-categories:
-- Blog
-- Tech
+categories: 
+  - Blog
+  - Tech
 date: "2018-05-13"
 draft: false
 resources:

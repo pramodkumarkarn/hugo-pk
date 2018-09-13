@@ -3,15 +3,9 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 
 This readme is mostly to remind me where stuff is and how to work on this site in case I forget... which I will sooner or later.
 
-## Domains
-A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
-
-The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
-
-
 ## Development
 
-### Use Docker
+### Using Docker
 
 ```
 #first time...(or when a new version of hugo comes out)
@@ -21,7 +15,6 @@ docker build -t hugo-pk .
 
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0
 
-#NOTE: For some reason, I can't redirect sass's output to /dev/null to hide it. Therefore, it's best to spin up another box when you need to run docker commands (e.g. new)
 ```
 
 #### Need a newer version of Hugo?
@@ -40,22 +33,10 @@ Then run the commands above to rebuild with the new version.
 - Then click on it, and click the "Share" button
 Copy the URL they give you and put this in the "link" attribute in the front matter.
 
-### shutting down
-```
-#bring the procs back to the foreground and kill them:
-fg # Now type CMD + C to kill Hugo
-fg # Now type CMD + C to kill Sass
-```
+### Tips
 
-TIP: Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
+Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
 `docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server -D --bind 192.168.0.10 --baseURL http://192.168.0.10`
-
-## Deployment
-NOTE: I've also packaged this one into a script called `deploy.sh`
-
-`hugo; s3cmd sync -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com`
-
-This will generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (`-P`). The `--rexclude=.git*` prevents the git files in the subdirectory (e.g. Spamwords) from being uploaded
 
 ### Deploy via docker
 ```
@@ -69,6 +50,12 @@ NOT DONE!   NEED TO CHECK EXACT SYNC SYNTAX!!!!
 
 ## Contact form
 Currently using a free WufooForm but should consider [Formspree](https://formspree.io/). Downside of Formspree is your email get's exposed in the source (in the free version, at least).
+
+## Domains
+A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
+
+The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
+
 
 ## Other stuff...
 Image manipulation:
