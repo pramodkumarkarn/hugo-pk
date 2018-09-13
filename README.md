@@ -18,28 +18,26 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 docker build -t hugo-pk .
 
 #subsequent times (just paste the following lines into a terminal and it will run the "inside this container" pieces once the container starts)
-docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
-#inside the container run the following...
-#render pages in the background
-hugo server --disableFastRender --navigateToChanged --bind=0.0.0.0 &
-#render sass in the background
-watch sass sass/main.sass static/css/main.css
+
+docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0
+
 #NOTE: For some reason, I can't redirect sass's output to /dev/null to hide it. Therefore, it's best to spin up another box when you need to run docker commands (e.g. new)
 ```
-Need a new version of Hugo? 
+
+#### Need a newer version of Hugo?
 `docker rmi hugo-pk; docker pull jguyomard/hugo-builder:latest`
 Then run the commands above to rebuild with the new version.
 
 ### Creating posts, etc.
-`docker run hugo-pk hugo new blog/<POST-TITLE>/index.md`
+`docker run hugo-pk new blog/<POST-TITLE>/index.md`
 
 ### Adding cover images
 [Unsplash](https://unsplash.com/) has great, free images.
-Find a picture...
-Download it into the blog post folder
-Copy the "Photo by..." line they give you.
-Paste it into the front matter.
-Then click on it, and click the "Share" button
+- Find a picture...
+- Download it into the blog post folder
+- Copy the "Photo by..." line they give you.
+- Paste it into the front matter.
+- Then click on it, and click the "Share" button
 Copy the URL they give you and put this in the "link" attribute in the front matter.
 
 ### shutting down
