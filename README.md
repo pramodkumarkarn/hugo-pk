@@ -25,7 +25,7 @@ docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRend
 ```
 
 #### Need a newer version of Hugo?
-`docker rmi hugo-pk; docker pull jguyomard/hugo-builder:latest`
+Delete the old image `docker rmi hugo-pk`
 Then run the commands above to rebuild with the new version.
 
 ### Creating posts, etc.
@@ -48,7 +48,7 @@ fg # Now type CMD + C to kill Sass
 ```
 
 TIP: Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
-`hugo server -D --bind 192.168.0.10 --baseURL http://192.168.0.10`
+`docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server -D --bind 192.168.0.10 --baseURL http://192.168.0.10`
 
 ## Deployment
 NOTE: I've also packaged this one into a script called `deploy.sh`
@@ -59,11 +59,12 @@ This will generate files with hugo, s3 synch the public folder to my site, delet
 
 ### Deploy via docker
 ```
-#setup
-docker run -it --rm -v $(pwd):/root peterk/s3cmd  --configure
+#generate the files
+docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
 
 #syncing
-docker run -it --rm -v $(pwd):/root -v $(pwd)/public:/public peterk/s3cmd  sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*`
+NOT DONE!   NEED TO CHECK EXACT SYNC SYNTAX!!!!
+###### docker run -v $(pwd):/root -v $(pwd)/public:/public --env AWS_ACCESS_KEY_ID=<<YOUR_ACCESS_KEY>> --env AWS_SECRET_ACCESS_KEY=<<YOUR_SECRET_ACCESS>> garland/aws-cli-docker aws s3 sync public/ s3://www.peterkappus.com --delete --acl=public-read --exclude=".git*"`
 ```
 
 ## Contact form
