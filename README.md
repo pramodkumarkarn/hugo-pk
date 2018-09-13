@@ -63,8 +63,8 @@ The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward reque
 
 
 ## Other stuff...
-Image manipulation:
-This isn't necessary anymore now that I'm using the built-in resource (image cropping) tools within hugo.
+### Image manipulation
+This isn't necessary anymore now that I'm using the built-in resource (image cropping) tools within hugo. But in case you ever need to do it with ImageMagick, here you go:
 
 - Resize images for web use:
 ```
