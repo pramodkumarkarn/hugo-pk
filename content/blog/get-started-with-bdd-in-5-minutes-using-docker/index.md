@@ -74,6 +74,12 @@ docker run -v "$(PWD)":/app -it ruby_test
 
 Looking at the VNC window, we'll see a browser open and perform a Google search, and then close. In the Ruby container, we can see the tests running and see the results.
 
+When you've finished testing, you can kill the browser container like so:
+
+```
+docker kill $(docker ps | grep selenium/standalone-chrome | grep -o "^\w\+")
+```
+
 We can now extend this by writing tests in our "feature" folder and step definitions in our "features/step_definitions" folder. The repo above includes a few generic step definitions for seeing things and clicking on things. You'll no doubt want to write your own but this will get you started. 
 
 Take a look at the [capybara documentation](https://www.rubydoc.info/github/teamcapybara/capybara/master) and this [cheat sheet](https://gist.github.com/zhengjia/428105) for help writing step definitions.

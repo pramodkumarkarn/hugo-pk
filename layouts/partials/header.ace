@@ -6,6 +6,7 @@ html lang="en"
     meta name="viewport" content="width=device-width, initial-scale=1"
     meta name="description" content=""
     meta name="author" content=""
+    meta name="google-site-verification" content="Uid-gGEl8uJ6t3AarJMtDSEYrtif0mmzR7u2Yhe4km0"
     link rel="icon" type="image/png" href="/images/icon.png"
     link rel="shortcut icon" href="/images/icon.png" type="image/x-icon"
     {{ $pageTitle := .Title | default ""}}
