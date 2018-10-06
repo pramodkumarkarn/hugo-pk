@@ -40,7 +40,7 @@
 
         / p.bigger A data-savvy, highly technical digital strategist with a passion for service delivery, organisational transformation, and problem-solving spanning nearly twenty years of experience across a diverse range of industries including government, banking/financial services, media/publishing, and bio-tech.
 
-        p A natural servant-leader, I specialise in helping <!--product and finance teams--> organisations to adopt lean/agile practices and move to a state of continuous improvement and data-driven decision-making. I <!--create strong internal communities of practice and --> enable lasting positive change while rapidly delivering to the broader organisational context and strategy.
+        p A natural servant-leader, I specialise in helping <!--product and finance teams--> organisations to align their goals and adopt lean/agile practices to reach a state of continuous improvement. I <!--create strong internal communities of practice and --> enable lasting positive change while rapidly delivering to the broader organisational context and strategy.
 
         / p A natural servant-leader, I create cross-functional high-performing teams and help them to <!--teams to explore and apply innovative managerial, strategic, and technical solutions to--> deliver outstanding digital products & services that delight customers and increase profitability. I create a culture of continuous, measurable improvement through careful critical thinking, strong interpersonal skills, and creative innovation. My strong goal-setting and strategic alignment skills (e.g. OKRs) combined with a relentless focus on commercial outcomes and financial responsibility (looking after budgets in excess of £150m) ensure outstanding results and highly engaged teams.
 
@@ -261,7 +261,7 @@
           / i.small (Contract)
           h4 British Broadcasting Corporation
           h5 Jun 2017 - present
-          p Coaching 300+ people in <b>18 teams</b> across TV & Radio (including <b>iPlayer</b>) in adopting Objectives and Key Results
+          p Coaching 400 people in <b>20+ teams</b> across TV & Radio (including <b>iPlayer</b>) in adopting Objectives and Key Results
           ul
             li Improving visibility across multi-million pound change portfolio 
             li Leading workshops and training sessions at all levels including senior leadership
@@ -304,12 +304,12 @@
             / li Proposed and implemented change to support greater organisational agility
             li Governance of <b>£150m</b> annual budget
             / li Enabled real-time business planning and reporting with no additional overhead
-            li Replaced complex, inflexible vendor ERP solution with bespoke BI platform
+            li Built bespoke BI platform replacing complex, inflexible vendor ERP solution
             li <b>Saved £100k+</b> while improving accuracy, engagement, and user satisfaction
             li Moved from quarterly to monthly delivery/finance reporting cycles
             / li Upskilled non-technical internal team to deliver internal digital tools, processes and services to ensure ongoing improvement
             li Streamlined business planning making it light-weight, continuous, and real-time
-            li Introduced impact-mapping and <b>Objectives and Key Results (OKRs)</b>
+            li Introduced <b>Objectives and Key Results (OKRs)</b> for alignment and transparency
             li Created bespoke <b>OKR</b> tracking tool using <b>Ruby on Rails</b>
           
           p Tools & Techniques: Google sheets w/ heavy scripting, Google Forms, Ruby on Rails, Hyperion, Anaplan, JavaScript, and more.

@@ -48,41 +48,43 @@ Now move into the directory you just cloned...
 cd selenium-cucumber-docker
 ```
 
-Start the selenium chrome container in the background (the first time you do this, it might take a few minutes).
+Start the two containers (one for running ruby, and one with the browser). We specify that we want a bash session (so we can run cucumber interactively), and this container specifies the browser container as a dependency so it will start automagically.
 
 ```
-docker run -d -p 4444:4444 -p 5900:5900 selenium/standalone-chrome-debug
+docker-compose run ruby bash
 ```
 
-Now you can see into the container by using VNC to connect:
+Now you can see into the browser container by using VNC to connect:
 ```
 open vnc://:secret@0.0.0.0:5900
 ```
 This should open a VNC viewer and show you an empty Ubuntu desktop.
 
-Now build a container to hold your Ruby gems and run Cucumber:
+Returning to the original terminal window, we should have a bash session where we can start cucumber:
 
 ```
-docker build . -t ruby_test
-```
-
-Start it up. Notice how we're mapping the current working folder to the `/app` directory. The container automatically runs cucumber when it starts. 
-
-```
-docker run -v "$(PWD)":/app -it ruby_test
+cucumber
 ```
 
 Looking at the VNC window, we'll see a browser open and perform a Google search, and then close. In the Ruby container, we can see the tests running and see the results.
 
-When you've finished testing, you can kill the browser container like so:
-
-```
-docker kill $(docker ps | grep selenium/standalone-chrome | grep -o "^\w\+")
-```
-
 We can now extend this by writing tests in our "feature" folder and step definitions in our "features/step_definitions" folder. The repo above includes a few generic step definitions for seeing things and clicking on things. You'll no doubt want to write your own but this will get you started. 
 
 Take a look at the [capybara documentation](https://www.rubydoc.info/github/teamcapybara/capybara/master) and this [cheat sheet](https://gist.github.com/zhengjia/428105) for help writing step definitions.
+
+
+When you've finished testing, you can exit the ruby container like so:
+
+```
+exit
+```
+
+And finally stop both containers by running this from the host:
+
+```
+docker-compose down
+```
+
 
 I hope this helps you to get started exploring test automation and BDD and makes it easier to standardise your test environment among your development team.
 

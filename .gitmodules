@@ -1,3 +1,6 @@
 [submodule "static/spamwords"]
 	path = static/spamwords
 	url = git@github.com:peterkappus/spamwords.git
+[submodule "static/trello-board-printer"]
+	path = static/trello-board-printer
+	url = git@github.com:peterkappus/trello-board-printer.git
