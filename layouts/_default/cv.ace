@@ -440,7 +440,7 @@
             p Delivered new Corbis Motion e-licensing platform and multiple online marketing campaigns. Designed, built, and deployed Perl-based <b>CMS and localisation engine</b> enabling localisation of an E-commerce platform with $13M annual revenue to five markets in under two weeks. <b>Flash, ActionScript, ASP.NET, SQLServer, Perl, HTML, and JavaScript.</b>
             
         .job
-          h4.other Additional experience available upon request
+          i.other Additional experience available upon request
             /
               / blurb for PNK Industries
               PNK Industries provides senior-level technical project management consulting services for medium to large digital studios with a focus on great user experience. Adept at developing a unique and robust process for various environments that culls nebulous business objectives into clear requirements and hard deliverables while reducing risk, overcoming obstacles, and adding transparency and predictability to projects. Typical projects around 50 people for 2+ years. My engagement is typically 6 months to a year.
@@ -472,7 +472,7 @@
           h4 Rhode Island School of Design, USA
           h5 European Honors Program (EHP) Art History/Architecture studio &mdash; <b>4.0 GPA</b>
         .school
-          h4.other Additional courses, certifications, and conferences available upon request
+          i.other Additional courses, certifications, and conferences available upon request
     .row
       .col-sm-12
         hr
