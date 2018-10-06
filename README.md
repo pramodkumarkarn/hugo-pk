@@ -40,7 +40,7 @@ s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.
 ```
 
 ### Creating posts, etc.
-`docker run hugo-pk new blog/<POST-TITLE>/index.md`
+`docker run -v "$PWD":/src hugo-pk new blog/<POST-TITLE>/index.md`
 
 ### Adding cover images
 [Unsplash](https://unsplash.com/) has great, free images.

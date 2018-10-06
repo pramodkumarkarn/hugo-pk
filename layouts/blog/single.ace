@@ -49,12 +49,10 @@
     .col-md-4.sidebar
       hr.d-lg-none.d-md-none
       h2 About Peter Kappus
-      p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR</a> coach, business transformation consultant, and <a href="https://github.com/peterkappus">digital tinkerer</a>. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
-      a href="/cv" Find out more. 
-      hr
-      h2 Contact me
-      p Want to find out more about something you've read?  Got an idea? Can I help with something you're working on?
-      a.btn.btn-primary.btn-lg href="/contact" Let's talk!
+      p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR coach</a>, <a href="/cv">business transformation consultant</a>, and <a href="https://github.com/peterkappus">digital tinkerer</a>. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
+      
+      p
+        a.btn.btn-primary href="/contact" Get in touch      
       {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 3}}
       {{ with $related }}  
         .d-none.d-lg-block.d-md-block
