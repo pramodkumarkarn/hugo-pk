@@ -33,6 +33,12 @@ docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SE
 
 ```
 
+#### Deploying without Docker
+```
+hugo
+s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com
+```
+
 ### Creating posts, etc.
 `docker run hugo-pk new blog/<POST-TITLE>/index.md`
 

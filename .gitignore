@@ -3,3 +3,4 @@ static/spam*
 .sass-cache*
 *.DS*
 resources/_gen*
+secrets.env
