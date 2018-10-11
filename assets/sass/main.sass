@@ -14,6 +14,24 @@
 
 /* Custom styles for use in blog posts */
 
+.parallax
+  /* The image used */
+  background-image: url("/images/simon-fitall-533515-unsplash.jpg")
+
+  /* Set a specific height */
+  min-height: 500px 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed
+  background-position: 0 -250px
+  background-repeat: no-repeat
+  background-size: cover
+  
+  color: #fff
+  h1
+    padding-top: 10rem
+    text-shadow: 2px 2px 8px #333
+  
 pre code
   display: block
   padding: 0.8rem
@@ -65,8 +83,9 @@ figure
     margin-top: 0
 
 .home
+  margin-top: -80px
   h1
-    margin-top: -75px
+    text-align: center
   h2
     font-size: 4rem
   h2.subheaded
@@ -75,6 +94,18 @@ figure
     color: #aaa
     font-size: 2.1rem
     margin-bottom: 0
+  .gray
+    background: #eee
+    padding: 2rem 1rem
+    margin-bottom: 1.5rem
+    p
+      text-align: center
+      line-height: 2rem
+      font-style: italic
+      font-size: 1.5rem
+  .home_nav
+    h2
+      text-align: center
 
 .big_pic
   img
@@ -99,12 +130,6 @@ hr, nav
 .bigger
   margin-bottom: 3rem
 
-.home p.main
-  background: #eee
-  padding: 1rem
-  font-size: 2rem
-  //text-align: justify
-  //text-justify: inter-word
 
 .credit
   font-size: 1rem
