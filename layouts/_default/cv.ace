@@ -1,5 +1,5 @@
 {{ partial "header" .}}
-{{ $available_msg := "Available in <b>January 2019</b> for interim roles in central London." }}
+{{ $available_msg := "Available in <b>February 2019</b> for interim roles in central London." }}
 {{ $looking := true }}
 {{ $left_side := 2}}
 .container.main
@@ -485,13 +485,15 @@
       .col-sm-10
         p Dual-national (US &amp; UK). Musician, composer, abstract artist, and conversational French-speaker. Self-appointed world diplomat. Able to leap tall buildings in a single bound.
         p Learn more at <a class="noprint_url" href="http://www.peterkappus.com">http://www.peterkappus.com</a>
-  {{ if $looking }}
+  {{ if $looking }} 
     .row.noprint
       .col-sm-12
         hr
     .row.noprint.looking
       .col-sm-12
         | {{ $available_msg | safeHTML}}
+        | &nbsp; 
+        a href="https://docs.google.com/forms/d/e/1FAIpQLSc1RpDfjaDp42cFMfwPGxO5iRvZvted36By-7t3nUiQzrLV1g/viewform?usp=sf_link" target="_blank" Got feedback?
         / a href="/contact" Contact me now!
         {{ end }}
         .hidden-print
