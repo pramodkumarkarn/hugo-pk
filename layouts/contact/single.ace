@@ -25,6 +25,7 @@
               a href="mailto:hello2018@peterkappus.com" hello2018@peterkappus.com
         .row
           .col-md-12
+            h2 Send me a message
             .card style="background: #eee"
               form action="https://formspree.io/hello2018@peterkappus.com" method="POST"
                 input type="text" name="name" placeholder="Your Name"
