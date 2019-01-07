@@ -2,6 +2,8 @@
 resources:
   - name: cover
     src: headshot.jpg
+    #src: head2.jpg
+    src: head3.jpg
 title: Let's talk!
 type: contact
 ---
