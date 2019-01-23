@@ -1,6 +1,6 @@
 ---
 title: "OKRs Are Not Tactics"
-date: 2019-01-23T15:53:44Z
+date: 2019-01-10T15:53:44Z
 categories: blog  
 resources:
   - name: cover
@@ -11,7 +11,7 @@ resources:
 
 ---
 
-Teams who are used to being told what tactics or outputs to deliver often fall into the trap of duplicating their plans and reports in their OKRs. At best, they may be able to “slice” a major project into delivery milestones which fit into various quarters. But these are not OKRs. When this happens, teams will feel frustrated because they’re doing the same planning and tracking work in two different places: calling it “project management” in one area and “OKRs” in the other. At worst, teams with rigid, long-term, tactical aspirations won’t be able to identify any quarterly OKRs at all and may choose something arbitrary simply to feel like they’re complying with (what feels like) a useless, externally mandated process. 
+Teams who are used to being told what tactics or outputs to deliver often fall into the trap of duplicating their plans and reports in their <a href="/okrs">OKRs</a>. At best, they may be able to “slice” a major project into delivery milestones which fit into various quarters. But these are not OKRs. When this happens, teams will feel frustrated because they’re doing the same planning and tracking work in two different places: calling it “project management” in one area and “OKRs” in the other. At worst, teams with rigid, long-term, tactical aspirations won’t be able to identify any quarterly OKRs at all and may choose something arbitrary simply to feel like they’re complying with (what feels like) a useless, externally mandated process. 
 
 This can make your OKR adoption process very difficult.
 
