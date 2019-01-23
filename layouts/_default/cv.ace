@@ -36,11 +36,16 @@
       .col-sm-2
         h3 Profile
       .col-sm-10.profile
-        p.top A versatile, innovative, programme/portfolio delivery manager, agile/OKR coach, and engineering advocate, with a natural servant-leader approach, I bring  <!-- and <b>certified scrum master</b> --> strong technical and data skills, a passion for creative problem-solving, and 20+ years of experience <!--delivering value for a range of organisations--> spanning financial services, media, government, and more.
+        // /Transformation
+        p.top A versatile, innovative, transformation coach and programme/portfolio delivery lead with a natural servant leader approach, I bring strong technical and data skills, a passion for creative problem-solving, and 20+ years of experience spanning media, financial services, government, and more.
 
+        // /Developer Advocate
+        / p.top A versatile, innovative, programme/portfolio delivery manager, agile/OKR coach, and engineering advocate, with a natural servant-leader approach, I bring  <!-- and <b>certified scrum master</b> --> strong technical and data skills, a passion for creative problem-solving, and 20+ years of experience <!--delivering value for a range of organisations--> spanning financial services, media, government, and more.
+        
+        // / strategy?
         / p.bigger A data-savvy, highly technical digital strategist with a passion for service delivery, organisational transformation, and problem-solving spanning nearly twenty years of experience across a diverse range of industries including government, banking/financial services, media/publishing, and bio-tech.
 
-        p From individual contributors to C-Level executives, I love helping individuals, teams, and entire organisations to challenge the status quo and create a culture of continuous improvement. Through adoption of lean/agile methods, cutting edge technical practices, and change management frameworks like OKRs and Liberating Structures, I enable lasting positive change while rapidly delivering to the broader organisational context and strategy. 
+        p From individual contributors to C-Level executives, I love helping individuals, teams, and entire organisations to challenge the status quo, creating a culture of continuous improvement. Through adoption of lean/agile methods, cutting-edge technical practices, and powerful change management frameworks like OKRs and Liberating Structures, I enable lasting positive change while rapidly delivering to the broader organisational context and strategy. 
         p I do this in a way that is sustainable, effective, and even fun.
         
         / p A natural servant-leader, I create cross-functional high-performing teams and help them to <!--teams to explore and apply innovative managerial, strategic, and technical solutions to--> deliver outstanding digital products & services that delight customers and increase profitability. I create a culture of continuous, measurable improvement through careful critical thinking, strong interpersonal skills, and creative innovation. My strong goal-setting and strategic alignment skills (e.g. OKRs) combined with a relentless focus on commercial outcomes and financial responsibility (looking after budgets in excess of £150m) ensure outstanding results and highly engaged teams.
@@ -95,9 +100,9 @@
 
           / financial services payment processing
 
-          li Process improvement
+          li Continuous improvement
           li Stakeholder management
-          li Legacy rescue
+          li Legacy transformation
           li Objectives & Key Results (OKRs)
           / li Project / Programme / Portfolio management
           / li Change management training
@@ -224,7 +229,7 @@
           li HTML/CSS/JavaScript
           li Ruby on Rails, Slim
           li Docker / Vagrant
-          li Cloud Infrastructure (AWS)
+          li Cloud Migration (AWS)
           li Data-wrangling
           li Continuous integration (Jenkins)
           li Git & Github
