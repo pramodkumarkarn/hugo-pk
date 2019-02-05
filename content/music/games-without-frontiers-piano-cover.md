@@ -6,13 +6,11 @@ sgt_slide:
 - true
 sub-title: Piano Cover
 title: Games Without Frontiers
+top_content: <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/37451844&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 ---
 
 An improvised piano cover of Peter Gabriel&#8217;s &#8220;Games Without Frontiers&#8221;. Originally submitted as part of a <a href="http://www.indabamusic.com/opportunities/remix-peter-gabriel/submissions/21033" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.indabamusic.com']);">remix contest at Indaba Music</a>, this track came in 45th out of more than 500 submissions.
-
-
-<iframe width="100%" height="120" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/37451844&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
-
 
 &nbsp;  
 <a href="http://soundcloud.com/peterkappus/games-without-frontiers/download" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://soundcloud.com']);" class="button">FREE DOWNLOAD!</a>

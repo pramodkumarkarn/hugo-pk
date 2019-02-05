@@ -251,16 +251,16 @@
           / i.small (Contract)
           h4 British Broadcasting Corporation - Proteus Team
           h5 Nov 2017 - present
-          p While continuing to support TV & Radio teams more generally, I am now providing agile coaching and delivery management for the Proteus team, specifically. The 15+ year old legacy Proteus platform enables the commissioning and scheduling of <b>every second of audio played on BBC Radio</b> and manages meta-data for <b>hundreds of millions</b> of briefs, commissions, programmes, versions, episodes and transmissions from the past <b>90+ years</b>.
+          p Providing agile coaching and delivery management for the 15+ year old legacy Proteus platform enabling the commissioning and scheduling of <b>every second of audio played on BBC Radio</b> and managing meta-data for <b>hundreds of millions</b> of briefs, proposals, commissions, programmes, episodes and transmissions from the past <b>90+ years</b>.
           ul
             li Reduced mean time between releases from <b>4 months to 8 days</b>
             li Reduced deployment time from <b>4 hours to 5 minutes</b>
             li Reduced regression testing time from <b>2 weeks to 1 day</b>
-            li Migrated over 8,000 source code files from <b>SVN to Github</b>
+            li Migrated 8,000+ source files from <b>SVN to Github</b>
             li Improved code quality and understanding via <b>pairing and Pull Requests</b>
             li Introduced <b>test automation</b> and <b>continuous integration</b> via Jenkins 
-            li Virtualised and replaced 15+ year old bare-metal stack
-            li Decomposing monolithic legacy app into RESTful API-based micro-services
+            li Re-platformed from 15+ year old bare-metal stack to Cloud infrastructure
+            / li Decomposing monolithic legacy app into RESTful API-based micro-services
             / li Migrating from legacy JS frameworks to ReactJS
             
           p Tools & Techniques: Confluence, Scrum, Kanban, BDD (Serenity, Capybara, Cucumber), Jira, Java (Spring, Struts, Hibernate), Jenkins, ReactJS, Docker, AWS, Puppet, HAProxy
@@ -270,16 +270,16 @@
           / i.small (Contract)
           h4 British Broadcasting Corporation
           h5 Jun 2017 - Dec 2018
-          p Coached 400+ people in <b>20+ teams</b> across TV & Radio (including <b>iPlayer</b>) in adopting Objectives and Key Results.
+          p Coached <b>400+ people in 20+ teams</b> including senior leadership across TV & Radio (e.g. <b>iPlayer</b>) in adopting Objectives and Key Results.
           ul
-            li Improved visibility across multi-million pound change portfolio 
-            li Led workshops and training sessions at all levels including senior leadership
+            li Improved visibility across <b>multi-million pound change portfolio</b>
+            li Led workshops and training sessions at all levels
             / li Engaging with iPlayer web & mobile, broadcast engineering, and others
             / li Developing an in-house centre of excellence and knowledge-base on OKRs
-            li Designed and implemented bespoke tracking & reporting tools (Ruby on Rails & Google Sheets)
+            li Designed and implemented <b>bespoke tracking & reporting</b> tools
             / li Introducing lean/kanban flow models for delivery
-            li Mentored finance teams to join up investment and delivery
-            li Refreshed portfolio governance to incorporate OKRs
+            li Mentored finance teams to join up <b>investment and delivery</b>
+            li Refreshed <b>portfolio governance</b> to incorporate OKRs
           
           p Tools & Techniques: Confluence, OKRs, Google Docs/Sheets, Jira, Ruby on Rails, Cucumber, Docker, Vagrant, AWS, Cloud Formation, Postgres
         
