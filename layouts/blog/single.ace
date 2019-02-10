@@ -18,7 +18,9 @@
       .blog style="margin-top: 2.5rem"
         {{ .Content}}
       p.blognote
-        | Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas, or suggestions, please <a href="/contact">contact me</a>.
+        / Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas, or suggestions, please <a href="/contact">contact me</a>.
+        | Thanks for reading! I'm currently looking for new contract challenges to begin in March 2019. If you've got something juicy, please check out my <a href="/cv">CV</a> and <a href="/contact">contact me</a>.
+        
 
       / NOT YET.... (24 March 2018)
         #disqus_thread style="margin-bottom: 3rem"

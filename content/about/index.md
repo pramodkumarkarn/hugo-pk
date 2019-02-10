@@ -17,9 +17,9 @@ I was born in **London** (UK) but grew up in St. Louis MO (USA), then Denver CO,
 
 I love [art](http://www.abstraktor.com) (especially modern art), [music](/music) (especially electronic), writing code, and working with smart people to make cool things (like a trading platform, social media data-mining tools, or a [digital marketplace](https://www.digitalmarketplace.service.gov.uk/) for the UK government). Recently, I've been helping the TV & Radio crew at the BBC to manage its ambitious change portfolio.
 
-To do this, I've used a lot of lean/agile practices, including things like systems thinking, [Objectives & Key Results](/okr), Liberating Structures [Liberating Structures](http://www.liberatingstructures.com/), and [Nonviolent Communication](/nvc). I've built things using C++, HTML, JavaScript, Java, Ruby on Rails, Python, and even Perl back in the day. You're looking at [some of my code](/colophon) right now.
+To do this, I've used a lot of lean/agile practices, including things like systems thinking, [Objectives & Key Results](/okr), [Liberating Structures](http://www.liberatingstructures.com/), and [Nonviolent Communication](/nvc). I've built things using C++, HTML, JavaScript, Java, Ruby on Rails, Python, and even Perl back in the day. You're looking at [some of my code](/colophon) right now.
 
-I love helping teams to get clear on what they're doing and why. And then figure out how to get better at doing it. 
+I love helping teams to get clear on what they're doing and why, and then helping them figure out how to get better at doing it. 
  
 Want to learn more? Check out my [CV](/cv). 
 

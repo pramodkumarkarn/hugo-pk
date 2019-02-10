@@ -12,8 +12,10 @@ docker build -t hugo-pk .
 #subsequent times (just paste the following lines into a terminal and it will run the "inside this container" pieces once the container starts)
 
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0
-
 ```
+
+Now visit: http://localhost:1313
+
 
 #### Need a newer version of Hugo?
 Delete the old image `docker rmi hugo-pk`
@@ -39,7 +41,7 @@ hugo
 s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com
 ```
 
-### Creating posts, etc.
+### Creating new content (posts, etc.)
 `docker run -v "$PWD":/src hugo-pk new blog/<POST-TITLE>/index.md`
 
 ### Adding cover images
