@@ -4,4 +4,11 @@ permalinks:
   blog: /blog/:title/
 pluralizelisttitles: "false"
 enableEmoji: true
+related:
+  includeNewer: true
+  indices:
+    - name: keywords
+      weight: 100
+    - name: categories
+      weight: 20
 ...

@@ -1,36 +1,37 @@
 ---
+aliases:
+- /blog/nvc
+- /nvc
 author: p3trk
+categories:
+- Blog
+- NVC
+keywords: [featured]
+date: "2018-05-12"
 draft: false
-date: 2018-05-12
+featured: true
+resources:
+- name: cover
+  params:
+    credit: Beth Banning
+  src: marshall_rosenberg.jpg
+- name: steps
+  params:
+    credit: Matt Brown
+    link: https://www.flickr.com/photos/londonmatt/36367935743/in/photolist-XpHbfT-9AawN5-4NZPac-a4tgiZ-sXZUN-my2ws2-ycWvZ-cknXco-6KFxDG-5ucz4S-8jX3D-8UJdMU-8nfk1x-fyNoXC-dpYqRD-5PAXRT-bQyKnR-6h4ZTf-n4hVC-53mfZH-ohZcid-4NZPag-4fbBe4-dpL25-5nrvpd-5xdLr8-q5sMtv-6yntQD-48jHtn-aEwV4a-7MVH1j-67hfxy-fEESFr-bBm3yH-4ffADL-74xVKY-2AFq39-4WYfeA-ayRpMj-nyEMNb-64Bdxf-633Fk2-7C8cS4-5nrvim-652FE6-6kL3xQ-7FARro-d87a2q-8FqeNA-4HX3Sm
+  src: steps.jpg
+- name: giraffe
+  params:
+    credit: John Hilliard
+    link: https://www.flickr.com/photos/praetoriansentry/5736099380/in/photolist-9JT1vb-86m7S5-9FDqcz-Nt9hZ-86hPCg-5sFiMq-gtiGA8-5SxRLu-kLEDm6-gtiV78-6PQ9BV-e7kUVq-4K8oFD-5hdLt4-86m1XL-5NbvVw-qQtmdb-5w2gp4-54dobM-69Dtp9-4vUjgX-9Z3fQp-3evPsm-CCQTTm-vXfvzu-diji9m-8bNdQ2-21LUqX3-92VJQ3-mjfPv-oFLcX-25bjx1u-d9zw1J-22Y9cQw-b5yYDV-65EfgK-bDzKUK-61WNsF-5jpnvs-6HoBfU-ncPPYP-8SQnmR-8ommGc-8fLpMk-dcNdv5-61WzqK-7AapLb-2akdHV-7kkc6c-9S8yqK
+  src: giraffe.jpg
+- name: jackal
+  params:
+    credit: Carol Foil
+    link: https://www.flickr.com/photos/dermoidhome/5918714768/in/photolist-deddMV-qidLHK-a21XGm-nBPf7d-o49egX-qb9pCE-pgGiJM-pW2Xsv-pW1MpP-rsk2r3-rsiuMt-JHn6Z4-25Ag2yW-a4y65Q-q4btUq-265GVcf-rcxdT4-addnH7-owe9b6-qr7YrL-8D8uSj-FvWqxf-Awdxbh-cGUTsd-5XRnAj-bkAgg2-8PbAzy-cSJ1Uf-aoRLsc-aoUvkb-9aWM2R-4eybMh-8V4YG3-24BakEs-qyjM7N-3okHZD-4N5Fd-qkJKEk-6cwKyr-383RjT-eJtFcJ-6KTa9p-4fEjXA-rjmTEN-9Gs37o-8DiTgM-mwDgBn-dT4oFX-38aKmb-8Xtsu7
+  src: jackal.jpg
 title: An Introduction to Nonviolent Communication (NVC)
 url: /blog/introduction-to-nonviolent-communication-nvc
-aliases:
-  - /blog/nvc
-  - /nvc
-categories:
-  - Blog
-  - NVC
-featured: false
-resources:
-  - name: cover
-    src: marshall_rosenberg.jpg
-    params:
-      credit: Beth Banning
-  - name: steps
-    src: steps.jpg
-    params:
-      credit: Matt Brown
-      link: https://www.flickr.com/photos/londonmatt/36367935743/in/photolist-XpHbfT-9AawN5-4NZPac-a4tgiZ-sXZUN-my2ws2-ycWvZ-cknXco-6KFxDG-5ucz4S-8jX3D-8UJdMU-8nfk1x-fyNoXC-dpYqRD-5PAXRT-bQyKnR-6h4ZTf-n4hVC-53mfZH-ohZcid-4NZPag-4fbBe4-dpL25-5nrvpd-5xdLr8-q5sMtv-6yntQD-48jHtn-aEwV4a-7MVH1j-67hfxy-fEESFr-bBm3yH-4ffADL-74xVKY-2AFq39-4WYfeA-ayRpMj-nyEMNb-64Bdxf-633Fk2-7C8cS4-5nrvim-652FE6-6kL3xQ-7FARro-d87a2q-8FqeNA-4HX3Sm
-  - name: giraffe
-    src: giraffe.jpg
-    params:
-      credit: John Hilliard
-      link: https://www.flickr.com/photos/praetoriansentry/5736099380/in/photolist-9JT1vb-86m7S5-9FDqcz-Nt9hZ-86hPCg-5sFiMq-gtiGA8-5SxRLu-kLEDm6-gtiV78-6PQ9BV-e7kUVq-4K8oFD-5hdLt4-86m1XL-5NbvVw-qQtmdb-5w2gp4-54dobM-69Dtp9-4vUjgX-9Z3fQp-3evPsm-CCQTTm-vXfvzu-diji9m-8bNdQ2-21LUqX3-92VJQ3-mjfPv-oFLcX-25bjx1u-d9zw1J-22Y9cQw-b5yYDV-65EfgK-bDzKUK-61WNsF-5jpnvs-6HoBfU-ncPPYP-8SQnmR-8ommGc-8fLpMk-dcNdv5-61WzqK-7AapLb-2akdHV-7kkc6c-9S8yqK
-  - name: jackal
-    src: jackal.jpg
-    params:
-      credit: Carol Foil
-      link: https://www.flickr.com/photos/dermoidhome/5918714768/in/photolist-deddMV-qidLHK-a21XGm-nBPf7d-o49egX-qb9pCE-pgGiJM-pW2Xsv-pW1MpP-rsk2r3-rsiuMt-JHn6Z4-25Ag2yW-a4y65Q-q4btUq-265GVcf-rcxdT4-addnH7-owe9b6-qr7YrL-8D8uSj-FvWqxf-Awdxbh-cGUTsd-5XRnAj-bkAgg2-8PbAzy-cSJ1Uf-aoRLsc-aoUvkb-9aWM2R-4eybMh-8V4YG3-24BakEs-qyjM7N-3okHZD-4N5Fd-qkJKEk-6cwKyr-383RjT-eJtFcJ-6KTa9p-4fEjXA-rjmTEN-9Gs37o-8DiTgM-mwDgBn-dT4oFX-38aKmb-8Xtsu7
 ---
 
 **Nonviolent Communication** or NVC is a vast and nuanced area of study but the basic concepts can be grasped and applied almost immediately. I recently gave a training course to a few colleagues and promised to post a brief introduction.
@@ -87,7 +88,7 @@ Check out this [list of feelings](https://www.cnvc.org/sites/default/files/feeli
 It's also essential that we express actual feelings and not judgements or evaluations. This can be very tricky. Statements beginning with "I feel" and an object, such as "I feel that..." or "I feel they...", are often evaluations disguised as feelings (e.g. "I feel that you're being unfair") rather than a true feeling: "I feel angry because this situation isn't meeting my need for equality".
 
 ### Expressing needs
-As with feelings, we are often culturally conditioned to ignore or downplay our needs, leaving us without the critical vocabulary needed to describe them. Marshall Rosenberg believes that all human needs derive from ten basic needs:
+As with feelings, we are often culturally conditioned to ignore or downplay our needs, leaving us without the critical vocabulary needed to describe them. Marshall Rosenberg believes that all human needs derive from a few basic needs:
 
 * Autonomy
 * Celebration
@@ -100,7 +101,7 @@ As with feelings, we are often culturally conditioned to ignore or downplay our 
 Here's a more [comprehensive list](http://www.nonviolentcommunication.com/aboutnvc/feelings_needs.htm).
 
 #### Strategies disguised as needs
-Sometimes we use the word "need" without actually expressing a need. Often this is because we want to jump immediately into a strategy for meeting the need. For example, saying "I need you to be quiet" is a request or strategy but not a need. The underlying need might be expressed as "I need to be heard and understood." If we jump straight into the first strategy miss out on expressing the need and may be unable to see the most effective or achievable strategy for meeting that need. Watch out for these.
+Sometimes we use the word "need" without actually expressing a need. Often this is because we want to jump immediately into a strategy for meeting the need. For example, saying "I need you to be quiet" is a request or strategy but not a need. The underlying need might be expressed as "I need to be heard and understood." If we jump straight to a solution, we miss out on expressing the need and may not see the most effective or achievable strategy for meeting that need. Watch out for these.
 
 ### Making a clear request
 Often (but not always) the final step after observing, feeling, and needing is to make a clear request that would help get our needs met. Sometimes, it is enough to simply express our observations and feelings, or our observations, feelings, and needs. But when we're ready to move into _strategies_ it's important to clearly articulate them in a request.

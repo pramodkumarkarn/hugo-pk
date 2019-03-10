@@ -1,7 +1,66 @@
 # hugo-pk
 My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Bootstrap, and a bunch of other stuff.
 
-This readme is mostly to remind me where stuff is and how to work on this site in case I forget... which I will sooner or later.
+## Development
+
+### Using Docker
+
+```
+#first time...(or when a new version of hugo comes out)
+docker build -t hugo-pk .
+
+#subsequent times (just paste the following lines into a terminal and it will run the "inside this container" pieces once the container starts)
+
+docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0
+```
+
+Now visit: http://localhost:1313
+
+
+#### Need a newer version of Hugo?
+Delete the old image `docker rmi hugo-pk`
+Then run the commands above to rebuild with the new version.
+
+### Deployment
+```
+#generate the files
+docker run --rm -it -v "$PWD":/src -v "$PWD"/public:/target hugo-pk
+
+# set your AWS credentials...
+export AWS_ID=<YOUR AWS KEY ID>
+export AWS_SECRET=<YOUR AWS KEY SECRET>
+
+#upload and set permissions, remove deleted files
+docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SECRET_ACCESS_KEY=$AWS_SECRET garland/aws-cli-docker aws s3 sync . s3://www.peterkappus.com --delete --acl=public-read --exclude=".git*"
+
+```
+
+#### Deploying without Docker
+```
+hugo
+s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com
+```
+
+### Creating new content (posts, etc.)
+`docker run -v "$PWD":/src hugo-pk new blog/<POST-TITLE>/index.md`
+
+### Adding cover images
+[Unsplash](https://unsplash.com/) has great, free images.
+- Find a picture...
+- Download it into the blog post folder
+- Copy the "Photo by..." line they give you.
+- Paste it into the front matter.
+- Then click on it, and click the "Share" button
+Copy the URL they give you and put this in the "link" attribute in the front matter.
+
+### Tips
+
+Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
+`docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server -D --bind 192.168.0.10 --baseURL http://192.168.0.10`
+
+
+## Contact form
+Using [Formspree](https://formspree.io/).
 
 ## Domains
 A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
@@ -9,70 +68,9 @@ A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both re
 The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
 
 
-## Development
-
-### Use Docker
-
-```
-#first time...(or when a new version of hugo comes out)
-docker build -t hugo-pk .
-
-#subsequent times (just paste the following lines into a terminal and it will run the "inside this container" pieces once the container starts)
-docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk
-#inside the container run the following...
-#render pages in the background
-hugo server --disableFastRender --navigateToChanged --bind=0.0.0.0 &
-#render sass in the background
-watch sass sass/main.sass static/css/main.css
-#NOTE: For some reason, I can't redirect sass's output to /dev/null to hide it. Therefore, it's best to spin up another box when you need to run docker commands (e.g. new)
-```
-Need a new version of Hugo? 
-`docker rmi hugo-pk; docker pull jguyomard/hugo-builder:latest`
-Then run the commands above to rebuild with the new version.
-
-### Creating posts, etc.
-`docker run hugo-pk hugo new blog/<POST-TITLE>/index.md`
-
-### Adding cover images
-[Unsplash](https://unsplash.com/) has great, free images.
-Find a picture...
-Download it into the blog post folder
-Copy the "Photo by..." line they give you.
-Paste it into the front matter.
-Then click on it, and click the "Share" button
-Copy the URL they give you and put this in the "link" attribute in the front matter.
-
-### shutting down
-```
-#bring the procs back to the foreground and kill them:
-fg # Now type CMD + C to kill Hugo
-fg # Now type CMD + C to kill Sass
-```
-
-TIP: Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
-`hugo server -D --bind 192.168.0.10 --baseURL http://192.168.0.10`
-
-## Deployment
-NOTE: I've also packaged this one into a script called `deploy.sh`
-
-`hugo; s3cmd sync -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com`
-
-This will generate files with hugo, s3 synch the public folder to my site, delete any removed files and make the new files public (`-P`). The `--rexclude=.git*` prevents the git files in the subdirectory (e.g. Spamwords) from being uploaded
-
-### Deploy via docker
-```
-#setup
-docker run -it --rm -v $(pwd):/root peterk/s3cmd  --configure
-
-#syncing
-docker run -it --rm -v $(pwd):/root -v $(pwd)/public:/public peterk/s3cmd  sync public/ s3://www.peterkappus.com --delete-removed -P --rexclude=.git*`
-```
-
-## Contact form
-Currently using a free WufooForm but should consider [Formspree](https://formspree.io/). Downside of Formspree is your email get's exposed in the source (in the free version, at least).
-
 ## Other stuff...
-Image manipulation:
+### Image manipulation
+This isn't necessary anymore now that I'm using the built-in resource (image cropping) tools within hugo. But in case you ever need to do it with ImageMagick, here you go:
 
 - Resize images for web use:
 ```

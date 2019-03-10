@@ -1,12 +1,12 @@
 ---
-title: Richard Wilson's 20:50 at the Saatchi Gallery in London
 author: p3trk
-cover: richard-wilson/1.jpg
-date: 2012-03-11
 categories:
-  - Blog
-  - Inspiration
+- Blog
+cover: richard-wilson/1.jpg
+date: "2012-03-11"
+title: Richard Wilson's 20:50 at the Saatchi Gallery in London
 ---
+
 If you ever visit the Saatchi Gallery in London, be sure to go down to the ground floor and see Richard Wilson's piece "20:50". Originally produced in 1987 and now re-created at the new Saatchi Gallery, it is truly awe-inspiring.
 
 Stepping onto the viewing platform, the viewer sees, what at first appears to be, a perfectly polished floor that both mirrors and absorbs the surrounding architecture. The room is, in fact, flooded with recycled engine oil.

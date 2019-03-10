@@ -1,15 +1,16 @@
-+++
-author = "p3trk"
-categories = ["Art", "Blog"]
-type = "blog_wide"
-cover = "advice-fernando-sanchez_cropped.jpg"
-cover_credit = "Fernando Sanchez"
-cover_source= "https://www.flickr.com/photos/fernandosanchez/2273862344/in/photolist-4sW94b-9X44bR-dsLUKT-zynrD-7rWGES-aiJFoM-eeiGUg-u1xN8B-4YMPre-9A3wen-hqGTa-mLNxb5-7WmBLx-85R2ug-7WZTuZ-aEPLdX-bqjYdb-aETBr7-4DWiif-55PYgY-5F7NFd-mUngy4-5FQYGU-4a5fUc-63yn9p-54wqeQ-5ng7EP-iyWhNP-eYkJbh-ejyoUL-76GVeb-ojptzu-mYc7zE-8L4v9r-r31Pf9-SKMqB8-qcg3BV-5EHLJJ-fwd9Pi-9nMuKN-sbHeZP-4zTMUz-3NRiuZ-8xb3Y3-dNJ5Fd-kXLFEr-SYhptw-7drT3V-oHpUhJ-oXVmaf"
-date = "2017-04-17T23:47:05+01:00"
-#draft = true
-title = "Transformation advice for larger organisations"
-aliases = ["/blog/advice"]
-+++
+---
+type: blog_wide
+aliases:
+- /blog/advice
+author: p3trk
+categories:
+- Blog
+cover: advice-fernando-sanchez_cropped.jpg
+cover_credit: Fernando Sanchez
+cover_source: https://www.flickr.com/photos/fernandosanchez/2273862344/in/photolist-4sW94b-9X44bR-dsLUKT-zynrD-7rWGES-aiJFoM-eeiGUg-u1xN8B-4YMPre-9A3wen-hqGTa-mLNxb5-7WmBLx-85R2ug-7WZTuZ-aEPLdX-bqjYdb-aETBr7-4DWiif-55PYgY-5F7NFd-mUngy4-5FQYGU-4a5fUc-63yn9p-54wqeQ-5ng7EP-iyWhNP-eYkJbh-ejyoUL-76GVeb-ojptzu-mYc7zE-8L4v9r-r31Pf9-SKMqB8-qcg3BV-5EHLJJ-fwd9Pi-9nMuKN-sbHeZP-4zTMUz-3NRiuZ-8xb3Y3-dNJ5Fd-kXLFEr-SYhptw-7drT3V-oHpUhJ-oXVmaf
+date: "2017-04-17T23:47:05+01:00"
+title: Transformation advice for larger organisations
+---
 
 While working for one government client, I was invited to fill out an employee survey. The final question was an open-ended _"What else would you like to tell us?"_ question. Below is my response:
 

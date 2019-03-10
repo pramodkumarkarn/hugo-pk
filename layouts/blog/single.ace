@@ -1,115 +1,88 @@
-= doctype html
-html lang="en"
-  {{ partial "header" .}}
-  body
-    .container
-      {{ partial "nav" .}}
-      h4.capitalize
-        a href="/{{.Type}}" {{.Type}}
-      .headline style="width: 100%"        
-        h1.short {{ .Title}}
-      hr
-      .row
-        .col-md-8.main
-          {{ if isset .Params "top_content" }}
-            {{ .Params.top_content | safeHTML}}
-          {{else}}
-            .big_pic
-              / img.img-responsive src=/images/big_pics/{{.Params.cover}}
-              img.img-responsive src="{{ trim (partial "getCover.html" . ) "\n"  }}"
-              .credit
-                {{partial "getCoverCredit.html" . }}
-          {{ end }}
-          .blogdate {{ .Date.Format "2 January 2006" }}
-          .blog style="margin-top: 2.5rem"
-            {{ .Content}}
-          p.blognote
-            | Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas, or suggestions, please <a href="/contact">contact me</a>.
+{{ partial "header" .}}
+.container
+  .headline style="width:100%"      
+    h1 {{ .Title}}
+  hr
+  .row
+    .col-md-8.main
+      {{ if isset .Params "top_content" }}
+        {{ .Params.top_content | safeHTML}}
+      {{else}}
+        .big_pic
+          / img.img-fluid src=/images/big_pics/{{.Params.cover}}
+          img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
+          .credit
+            {{partial "getCoverCredit.html" . }}
+      {{ end }}
+      .blogdate {{ .Date.Format "2 January 2006" }}
+      .blog style="margin-top: 2.5rem"
+        {{ .Content}}
+      p.blognote
+        / Thanks for reading! I'm always looking to raise my game and meet like-minded people so if you have questions, ideas, or suggestions, please <a href="/contact">contact me</a>.
+        | Thanks for reading! I'm currently looking for new contract challenges to begin in March 2019. If you've got something juicy, please check out my <a href="/cv">CV</a> and <a href="/contact">contact me</a>.
+        
 
-          br
-
-          / h1 {{ .URL}}
-          / NOT YET.... (24 March 2018)
-            #disqus_thread style="margin-bottom: 3rem"
-            = javascript
-              /**
-              *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-              *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-              /*
-              var disqus_config = function () {
-              this.page.url = "{{.URL}}";  // Replace PAGE_URL with your page's canonical URL variable
-              this.page.identifier = "{{.UniqueID}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-              };
-              */
-              (function() { // DON'T EDIT BELOW THIS LINE
-              var d = document, s = d.createElement('script');
-              s.src = 'https://publicreviewer.disqus.com/embed.js';
-              s.setAttribute('data-timestamp', +new Date());
-              (d.head || d.body).appendChild(s);
-              })();
+      / NOT YET.... (24 March 2018)
+        #disqus_thread style="margin-bottom: 3rem"
+        = javascript
+          /**
+          *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+          *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+          
+          var disqus_config = function () {
+          this.page.url = "{{.URL}}";  // Replace PAGE_URL with your page's canonical URL variable
+          this.page.identifier = "{{.UniqueID}}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+          };
+          
+          (function() { // DON'T EDIT BELOW THIS LINE
+          var d = document, s = d.createElement('script');
+          s.src = 'https://publicreviewer.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+          })();
 
 
-          {{ if isset .Params "more_pix"}}
-            {{ $folder := .Params.pix_folder}}
-            {{ range .Params.more_pix}}
-              img.img-responsive.big_pic src=/images/big_pics/{{$folder }}/{{.}}
-            {{ end }}
-          {{ end }}
-          {{if .PrevInSection}}
-            p
-              | Previous:&nbsp;
-              a href="{{.PrevInSection.Permalink}}" {{.PrevInSection.Title}}
-          {{end}}
-          ||
-          {{if .NextInSection}}
-            p
-              | Next:&nbsp;
-              a href="{{.NextInSection.Permalink}}" {{.NextInSection.Title}}
-          {{end}}
-        .col-md-4.sidebar
-          hr.hidden-lg.hidden-md
-          h2 About Peter Kappus
-          p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR</a> coach, business transformation consultant and digital tinkerer. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
-          a href="/cv" Find out more. 
-          |          
-          a href="/contact" Get in touch.
+      {{ if isset .Params "more_pix"}}
+        {{ $folder := .Params.pix_folder}}
+        {{ range .Params.more_pix}}
+          img.img-fluid.big_pic src=/images/big_pics/{{$folder }}/{{.}}
+        {{ end }}
+      {{ end }}
+    .col-md-4.sidebar
+      hr.d-lg-none.d-md-none
+      h2 About Peter Kappus
+      p Peter Kappus is an agile & <a href="/blog/running-an-okr-setting-workshop">OKR coach</a>, <a href="/cv">business transformation consultant</a>, and <a href="https://github.com/peterkappus">digital tinkerer</a>. He also writes <a href="/music">music</a> and makes <a href="/art">art</a>.
+      
+      p
+        a.btn.btn-primary href="/contact" Get in touch      
+      {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 3}}
+      {{ with $related }}  
+        .d-none.d-lg-block.d-md-block
           hr
           h2 Other posts
-          {{ $myScratch := newScratch }}
-          {{ $myScratch.Set "greeting" "hiya"}}
-          {{ $myScratch.Set "currentTitle" .Title }}
-          {{ $myScratch.Set "promotedTitle" "fish" }}       
-          {{ range (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) }}     
-            {{ $myScratch.Set "promotedTitle" .Title }} 
+          {{ range .}}
             p
               a href="{{ .Permalink }}" {{ .Title }}
           {{ end }}
-
-          {{if .PrevInSection }}
-            {{ if ne .PrevInSection.Title ($myScratch.Get "promotedTitle") }}
-              p
-                a href="{{ .PrevInSection.Permalink }}" {{ .PrevInSection.Title }}
-            {{ end }}
-          {{ end }}
-          ||
-          {{if .NextInSection}}
-            {{ if ne .NextInSection.Title ($myScratch.Get "promotedTitle") }}
-            p
-              a href="{{ .NextInSection.Permalink }}" {{ .NextInSection.Title }}
-            {{end}}
-          {{end}}
           a href="/blog" More &raquo;
-          h2 {{ $myScratch.Get "featuredTitle" }}
-          hr
-          h2 Follow me
-          p
-            a href="http://twitter.com/peterkappus" target="_blank" Twitter
-          p
-            a href="http://linkedin.com/in/peterkappus" target="_blank" LinkedIn
-          p
-            a href="http://soundcloud.com/peterkappus" target="_blank" SoundCloud
-          p
-            a href="http://instagram.com/abstraktor" target="_blank" Instagram
+      {{- end -}}            
+      hr
+      .sticky
+        h2 Please share
+        .share
+          a.fab.fa-twitter href="http://twitter.com/share?url=http:{{ .Permalink }}&amp;text={{ .Title }}&amp;via=peterkappus" class="twitter" aria-label="share on Twitter"
+          a.fab.fa-linkedin href="https://www.linkedin.com/shareArticle?mini=true&url=http://www.peterkappus.com{{ .RelPermalink }}&amp;title={{ .Title }}"
+          a.fab.fa-facebook href="http://www.facebook.com/sharer.php?u=http://www.peterkappus.com{{ .RelPermalink }}"
+          a.fas.fa-envelope href="mailto:?subject=Check%20out%20{{ .Title }}.&amp;body=Check out this post: {{ .Title }} (http:{{ .Permalink }})"
+         /
+          / Follow...
+          .share
+            a.fab.fa-twitter href="http://twitter.com/peterkappus"
+            a.fab.fa-linkedin href="http://linkedin.com/in/peterkappus"
+            a.fab.fa-instagram href="http://instagram.com/abstraktor"
+            a.fab.fa-soundcloud href="http://soundcloud.com/peterkappus"
+        hr
+        
+  = include partials/relatedContent.html .
 
-
-      {{ partial "footer" .}}
+  {{ partial "footer" .}}

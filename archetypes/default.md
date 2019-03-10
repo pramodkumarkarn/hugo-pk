@@ -1,8 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-categories:
-  - Blog  
+categories: blog  
 resources:
   - name: cover
     src: erda-estremera-581452-unsplash.jpg

@@ -1,12 +1,15 @@
 ---
-title: Spam Words
-date: 2013-11-28
 cover: spam-words/cover.jpg
-top_content: '<div class="embed-container" style="padding-bottom: 70%"><iframe src="https://player.vimeo.com/video/49510794" width="500" height="219" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>'
-xtop_content: <iframe src="http://www.peterkappus.com/spamwords" width="100%" height="500px" frameborder="0"
-    border="none" scrolling="no"></iframe>
+date: "2013-11-28"
 pix_folder: spam-words
+title: Spam Words
+top_content: '<div class="embed-container" style="padding-bottom: 70%"><iframe src="https://player.vimeo.com/video/49510794"
+  width="500" height="219" frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe></div>'
+xtop_content: <iframe src="http://www.peterkappus.com/spamwords" width="100%" height="500px"
+  frameborder="0" border="none" scrolling="no"></iframe>
 ---
+
 <small><i>2004-2016<br>Projector, computer, audio equipment
 Dimensions & duration variable</i></small>
 

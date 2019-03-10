@@ -1,0 +1,46 @@
+{{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | union (.Site.RegularPages.Related .) | shuffle | first 10}}
+{{ with $related }}  
+  .row
+    .col-md-12
+      h3.other_posts Other Posts
+      hr
+  .row.relatedContent
+    {{ range . }}
+      .col-md-4
+        a href="{{ .RelPermalink }}"
+          .img.b-lazy data-src="{{ trim (partial "getCover.html" .) "\n" }}"
+        a.title href="{{ .RelPermalink}}" {{ .Title}}
+    {{ end }}
+{{ end }}
+{{define "footerjs"}}
+  = javascript
+    //we create 10 and then delete all but 3... cheap way to randomise on refresh
+    (function($){
+   
+      $.fn.shuffle = function() {
+   
+          var allElems = this.get(),
+              getRandom = function(max) {
+                  return Math.floor(Math.random() * max);
+              },
+              shuffled = $.map(allElems, function(){
+                  var random = getRandom(allElems.length),
+                      randEl = $(allElems[random]).clone(true)[0];
+                  allElems.splice(random, 1);
+                  return randEl;
+             });
+   
+          this.each(function(i){
+              $(this).replaceWith($(shuffled[i]));
+          });
+   
+          return $(shuffled);
+   
+      };
+   
+      //now randomize and delete half of them...
+      while($(".relatedContent .col-md-4").length > 3) {
+        $(".relatedContent .col-md-4").shuffle().first().remove();      
+      }
+    })(jQuery);
+{{ end }}

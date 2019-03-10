@@ -13,19 +13,30 @@
 /* responsive video! */
 
 /* Custom styles for use in blog posts */
-  
+
+pre code
+  display: block
+  padding: 0.8rem
+  background: #eee
+  margin-bottom: 1rem
+  overflow: auto
+
 blockquote
   background: #fafafa
-  margin: 5rem 0
-  border: 1px solid #999
-  font-size: 2rem
-  padding: 3rem
+  border-top: 1px solid #999
+  border-bottom: 1px solid #999
+  padding: 2.5rem
+  margin: 2rem 0
+  //font-style: italic
   h3
     margin: 0
-  li
-    line-height: 3.2rem
-    margin-bottom: 1rem
-    
+
+.coaching
+  blockquote
+    li
+      font-size: 1.5rem
+      margin-bottom: 1rem
+
 figure
   margin-bottom: 5rem
   h4
@@ -39,38 +50,25 @@ figure
   color: #999
 
 /* e.g. inside a post */
-h1
-  font-size: 6.5rem
 .main
-  h2
-    margin-top: 4rem
-    margin-bottom: 2rem
+  margin-bottom: 2rem
   .blognote
     margin-top: 5rem
     background: #eee
     padding: 2rem
-    font-size: 1.8rem
   p
-    line-height: 28px
+    line-height: 1.8rem
     margin-bottom: 25px
-  .job
-    p
-      margin-bottom: 0.5rem
-    ul
-      li
-        line-height: 2.2rem
-        font-size: 1.6rem
-        /*margin-bottom: 8px*/
-      margin-bottom: 10px
+
 .sidebar
   h2
     margin-top: 0
 
 .home
+  h1
+    margin-top: -75px
   h2
-    margin-top: 1.4rem
-    &:last-of-type
-      margin-bottom: 4rem
+    font-size: 4rem
   h2.subheaded
     margin-top: 0
   h3
@@ -79,18 +77,17 @@ h1
     margin-bottom: 0
 
 .big_pic
-  margin-bottom: 5rem
   img
     width: 100%
   /*&:last-of-type
     margin-bottom: 0*/
-
-hr
-  border-bottom: 1.2rem solid #000
+.art .big_pic
   margin-bottom: 2rem
 
-.cv .col-sm-2
-  margin-bottom: 3rem
+hr, nav
+  border-bottom: 0.85rem solid #000
+  .active
+    background: #eee
 
 .flag
   div
@@ -101,31 +98,31 @@ hr
 
 .bigger
   margin-bottom: 3rem
+
+.home p.main
+  background: #eee
+  padding: 1rem
+  font-size: 2rem
+  //text-align: justify
+  //text-justify: inter-word
+
 .credit
+  font-size: 1rem
   margin-top: 0.5rem
-  font-size: 1.5rem
   color: #bbb
   float: right
+
 .single_page p
-  font-size: 2.5rem
-  margin-bottom: 2.5rem
+  font-size: 1.25rem
+  //margin-bottom: 2.5rem
 
 .cv
   .profile
     p.top
-      font-size: 2.3rem
-      line-height: 2.8rem
-    p
-      font-size: 1.8rem
-      line-height: 2.5rem
+      font-size: 1.5rem
+      line-height: 1.8rem
   h2,h4, h3
     margin-top: 0
-  h5
-    margin-bottom: 2rem
-  p
-    margin-bottom: 2rem
-    font-size: 1.5rem
-    line-height: 2rem
   .school
     margin-bottom: 2rem
     h5
@@ -133,11 +130,12 @@ hr
 
   .other
     color: #555
+    
   p.tools
     font-size: 1.8rem
 
 .contact-info
-  margin: 2.5rem 0
+  margin: 1.5rem 0 0 0
   text-align: right
 
 ul.skills
@@ -146,24 +144,30 @@ ul.skills
 
   li
     float: left
-    margin: 0 0 1rem 0
+    margin: 0 0 0.8rem 0
     list-style-type: none
-    font-size: 1.4rem
+    font-size: 1rem
     width: 33%
     display: block
 
-.job .small
-  padding-left: 0.5rem
-  display: inline-block
-
 .job
+  margin-bottom: 2rem
+  .small
+    padding-left: 0.5rem
+    display: inline-block
+  h5
+    font-size: 1rem
+    color: #999
+  ul li
+    margin-bottom: 0.2rem
+
   //padding-bottom: 2rem
-  margin-bottom: 20px
+
 
 .blogdate
-  font-size: 1.5rem
+  font-size: 1rem
   color: #999
-  margin: 10px 0 5px 0
+  margin: 3rem 0 0.2rem 0
   display: block
 
 .embed-3-4
@@ -213,25 +217,39 @@ ul.skills
   background-position: -30px -30px
   background-attachment: fixed
 
-.navbar
-  margin-bottom: 0 !important
-
 .thumb_grid
   a
     display: block
   a.title
     margin: 1rem 0 3rem 0
 
-.blog 
+.blog
   .thumb_grid a.title
   margin-top: 0
-  line-height: 3rem 
+  line-height: 3rem
   h3
-    line-height: 3rem
-  ul, ol
-    margin-bottom: 3rem 
+    line-height: 2.5rem
   img
     width: 100%
+  blockquote
+    ul, ol
+      margin-bottom: 0
+  ul, ol
+    margin-bottom: 2rem
+    li
+      line-height: 1.6rem
+      margin-bottom: 0.8rem
+      &:last-of-type
+        padding-bottom: 0
+        margin-bottom: 0
+.follow, .share
+  a.fab, a.fas, a.fab
+    padding-right: 1rem
+    font-size: 1.5rem
+    color: #555
+    text-decoration: none
+  a:hover
+    color: #bbb
 
 /*@font-face
   font-family: HelveticaLeagueSpartanBold
@@ -241,25 +259,13 @@ ul.skills
 h1, h2, h3, h4
   //font-family: /*LeagueSpartanBold,*/ helvetica
   font-weight: bold
-  
-h4.nav
-  font-size: 2.5rem
 
-h4
-  font-size: 1.8rem
-
-h4.capitalize
-  text-transform: capitalize
+h1
+  font-size: 4rem
 
 @media(min-width: 990px)
   .container
     width: 990px
-  .thumb_grid a.title
-    min-height: 5rem
-
-.navbar-brand
-  font-size: 4rem
-  font-weight: bold
 
 @media print
   .noprint
@@ -267,14 +273,20 @@ h4.capitalize
   .onlyprint
     display: visible
   a.noprint_url[href]:after
-    content: "" 
+    content: ""
   .coverletter  a[href]:after
-    content: ""  
+    content: ""
 
 .page-break
   page-break-after: always
 
 @media(max-width: 550px)
+  .main, .headline
+    h1
+      font-size: 3rem
+  .home
+    h2
+      font-size: 3rem
   ul.skills li
     width: 50% !important
     padding-right: 3rem
@@ -308,3 +320,39 @@ body
   /* borrowed from GOV.UK */
   font-size: 19px
   line-height: 1.31578947
+  //for fixed nav
+  margin-top: 80px
+
+a
+  color: #4282c7
+
+.navbar-brand
+  font-size: 1.5rem
+  font-weight: bold
+
+h3.other_posts
+.contact
+  .card
+    background: #333
+    padding: 2rem
+  .info
+    font-size: 1rem
+  .loc
+    display: inline-block
+    color: #009
+    margin-right: 0.5rem
+
+  form
+    input, textarea, button
+      margin-right: 2rem
+      width: 100%
+      display: block
+      margin-bottom: 1rem
+      padding: 0.5rem
+
+.sticky
+  position: -webkit-sticky
+  position: sticky
+  top: 85px
+  background-color: white
+  font-size: 20px

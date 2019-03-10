@@ -1,12 +1,13 @@
 ---
 author: p3trk
+categories:
+- Blog
+- Agile
+keywords: [featured]
 cover: Picture-3.jpg
 type: blog_wide
 date: 2018-03-20
 title: Metrics for agile teams supporting legacy applications
-categories:
-  - Blog
-  - Agile
 ---
 
 Recently I've been working with a team who are supporting (and developing against) a legacy service which affects the daily lives of millions of people. It’s old, and made up of many applications and a couple of huge monoliths with plenty of complexity everywhere. Most things about this service are difficult. It’s tough to develop, tough to test, tough to release, tough to fix bugs (which are plentiful) and tough to feel like you’re making a difference day to day.
