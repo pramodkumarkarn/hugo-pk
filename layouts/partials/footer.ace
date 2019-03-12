@@ -28,7 +28,7 @@ script src="{{$js.Permalink}}"
     //jQuery(".headline h1").fitText(1.25);
     
     jQuery(".big").fitText(0.85);
-    jQuery(".home h2").fitText(0.62);
+    // jQuery(".home h2").fitText(0.62);
     $('.bigger').flowtype({ minimum: 600, maximum: 1200});
     
     // Initialize

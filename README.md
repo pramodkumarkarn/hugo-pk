@@ -6,11 +6,11 @@ My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Boot
 ### Using Docker
 
 ```
-#first time...(or when a new version of hugo comes out)
+# Step 1 (build the container)
+# only required the first time or when a new version of hugo comes out
 docker build -t hugo-pk .
 
-#subsequent times (just paste the following lines into a terminal and it will run the "inside this container" pieces once the container starts)
-
+# Step 2 (start the container)
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0
 ```
 

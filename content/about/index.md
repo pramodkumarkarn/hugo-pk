@@ -10,19 +10,19 @@ resources:
 ---
 
 <div style="background: #eee; padding: 2rem 2rem 1.2rem 2rem; margin-bottom: 2rem; font-size: 2rem;">
-  <p style="line-height: 2.5rem"> For the past twenty years I've helped teams to get better at building digital products and having fun while they do it.</p>
+  <p style="line-height: 2.5rem"> For the past twenty years I've helped teams to get better at building digital products and have fun while they do it.</p>
 </div>
 
-I was born in **London** (UK) but grew up in St. Louis MO (USA), then Denver CO, then Boulder CO where I studied art, architecture, and computer science at [The University of Colorado](https://www.colorado.edu/), and then New York City (Brooklyn), then Seattle where I helped build a [digital agency](http://designcommission.com/). These days, I'm growing up in London (again).
+I was born in **London** (UK) but grew up in St. Louis MO (USA), finishing high school in Denver CO, later studying art, architecture, and computer science at [The University of Colorado](https://www.colorado.edu/). After graduating with honours I moved to Brooklyn New York for a few years, then Seattle where I helped build a [digital agency](http://designcommission.com/). In 2009, I returned to London where I've continued growing up.
 
-I love [art](http://www.abstraktor.com) (especially modern art), [music](/music) (especially electronic), writing code, and working with smart people to make cool things (like a trading platform, social media data-mining tools, or a [digital marketplace](https://www.digitalmarketplace.service.gov.uk/) for the UK government). Recently, I've been helping the TV & Radio crew at the BBC to manage its ambitious change portfolio.
+I help teams to get clear on what they're doing and why, and then helping them figure out how to get better at doing it and have more fun in the process. 
 
-To do this, I've used a lot of lean/agile practices, including things like systems thinking, [Objectives & Key Results](/okr), [Liberating Structures](http://www.liberatingstructures.com/), and [Nonviolent Communication](/nvc). I've built things using C++, HTML, JavaScript, Java, Ruby on Rails, Python, and even Perl back in the day. You're looking at [some of my code](/colophon) right now.
+I've helped teams in banking, government, media, bio-tech, and more to adopt tools like lean/agile practices, DevOps/SRE, systems thinking, [Objectives & Key Results](/okr), [Liberating Structures](http://www.liberatingstructures.com/), and [Nonviolent Communication](/nvc) to reach (and redefine) their peak. I've built things using C++, HTML, JavaScript, Java, Ruby on Rails, Python, and even Perl back in the day. In fact, you're looking at [some of my code](/colophon) right now.
 
-I love helping teams to get clear on what they're doing and why, and then helping them figure out how to get better at doing it. 
- 
-Want to learn more? Check out my [CV](/cv). 
+<center>
+<a href="/cv" class="btn btn-primary btn-lg">Check out my experience</a> 
+</center>
 
-I'd love to know what you're working on and have a coffee or go look at some art.
+I'd love to know what you're working on, see if I can help, and maybe meet up for some coffee and art.
 
-## [Get in touch!](/contact)
+## Sound good? [Get in touch!](/contact)
