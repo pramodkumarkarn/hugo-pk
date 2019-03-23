@@ -12,8 +12,6 @@ aliases: [/blog/okrs]
 
 It's OKR season again! If you're like me, your teams are probably in the middle of setting quarterly (or even annual) OKRs. Over the past year, I’ve helped dozens of teams at a large media organisation to adopt Objectives and Key Results (OKRs) and (as you'd expect) I've run a lot of OKR  workshops and trained a number of facilitators. Here are some of the techniques I use. Many thanks to [Christina Wodtke](http://eleganthack.com/) and her book [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028/). <!--TODO: help  [Nora Bereczkei](https://uk.linkedin.com/in/norabereczkei) to write a post about her summary.-->
 
-> ##### Need help with your next OKR setting workshop? Check out my [OKR consulting packages](/okr-consulting).
- 
 ## Ground rules
 One of the great strengths of OKRs is that they force teams to get really clear on what they want (and don’t want) to achieve and how they think they can achieve it. Setting the team's OKRs requires plenty of passionate debate until things are precise, robust, and well-understood. This is the time to iron out any confusion or ambiguity; not half-way through or at the end of the quarter when you're evaluating what you've delivered. <!--There should be very little "wiggle room" for interpretation once these have been committed been nailed down.-->
 
@@ -44,6 +42,13 @@ Once you've agreed the right metrics for your objectives, it's time to set some 
 
 Remember that Key Results should be a little scary. If the team has a metric to track "Unique synth models played this quarter" then the Key result might look like "Have played X different synth models this quarter". Setting X to 3 might not be very challenging. I could probably nail that with one trip to the music shop. Setting it to 100, however, might be unrealistic and demotivating. The challenge is to find a number that feels scary but which kickstarts our creative thinking for how we can meet the target. Maybe it's 10 or 20 or 50... Discuss each metric with the team until you've identified the right targets to make each one feel like an exciting and useful challenge. Remember that on day one, you should feel like you have about 50% confidence in achieving each Key Result.
 
+> 
+<center>
+##### Need help with your next OKR setting workshop? 
+#### Check out my [OKR consulting packages](/okr-consulting).
+</center>
+ 
+ 
 ## Disagree and commit
 One more thing... it's okay to disagree! It's okay to have a different viewpoint and enough backbone to express it. It is *NOT* okay to let that viewpoint prevent you (or the team) from committing to a clear course of action. Use the OKR workshop to explain your position as precisely, fully, and openly as you can. At the same time, commit to really hearing the viewpoints of others. Then get out of the way, make the best decision you can, and commit to it.
 
