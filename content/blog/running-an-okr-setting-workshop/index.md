@@ -12,6 +12,8 @@ aliases: [/blog/okrs]
 
 It's OKR season again! If you're like me, your teams are probably in the middle of setting quarterly (or even annual) OKRs. Over the past year, I’ve helped dozens of teams at a large media organisation to adopt Objectives and Key Results (OKRs) and (as you'd expect) I've run a lot of OKR  workshops and trained a number of facilitators. Here are some of the techniques I use. Many thanks to [Christina Wodtke](http://eleganthack.com/) and her book [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028/). <!--TODO: help  [Nora Bereczkei](https://uk.linkedin.com/in/norabereczkei) to write a post about her summary.-->
 
+> ##### Need help with your next OKR setting workshop? Check out my [OKR consulting packages](/okr-consulting).
+ 
 ## Ground rules
 One of the great strengths of OKRs is that they force teams to get really clear on what they want (and don’t want) to achieve and how they think they can achieve it. Setting the team's OKRs requires plenty of passionate debate until things are precise, robust, and well-understood. This is the time to iron out any confusion or ambiguity; not half-way through or at the end of the quarter when you're evaluating what you've delivered. <!--There should be very little "wiggle room" for interpretation once these have been committed been nailed down.-->
 
@@ -26,7 +28,7 @@ Set aside about 4 hours to run the session. If you really focus, you can do it i
 It can be helpful to check in and create a bit of space at the start of the session. I usually do this by asking everyone to take a few deep breaths on their own. This can really help to centre the group.
 
 ### Pick the objective(s)
-To begin, put each objective on a sticky note on the wall. Do some affinity mapping: put similar objectives adjacent to each other and duplicates on top of each other. Debate, [dot-vote](https://en.wikipedia.org/wiki/Dot-voting), and debate some more until you determine your top objective (or two or three if you must :grimacing:).
+To begin, put each objective on a sticky note on the wall. Do some affinity mapping: put similar objectives adjacent to each other and duplicates on top of each other. Debate, [dot-vote](https://en.wikipedia.org/wiki/Dot-voting), and debate some more until you determine your top objective (or two if you must :grimacing:).
 
 ### Pick some metrics
 Now that you have a single, inspiring, important, scary objective (or maybe two), it’s time to figure out what metrics will show that you’re getting closer to achieving this thing. Spend 5-10 minutes free listing as many metrics as you can think of but using place holders for specific targets.

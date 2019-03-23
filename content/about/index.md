@@ -22,7 +22,8 @@ _I love helping teams to do the following:_
 3. Get better at doing what they're doing
 4. Enjoy the journey!
 
-<a href="/coaching" class="btn btn-primary btn-lg">More about coaching</a> 
+<!--a href="/coaching" class="btn btn-primary btn-lg">More about coaching</a-->
+<a href="/okr-consulting" class="btn btn-primary btn-lg">More about OKR Consulting</a>
 
 
 I've helped teams in banking, government, media, bio-tech, and more to adopt tools like lean/agile practices, DevOps/SRE, systems thinking, [Objectives & Key Results](/okr-consulting), [Liberating Structures](http://www.liberatingstructures.com/), and [Nonviolent Communication](/nvc) to reach (and redefine) their peak. I've built things using C++, HTML, JavaScript, Java, Ruby on Rails, Python, and even Perl back in the day. In fact, you're looking at [some of my code](/colophon) right now.

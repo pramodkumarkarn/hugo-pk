@@ -4,6 +4,7 @@ date: 2018-10-06T13:59:19Z
 updated: 2018-10-19
 categories: blog  
 draft: false
+featured: true
 resources:
   - name: cover
     src: rawpixel-191102-unsplash.jpg

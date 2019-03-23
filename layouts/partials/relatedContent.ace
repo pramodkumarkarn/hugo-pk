@@ -42,5 +42,8 @@
       while($(".relatedContent .col-md-4").length > 3) {
         $(".relatedContent .col-md-4").shuffle().first().remove();      
       }
+      while($(".otherPosts .row").length > 3) {
+        $(".otherPosts .row").shuffle().first().remove();      
+      }
     })(jQuery);
 {{ end }}
