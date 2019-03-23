@@ -1,0 +1,12 @@
+{{ $original := ""}}
+{{ if (isset .Params "cover") }}
+{{ $original = print "/images/big_pics/" .Params.cover }}
+{{ else }}
+{{ $original = .Resources.GetMatch (printf "%s*" ("cover")) }}
+{{ end }}
+
+{{if $original }}
+{{ .Scratch.Set "image" ($original.Fill "175x100") }}
+{{ $image := .Scratch.Get "image" }}
+{{ $image.RelPermalink }}
+{{ end }}

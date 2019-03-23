@@ -5,7 +5,9 @@ categories:
 - Agile
 - Blog
 keywords: [featured]
-cover: blog/coin.jpg
+resources:
+- name: cover
+  src: coin.jpg
 date: "2017-05-09T15:13:44+01:00"
 title: Budgeting for agile teams
 url: /blog/budgeting-for-agile-teams

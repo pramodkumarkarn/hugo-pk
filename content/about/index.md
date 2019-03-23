@@ -15,7 +15,12 @@ resources:
 
 I was born in **London** (UK) but grew up in St. Louis MO (USA), finishing high school in Denver CO, later studying art, architecture, and computer science at [The University of Colorado](https://www.colorado.edu/). After graduating with honours I moved to Brooklyn New York for a few years, then Seattle where I helped build a [digital agency](http://designcommission.com/). In 2009, I returned to London where I've continued growing up.
 
-I help teams to get clear on what they're doing and why, and then helping them figure out how to get better at doing it and have more fun in the process. 
+I love helping teams to do the following:
+
+1. Get clear on what they're doing 
+2. Get clear on why they're doing it
+3. Get better at doing what they're doing
+4. And enjoy the journey
 
 I've helped teams in banking, government, media, bio-tech, and more to adopt tools like lean/agile practices, DevOps/SRE, systems thinking, [Objectives & Key Results](/okr), [Liberating Structures](http://www.liberatingstructures.com/), and [Nonviolent Communication](/nvc) to reach (and redefine) their peak. I've built things using C++, HTML, JavaScript, Java, Ruby on Rails, Python, and even Perl back in the day. In fact, you're looking at [some of my code](/colophon) right now.
 

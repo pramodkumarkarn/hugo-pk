@@ -33,9 +33,9 @@
       .col-sm-12
         hr
     .row
-      .col-sm-2
+      .col-sm-3
         h3 Profile
-      .col-sm-10.profile
+      .col-sm-9.profile
         // /Transformation
         p.top A versatile, innovative, transformation coach and programme/portfolio delivery lead with a natural servant leader approach, I bring strong technical and data skills, a passion for creative problem-solving, and 20+ years of experience spanning media, financial services, government, and more.
 
@@ -64,9 +64,9 @@
       .col-sm-12
         hr
     .row
-      .col-sm-2
+      .col-sm-3
         h3 Skills
-      .col-sm-10
+      .col-sm-9
         ul.skills
           / Gov Big-data Gig
             li Lean/Agile Delivery
@@ -221,9 +221,9 @@
       .col-sm-12
         hr
     .row
-      .col-sm-2
+      .col-sm-3
         h3 Technical Skills
-      .col-sm-10
+      .col-sm-9
         ul.skills
           li Linux DevOps
           li HTML/CSS/JavaScript
@@ -243,9 +243,9 @@
         hr
     / .page-break
     .row
-      .col-sm-2
+      .col-sm-3
         h3 Experience
-      .col-sm-10
+      .col-sm-9
         .job
           h3 Agile & OKR Coach / Delivery Manager
           / i.small (Contract)
@@ -470,9 +470,9 @@
         hr
         / p style="page-break-before: always"
     .row
-      .col-sm-2
+      .col-sm-3
         h3 Education
-      .col-sm-10
+      .col-sm-9
         .school
           h4 University of Colorado at Boulder, USA
           h5 Bachelor of Arts in Environmental Design (Architecture) &mdash; <strong>3.75 GPA</strong>
@@ -486,9 +486,9 @@
       .col-sm-12
         hr
     .row
-      .col-sm-2
+      .col-sm-3
         h3 Miscellany
-      .col-sm-10
+      .col-sm-9
         p Dual-national (US &amp; UK). Musician, composer, abstract artist, and conversational French-speaker. Self-appointed world diplomat. Able to leap tall buildings in a single bound.
         p Learn more at <a class="noprint_url" href="http://www.peterkappus.com">http://www.peterkappus.com</a>
   {{ if $looking }} 

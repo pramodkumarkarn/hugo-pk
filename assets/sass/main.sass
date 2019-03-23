@@ -37,6 +37,15 @@ blockquote
       font-size: 1.5rem
       margin-bottom: 1rem
 
+.btn
+  transition: all .2s ease-in-out
+ 
+.btn:hover
+  transform: scale(1.05)
+  background-color: #05f
+
+
+  
 figure
   margin-bottom: 5rem
   h4
@@ -226,6 +235,32 @@ ul.skills
   a.title
     margin: 1rem 0 3rem 0
 
+.vertical-center
+  margin: 0
+  position: absolute
+  top: 50%
+  width: 100%
+  -ms-transform: translateY(-50%)
+  transform: translateY(-50%)
+  
+  
+/* OKRs page */
+.okrs
+  .headline 
+    position: relative
+    width: 100%
+    min-height: 4rem
+    height: 35vh
+    background: #09a
+    color: #fff
+    h1
+      text-align: center
+  p.leader
+    font-size: 2rem
+    font-weight: normal
+    line-height: 2.5rem
+  p, li
+    line-height: 1.8rem
 .blog
   .thumb_grid a.title
   margin-top: 0
@@ -266,9 +301,6 @@ h1, h2, h3, h4
 h1
   font-size: 4rem
 
-@media(min-width: 990px)
-  .container
-    width: 990px
 
 @media print
   .noprint
@@ -337,6 +369,12 @@ h3.other_posts
       display: block
       margin-bottom: 1rem
       padding: 0.5rem
+
+.about ol 
+  background: #eee
+  padding: 2rem 0 2rem 4rem
+  line-height: 4rem
+  font-size: 1.5rem
 
 .sticky
   position: -webkit-sticky

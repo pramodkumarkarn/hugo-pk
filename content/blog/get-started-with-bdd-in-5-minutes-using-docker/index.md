@@ -1,5 +1,5 @@
 ---
-title: Get started with BDD and Test Automation in 5 minutes using Docker and Selenium
+title: Get started with BDD using Docker and Selenium
 date: 2018-09-10
 categories: 
   - Blog

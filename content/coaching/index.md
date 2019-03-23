@@ -25,7 +25,7 @@ Coaching packages can be custom tailored to your needs and may be done remotely 
 
 >
  * Apply lean/agile practices to deliver value faster and continuously improve
- * Apply the **[OKR](/okr)** method to supercharge your goals
+ * Apply the **[OKR](/okrs)** method to supercharge your goals
  * Learn to use [**Nonviolent Communication**](/nvc) to strengthen relationships and help teams work better together
  * Evolve your **DevOps** culture and learn about infrastructure as code
  * Move your infrastructure to The Cloud

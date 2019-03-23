@@ -1,25 +1,25 @@
 # hugo-pk
 My new(ish), personal, static website built with Hugo, SASS, ACE Templates, Bootstrap, and a bunch of other stuff.
 
+## Setup
+1) Sym link the homepage headshot to the one in the Contact folder (to save some space... not sure this is reallly necessary) `ln -s content/contact/head3.jpg content/head3.jpg`
+2) Build docker container: `docker build -t hugo-pk .` (also required when you want to upgrade [hugo](http://gohugo.io)) 
+
 ## Development
 
 ### Using Docker
 
 ```
-# Step 1 (build the container)
-# only required the first time or when a new version of hugo comes out
-docker build -t hugo-pk .
-
-# Step 2 (start the container)
+# After building the docker container (above), start it up:
 docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server --disableFastRender --navigateToChanged --bind=0.0.0.0
 ```
 
-Now visit: http://localhost:1313
+Visit: http://localhost:1313
 
 
 #### Need a newer version of Hugo?
 Delete the old image `docker rmi hugo-pk`
-Then run the commands above to rebuild with the new version.
+Then rebuild via `docker build -t hugo-pk`
 
 ### Deployment
 ```
@@ -36,6 +36,7 @@ docker run -v "$(pwd)"/public:/data --env AWS_ACCESS_KEY_ID=$AWS_ID --env AWS_SE
 ```
 
 #### Deploying without Docker
+You can install `s3cmd` locally and run the following:
 ```
 hugo
 s3cmd sync  -r --delete-removed -P --exclude=.git* public/ s3://www.peterkappus.com
@@ -56,16 +57,16 @@ Copy the URL they give you and put this in the "link" attribute in the front mat
 ### Tips
 
 Want to browse from your mobile device? Assuming your local IP (found via `ifconfig`) is 192.168.0.10 you could start the server as follows
-`docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server -D --bind 192.168.0.10 --baseURL http://192.168.0.10`
+`docker run --rm -it -v "$PWD":/src -p 1313:1313 hugo-pk server -D --bind 192.168.0.10 --baseURL http://192.168.0.10` and navigate to http://192.168.0.10 from your phone.
 
 
 ## Contact form
-Using [Formspree](https://formspree.io/).
+Uses [Formspree](https://formspree.io/).
 
 ## Domains
-A quick note on domains. The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
+The `peterkappus.com` and `kapp.us` domains are both registered on GoDaddy but using Route 53 nameservers (AWS).
 
-The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance fed by an S3 Bucket. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
+The `kapp.us` domain uses GoDaddy's "Domain forwarding" feature to forward requests to `www.peterkappus.com`. `www.peterkappus.com` is hosted from an Amazon Cloudfront instance using an S3 Bucket as the origin. A few times now, I've had to log into GoDaddy and "re-enable" the domain forwarding to make `kapp.us` forward properly. What a PITA.
 
 
 ## Other stuff...

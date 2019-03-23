@@ -8,13 +8,13 @@
     .col-md-6
       .intro
         {{ .Content }}
-        h2
-          a href="/about" About
         /
           h2
-            a href="/coaching" Coaching
+            a href="/about" About
         h2
-          a href="/cv" Consulting
+          a href="/okr-coaching" OKR Consulting
+        h2
+          a href="/cv" Experience
         h2
           a href="/blog" Blog
         h2
