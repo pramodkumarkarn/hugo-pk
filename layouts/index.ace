@@ -4,7 +4,8 @@
   hr
   .row
     .col-md-6
-      img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
+      a href="/about"
+        img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
     .col-md-6
       .intro
         {{ .Content }}

@@ -6,6 +6,7 @@ author: p3trk
 categories:
 - Blog
 - NVC
+tags: nvc
 keywords: [featured]
 date: "2018-05-12"
 draft: false

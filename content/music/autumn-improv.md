@@ -1,6 +1,7 @@
 ---
 categories:
 - Music
+tags: piano
 cover: autumn.jpg
 date: "2011-10-29"
 title: Autumn Improv
