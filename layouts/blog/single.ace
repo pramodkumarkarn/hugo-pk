@@ -77,7 +77,7 @@
           a.fab.fa-soundcloud href="http://soundcloud.com/peterkappus"
       hr
       .sticky
-        {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 5}}
+        {{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | shuffle | first 6}}
         {{ with $related }}  
         .d-none.d-lg-block.d-md-block.otherPosts
           h2 Other posts
