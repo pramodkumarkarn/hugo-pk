@@ -2,6 +2,7 @@
 title: "Measure Confidence Not Progress"
 date: 2019-03-26T11:33:18Z
 draft: false
+featured: true
 categories: blog  
 resources:
   - name: cover

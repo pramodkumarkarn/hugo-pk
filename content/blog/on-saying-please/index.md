@@ -2,7 +2,7 @@
 categories:
 - Blog
 - NVC
-featured: true
+featured: false
 date: "2018-07-10"
 resources:
 - name: cover

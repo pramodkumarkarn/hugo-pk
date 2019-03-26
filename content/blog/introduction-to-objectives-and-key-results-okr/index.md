@@ -3,7 +3,7 @@ title: "An Introduction to Objectives and Key Results (OKR)"
 date: 2018-08-16T14:44:13-04:00
 draft: true
 keywords: featured okrs
-featured: true
+featured: false
 categories: blog  
 resources:
   - name: cover
