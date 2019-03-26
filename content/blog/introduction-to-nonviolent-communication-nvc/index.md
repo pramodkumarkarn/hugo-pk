@@ -50,7 +50,7 @@ NVC provides several benefits, letting us:
 * Take ownership our _feelings_ and _actions_
 * Stay conscious of _choice_ in every moment
 
-Professionally, Nonviolent Communication has the added benefit of making teams much more effective and more pleasant to work in. :smile:
+Professionally, Nonviolent Communication has the added benefit of making teams much more effective and more pleasant to work in. :smile: 
 
 {{<wide_pic steps Resize "800x">}}
 
@@ -75,9 +75,11 @@ Practice identifying when you're making a judgement and instead try to make a cl
 For example, instead of saying "you're always late" you might say "The past 3 times we've met, you've arrived more than 15 minutes after the agreed meeting time." This takes a lot of practice.
 
 ### Expressing feelings
-Many cultures discourage openly expressing emotions as part of regular communication between people. We are often taught that being "emotional" is a sign of weakness or that it makes communication more difficult.
+Many cultures discourage openly expressing emotions as part of regular communication between people. We are often taught that being "emotional" is a sign of weakness or that it makes communication more difficult. 
 
-As a result of such cultural training, most of us have a very limited vocabulary with which to express our feelings. It may be limited to "good", "bad", "happy", "angry", etc.
+As a result of typical cultural training, most of us have a very limited vocabulary with which to express our feelings. It may be limited to "good", "bad", "happy", "angry", etc.
+
+Our _reaction_ to feelings can make conversation difficult. When we rush to judge certain feelings as negative and shut them down, we close off conversation. But they can be valuable gateways to [much richer conversations](/blog/measure-confidence-not-progress).
 
 When we clearly articulate and label our emotions (and don't mix them with observations, evaluations, or strategies), they become an extremely powerful (even vital) tool for understanding how well our needs are being met and how to move forward. It can be enormously liberating to know that we've found a word to express our true feeling and that another has understood us.
 
