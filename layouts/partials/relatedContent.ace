@@ -2,7 +2,7 @@
 {{ with $related }}  
   .row
     .col-md-12
-      h3.other_posts Other Posts
+      h3.other_posts Featured Posts
       hr
   .row.relatedContent
     {{ range . }}

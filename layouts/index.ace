@@ -2,7 +2,7 @@
 .container.home
   h1.name Peter Kappus
   hr
-  .row
+  .row style="margin-bottom: 1rem"
     .col-md-6
       a href="/about"
         img.img-fluid src="{{ trim (partial "getCover.html" . ) "\n"  }}"
@@ -25,4 +25,7 @@
             a href="/music" Music
           h2
             a href="/art" Art
+  
+  = include partials/relatedContent.html .
+
   {{ partial "footer" .}}
