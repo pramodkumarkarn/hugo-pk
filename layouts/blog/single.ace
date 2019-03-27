@@ -86,7 +86,7 @@
             .col-sm-6
               a href="{{ .RelPermalink }}"
                 img src="{{ partial "thumbnail_cover" . }}" style="width: 100%"
-            .col-sm-6 style="padding-left: 1rem"
+            .col-sm-6 style="padding-left: 0.5rem"
               p
                 a href="{{ .Permalink }}" {{ .Title }}
           {{ end }}

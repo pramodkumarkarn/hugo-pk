@@ -32,14 +32,15 @@ Okay... great. [So what? Now what?](/blog/what-so-what-now-what)
 
 Even if progress is "good", it's a weak question with a weak answer. We ask for progress but what we _really_ want to know is:
 
--  Will this thing actually happen?
--  Do we need help? Should I offer _to_ help?
+- Will this thing actually happen?
+- What's holding us back? Do we need help? 
+- Is it time to escalate?
 - How effective have our tactics been so far?
-- What's holding us back?
+- As a stakeholder, should I offer to help?
 - Should I revisit my own strategy or other tactics?
 - Should I rethink my own delivery which is dependent on this thing?
 
-Measuring progress skips over the story of how we got here, what we're going to do about it and, critically how we _feel_ about how things are going so far.
+Measuring progress skips over the story of how we got here, what we're going to do about it and, critically, how we _feel_ about how things are going so far.
 
 ## Measuring Confidence
 [Feelings are important](/blog/nvc). They're a gateway to incredibly rich, nuanced, and informative conversations. 
