@@ -14,6 +14,8 @@ resources:
 ---
 <small>DRAFT - This post is still being drafted and probably needs more work. You can make comments [here](https://paper.dropbox.com/doc/A-guide-to-OKR-check-ins--AabPYQ6H9041XaAcFBVzKEo6Ag-PcNgGH7da8TkWiAAPj3ww) or [contact me](/contact). Thanks for your suggestions!</small>
 
+While [setting your Objectives & Key Results (OKRs)](/blog/running-an-okr-setting-workshop) can feel like a daunting task on its own, the real value of OKRs comes through regular check-ins. This is where you get to see how your day-to-day work is impacting your **Key Results** or, more accurately, _your confidence_ in delivering those key results.
+
 ## A quick overview (for the impatient)
 Want some basic steps to get you started? Look no further...
 
@@ -31,8 +33,6 @@ Want some basic steps to get you started? Look no further...
 Expect your first check-in to take about an hour and feel pretty awkward; the second should take around 30 minutes and feel more useful. Aim to get check-ins down to around 15 minutes.
 
 ## Check-ins are the most important part of OKRs
-While [setting your Objectives & Key Results (OKRs)](/blog/running-an-okr-setting-workshop) can feel like a daunting task on its own, the real value of OKRs comes through regular check-ins. This is where you get to see how your day-to-day work is impacting your **Key Results** or, more accurately, _your confidence_ in delivering those key results.
-
 OKR check-ins (like OKRs themselves) should be light-weight, informative, and actionable. Like daily stand-ups, good OKR check-ins should:
 
 - identify issues
@@ -61,12 +61,12 @@ I believe it's more useful to [report on confidence rather than progress](/blog/
 ## Vote with the "fist-to-five"
 I first read about the fist-to-five in the handy [Spotify retro kit](https://labs.spotify.com/2017/12/15/spotify-retro-kit/). It's a terrific, easy, way to get instant feedback from a group on almost any topic. 
 
-I start by reading aloud the **objectives**. Then for each **Key Result**, I ask "On a scale of zero to five, how confident are you that we'll deliver this key result?" I count down from three a la rock paper scissors and each team member holds up some number of fingers with a fist to show no confidence and an open palm to show 100% confidence. This is a gut reaction, not a precise scientific measurement. <!--Sometimes we incorporate partial fingers or get into a brief debate on [correct finger-counting etiquette](https://en.wikipedia.org/wiki/Finger-counting). :grin: So long as it doesn't slow us down, I encourage anything to make the vote more fun and informative!-->
+I start by reading aloud the **objectives**. Then for each **Key Result**, I ask "On a scale of zero to five, how confident are you that we'll deliver this key result?" I count down from three and then each team member holds up some number of fingers with a fist to show no confidence and an open palm to show 100% confidence. This is a gut reaction, not a precise scientific measurement. <!--Sometimes we incorporate partial fingers or get into a brief debate on [correct finger-counting etiquette](https://en.wikipedia.org/wiki/Finger-counting). :grin: So long as it doesn't slow us down, I encourage anything to make the vote more fun and informative!-->
 
-Once we've voted, I'll ask the person with _highest_ confidence for a bit of narrative: what happened since the last vote to make them feel this way? Then I'll ask the same from the _least confident_ person. A short discussion may follow. Based on this, we may vote again to see if consensus improves. Once we have consensus (or even if we don't), the current OKR Champion will pick a number the group can live with and write it down.
+Once we've voted, I'll ask the person with _highest_ confidence to explain their confidence rationale. Then I'll ask the same from the _least confident_ person. A short discussion may follow. Based on this, we may vote again to see if consensus improves. Once we have a rough consensus (or even if we don't), the current OKR Champion will pick a number that the group can live with and write it down.
 
 ## Pick some next actions
-Measuring confidence isn't particularly valuable on it's own. If we've picked difficult key results (which, of course, we have! :smile:) then sooner or later, our confidence will dip. This doesn't feel great, but it's a natural part of doing hard things.
+Measuring confidence isn't particularly valuable on its own. If we've picked difficult key results (which, of course, we have! :smile:) then sooner or later, our confidence will dip. This doesn't feel great, but it's a natural part of doing hard things.
 
 Whatever our confidence vote, it's critical to then ask the team what things we can do to improve our confidence in the next week. This is where the team's greatest value lies and the real power of OKRs. **No one is better positioned to decide what to do next.** Quickly brainstorm options and pick one or two which can be owned by a team member. **Write them down and do them this week.** 
 
