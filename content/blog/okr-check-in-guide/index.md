@@ -16,7 +16,9 @@ resources:
 
 While [setting your Objectives & Key Results (OKRs)](/blog/running-an-okr-setting-workshop) can feel like a daunting task on its own, the real value of OKRs comes through regular check-ins. This is where you get to see how your daily work impacts your **Key Results** or, more accurately, how it impacts _your confidence_ in delivering those key results.
 
-The OKR check-in process provides an opportunity to synch up, identify issues, define next actions, see how they affect your confidence, and repeat. A good OKR check-in is a microcosm of the whole OKR process.
+The OKR check-in provides an opportunity to synch up, identify issues, define next actions, see how they affect your confidence, and repeat. 
+
+A good OKR check-in is a microcosm of the whole OKR process.
 
 ## A quick overview (for the impatient)
 Want some basic steps to get you started? Look no further...
