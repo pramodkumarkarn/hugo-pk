@@ -1,5 +1,5 @@
 ---
-title: "Free OKR Tracking Templates"
+title: "Free OKR tracking templates"
 date: 2018-10-06T13:59:19Z
 updated: 2018-10-19
 categories: blog  
@@ -19,18 +19,20 @@ The start of a new quarter can mean only one thing... Time to review last quarte
 
 You deliver them, of course!
 
-## Confidence matters
-While it's nice to track progress towards your goals, [what really matters is how confident you are](/blog/measure-confidence-not-progress) that you'll achieve them and what you will do to improve that confidence. **Every week**, you should be checking in on each Key Result to see how confident you are in delivering it. I'll often do a quick "**Fist to Five**" with my teams for each Key Result. Each team member holds up 0-5 fingers as a way to state how confident they are that the Key Result will be delivered as it's written. A fist means "I have NO confidence that we will deliver this Key Result" and an open palm (5 fingers) means, I am 100% confident we will deliver this Key Result.
+## Checking in
+To get the real benefit of OKRs, it's essential to check in regularly and, while you may be tempted to talk about progress, I recommend that teams report (mostly) on [confidence over than progress](/blog/measure-confidence-not-progress). After you [read about OKR check-ins](/blog/okr-check-in-guide) you'll want some way to record, share, and learn from those confidence scores, narratives, and next actions. See below... 
+
+<!--While it's nice to track progress towards your goals, [what really matters is how confident you are](/blog/measure-confidence-not-progress) that you'll achieve them and what you will do to improve that confidence. **Every week**, you should be checking in on each Key Result to see how confident you are in delivering it. I'll often do a quick "**Fist to Five**" with my teams for each Key Result. Each team member holds up 0-5 fingers as a way to state how confident they are that the Key Result will be delivered as it's written. A fist means "I have NO confidence that we will deliver this Key Result" and an open palm (5 fingers) means, I am 100% confident we will deliver this Key Result.
 
 ## Upping your confidence
-After doing a quick vote, I'll check in with the highest and lowest votes to see why they feel the way they do, giving each person about 20 seconds to state their reasoning. Then we vote again until we have a good consensus. If confidence is any less than 5, I'll ask the group "What would it take to increase your confidence by one whole finger?" We discuss for a minute and then I ask "What actions (if any) will we commit to doing this week to make that happen?" Usually one or two key actions will come up for each Key Result. We write them down on our weekly scorecard and move on, promising to check in on these actions throughout the week during our Daily Stand-ups.
+After doing a quick vote, I'll check in with the highest and lowest votes to see why they feel the way they do, giving each person about 20 seconds to state their reasoning. Then we vote again until we have a good consensus. If confidence is any less than 5, I'll ask the group "What would it take to increase your confidence by one whole finger?" We discuss for a minute and then I ask "What actions (if any) will we commit to doing this week to make that happen?" Usually one or two key actions will come up for each Key Result. We write them down on our weekly scorecard and move on, promising to check in on these actions throughout the week during our Daily Stand-ups.-->
 
 ## Free OKR tracking templates!
-To capture these confidence scores and make them easier to visualise, I've created two simple spreadsheet templates you can use. They work great in a tool like Google Sheets where anyone can view and modify them at any time and you always have a single source of truth but can also be used as traditional file-based spreadsheets. To make them even better, print out the dashboard views and put them on the wall as an information radiator for everyone to see.
+To do this, I've created two simple spreadsheet templates you can use. They work great in a tool like Google Sheets where anyone can view and modify them at any time and you always have a single source of truth but can also be used as traditional file-based spreadsheets. To make them even better, publish the dashboard views as a web page and share the URL every week or print them out, put them on the wall as an information radiator for everyone to see.
 
 
 ### A portfolio OKR tracker for data nerds
-My favourite, this [single or multi-team portfolio OKR tracking template](https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960) provides an easy way to store multiple teams' OKRs and weekly confidence scores (as well as a weekly narrative) in a single sheet and with a nice "dashboard view" to show the latest information and highlight at-risk key results. You can also store lessons learned and final outcomes in this sheet. It scales beautifully when you want to add more teams or more quarters. You can apply filters to quickly dig into the data and the sparkline graphs show how your confidence changes over time. Use this when you want a single view of OKRs for an entire portfolio to quickly identify Key Results that need help.
+My personal favourite, this [single or multi-team portfolio OKR tracking template](https://docs.google.com/spreadsheets/d/1i0Flbz6I5ChDqbmssberSDjONRrRWLhN0Ug1R-QCuHw/edit#gid=1099806960) provides an easy way to store multiple teams' OKRs and weekly confidence scores (as well as a weekly narrative) in a single sheet and with a nice "dashboard view" to show the latest information and highlight at-risk key results. You can also store lessons learned and final outcomes in this sheet. It scales beautifully when you want to add more teams or more quarters. You can apply filters to quickly dig into the data and the spark line graphs show how your confidence changes over time. Use this when you want a single view of OKRs for an entire portfolio to quickly identify Key Results that need help.
  
 With a bit of elbow grease, you could even create a Google Form to make inputting weekly updates even faster.
 

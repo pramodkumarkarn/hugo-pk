@@ -1,5 +1,5 @@
 ---
-title: "Measure Confidence Not Progress"
+title: "Measure confidence not progress"
 date: 2019-03-26T11:33:18Z
 draft: false
 featured: true
@@ -45,7 +45,7 @@ Measuring progress skips over the story of how we got here, what we're going to 
 ## Measuring Confidence
 [Feelings are important](/blog/nvc). They're a gateway to incredibly rich, nuanced, and informative conversations. 
 
-When I [measure progress on OKRs](/blog/okr-templates), I always look at individual **confidence** first, on a scale of 0 to 5. Then we look at events which are driving this confidence. A change in "progress" is often a driver of changes in confidence, but if you start with progress you'll miss a lot. 
+When I [check in on OKRs](/blog/okr-check-in-guide) with a team, I always look at individual **confidence** first, on a scale of 0 to 5. Then we look at events which are driving this confidence. A change in "progress" is often a driver of changes in confidence, but if you start with progress you'll miss a lot. 
 
 Different people respond to events in radically different ways. This is terrific. It's why we work in teams and why diversity is so critical. But we have to ask [how people interpret things, and why?](/blog/what-so-what-now-what). Why do you feel so confident? What happened that's making you feel less confident? What beliefs do you have? What assumptions are you making? 
 

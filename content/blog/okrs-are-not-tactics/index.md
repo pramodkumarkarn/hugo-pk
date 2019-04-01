@@ -1,5 +1,5 @@
 ---
-title: "OKRs Are Not Tactics"
+title: "OKRs are not tactics"
 date: 2019-01-10T15:53:44Z
 categories: blog  
 featured: true

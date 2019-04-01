@@ -40,7 +40,7 @@ url: /blog/introduction-to-nonviolent-communication-nvc
 ## What is Nonviolent Communication?
 [Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg), the founder of NVC, <a href="https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=51" target="_blank">didn't like the name</a> "Nonviolent Communication" for the same reason [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) didn't like the term "nonviolent": it describes what something _isn't_ instead of what it _is_. Nevertheless, the name has stuck. NVC has one very simple purpose:
 
-> ### Nonviolent Communication connects us to the feelings and needs within ourselves and others.
+> Nonviolent Communication connects us to the feelings and needs within ourselves and others.
 
 ## Why is it great?
 NVC provides several benefits, letting us:
@@ -60,7 +60,7 @@ Nonviolent Communication helps us to be explicit and transparent about our **obs
 
 When someone does something we don't like, a typical NVC approach to resolving this situation could look like this:
 
->1. Make a clear **observation** of what happened, carefully avoiding any judgement, criticism, or blame
+1. Make a clear **observation** of what happened, carefully avoiding any judgement, criticism, or blame
 2. State **how you feel** in this moment
 3. Articulate what **need** of yours is not being met
 4. Make a clear **request** to help meet that need
