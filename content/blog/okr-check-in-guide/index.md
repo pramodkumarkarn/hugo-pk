@@ -2,13 +2,14 @@
 title: "A guide to OKR check-ins"
 date: 2019-03-31T17:16:06Z
 categories: blog  
-aliases: [/blog/okr-check-ins]
+featured: true
+aliases: [/blog/okr-check-ins, /blog/okr-check-in-guide]
 resources:
   - name: cover
-    src: erda-estremera-581452-unsplash.jpg
+    src: s-s-450309-unsplash.jpg
     params:
-      credit: Photo by Erda Estremera on Unsplash
-      link: https://unsplash.com/photos/sxNt9g77PE0
+      credit: Photo by S S on Unsplash
+      link: https://unsplash.com/photos/nNM9dALmmOQ
 
 ---
 ## A quick guide for the impatient
