@@ -4,7 +4,7 @@ date: 2018-09-10
 categories: 
   - Blog
   - Tech
-featured: true
+featured: false
 draft: false
 resources:
   - name: other
