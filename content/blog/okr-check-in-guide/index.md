@@ -14,7 +14,7 @@ resources:
 ---
 <small style="color: #888">DRAFT - This post is still being refined. You can make comments [here](https://paper.dropbox.com/doc/A-guide-to-OKR-check-ins--AabPYQ6H9041XaAcFBVzKEo6Ag-PcNgGH7da8TkWiAAPj3ww) or [contact me](/contact). Thanks for your suggestions!</small>
 
-While [setting your Objectives & Key Results (OKRs)](/blog/running-an-okr-setting-workshop) can feel like a daunting task on its own, the real value of OKRs comes through regular check-ins. This is where you get to see how your daily work impacts your **Key Results** or, more accurately, how it impacts _your confidence_ in delivering those key results.
+While [setting your Objectives & Key Results (OKRs)](/blog/running-an-okr-setting-workshop) can feel like a daunting task on its own, the real value of OKRs comes through regular check-ins. This is where you get to see how your daily work impacts your **Key Results** or, more accurately, how it impacts your _confidence_ in delivering those key results.
 
 The OKR check-in provides an opportunity to synch up, identify issues, define next actions, see how they affect your confidence, and repeat. 
 
@@ -85,6 +85,7 @@ The best part about picking these actions comes the following week (after they'v
 
 ## The struggle is real. Share it!
 Do this for each key result and each objective. Capture confidence, narrative, and next actions in a [spreadsheet or tool](/blog/free-okr-tracking-templates). Share the results with everyone you can: other teams, senior stakeholders, anyone who would otherwise read a weekly status report. <!--I've used Google sheets before and published the results as a (non-spiderable :spider:) web page which can be shared with a wider audience (stakeholders and other teams). --> Sharing this info is critical because it shows everyone:
+
 - what's working
 - where we're still struggling and need help
 - what we want to do next
