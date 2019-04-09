@@ -25,10 +25,11 @@ Coaching packages can be custom tailored to your needs and may be done remotely 
 
 >
  * Apply lean/agile practices to deliver value faster and continuously improve
+ * Use [Liberating Structures](http://www.liberatingstructures.com/) to unlock the potential in your teams
  * Apply the **[OKR](/okr-consulting)** method to supercharge your goals
  * Learn to use [**Nonviolent Communication**](/nvc) to strengthen relationships and help teams work better together
  * Evolve your **DevOps** culture and learn about infrastructure as code
- * Move your infrastructure to The Cloud
+ * Cloud infrastructure migration
  * Learn Github and Continuous Integration with Jenkins
  * Learn [**BDD** and **test automation**](/blog/get-started-with-bdd-and-test-automation-in-5-minutes-using-docker-and-selenium/)
  * Learn the basics of **Linux system administration**

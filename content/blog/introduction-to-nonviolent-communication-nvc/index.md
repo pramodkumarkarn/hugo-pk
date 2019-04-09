@@ -35,10 +35,10 @@ title: An Introduction to Nonviolent Communication (NVC)
 url: /blog/introduction-to-nonviolent-communication-nvc
 ---
 
-**Nonviolent Communication** or NVC is a vast and nuanced area of study but the basic concepts can be grasped and applied almost immediately. I recently gave a training course to a few colleagues and promised to post a brief introduction.
+[**Nonviolent Communication**](https://en.wikipedia.org/wiki/Nonviolent_Communication) or NVC is a vast and nuanced area of study but the basic concepts can be grasped and applied almost immediately. This is my own take of the core concepts and how to get started. [Let me know](/contact) what you think!
 
 ## What is Nonviolent Communication?
-[Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg), the founder of NVC, <a href="https://www.youtube.com/watch?v=O4tUVqsjQ2I&t=51" target="_blank">didn't like the name</a> "Nonviolent Communication" for the same reason [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) didn't like the term "nonviolent": it describes what something _isn't_ instead of what it _is_. Nevertheless, the name has stuck. NVC has one very simple purpose:
+[Marshall Rosenberg](https://en.wikipedia.org/wiki/Marshall_Rosenberg), the founder of NVC, didn't like the name "Nonviolent Communication" for the same reason [Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) didn't like the term "nonviolent": it describes what something _isn't_ instead of what it _is_. Nevertheless, the name has stuck. NVC has one very simple purpose:
 
 > Nonviolent Communication connects us to the feelings and needs within ourselves and others.
 
@@ -56,7 +56,7 @@ Professionally, Nonviolent Communication has the added benefit of making teams m
 
 
 ## How does it work?
-Nonviolent Communication helps us to be explicit and transparent about our **observations, feelings, needs, and strategies** (for meeting those needs). We all share the [same basic needs](http://www.nonviolentcommunication.com/aboutnvc/feelings_needs.htm) (which are never in conflict) but we use strategies for meeting those needs which are sometimes in conflict. 
+Nonviolent Communication helps us to be explicit and transparent about our **observations, feelings, needs, and strategies** (for meeting those needs). We all share the [same basic needs](http://www.nonviolentcommunication.com/aboutnvc/feelings_needs.htm) (which are never in conflict) but we use different strategies for meeting those needs which are sometimes in conflict. 
 
 When someone does something we don't like, a typical NVC approach to resolving this situation could look like this:
 
@@ -75,20 +75,18 @@ Practice identifying when you're making a judgement and instead try to make a cl
 For example, instead of saying "you're always late" you might say "The past 3 times we've met, you've arrived more than 15 minutes after the agreed meeting time." This takes a lot of practice.
 
 ### Expressing feelings
-Many cultures discourage openly expressing emotions as part of regular communication between people. We are often taught that being "emotional" is a sign of weakness or that it makes communication more difficult. 
+Many cultures discourage openly expressing emotions as part of regular communication between people. We are often taught that being "emotional" is a sign of weakness or that it makes communication more difficult. In truth,  honestly expressing emotion (without judgement) is a gateway to [rich and nuanced conversations](/blog/measure-confidence-not-progress) that improve understanding.
 
-As a result of typical cultural training, most of us have a very limited vocabulary with which to express our feelings. It may be limited to "good", "bad", "happy", "angry", etc.
-
-Our _reaction_ to feelings can make conversation difficult. When we rush to judge certain feelings as negative and shut them down, we close off conversation. But they can be valuable gateways to [much richer conversations](/blog/measure-confidence-not-progress).
+As a result of our typical cultural training, most of us have a very limited vocabulary with which to express our feelings. It may be limited to "good", "bad", "happy", "angry", etc.
 
 When we clearly articulate and label our emotions (and don't mix them with observations, evaluations, or strategies), they become an extremely powerful (even vital) tool for understanding how well our needs are being met and how to move forward. It can be enormously liberating to know that we've found a word to express our true feeling and that another has understood us.
 
 It's a useful exercise to write down some more nuanced words for expressing your emotions and practice using them on a regular basis. This way, they'll be available when you need them instead of making you feel like you can't express yourself (or be understood).
 
-Check out this [list of feelings](https://www.cnvc.org/sites/default/files/feelings_inventory_0.pdf) from the Centre for Nonviolent Communication.
+Check out this [list of feelings](https://www.cnvc.org/sites/default/files/feelings_inventory_0.pdf) from the [Centre for Nonviolent Communication](https://www.cnvc.org).
 
 #### Judgements disguised as feelings
-It's also essential that we express actual feelings and not judgements or evaluations. This can be very tricky. Statements beginning with "I feel" and an object, such as "I feel that..." or "I feel they...", are often evaluations disguised as feelings (e.g. "I feel that you're being unfair") rather than a true feeling: "I feel angry because this situation isn't meeting my need for equality".
+When expressing our emotions, it's essential that we express actual feelings and not judgements or evaluations. This can be very tricky. Statements beginning with "I feel" and an object, such as "I feel that..." or "I feel they...", are often evaluations disguised as feelings (e.g. "I feel that you're being unfair") rather than a true feeling: "I feel angry because this situation isn't meeting my need for equality".
 
 ### Expressing needs
 As with feelings, we are often culturally conditioned to ignore or downplay our needs, leaving us without the critical vocabulary needed to describe them. Marshall Rosenberg believes that all human needs derive from a few basic needs:
@@ -114,7 +112,7 @@ If we don't make our requests clear and achievable, people won't be able to do w
 Furthermore, it's essential that our requests are never heard as _demands_. You might ask an angry child the following: "Would you be willing to speak with an adult when you're feeling angry?" rather than saying "Don't hit me." or worse, "If you keep hitting me, I won't spend time with you." Notice, this last example included a threat. I'll talk more about the tragic futility of threats and punishment in a future post.
 
 ## Ways of speaking and listening
-In the workshop, I also shared how different ways of speaking and listening can either degrade or enhance communication between people. It's critical that we remain conscious and choose a way that enhances communication, especially when emotions run high. A fun and useful "tool" for exploring this is the concept of _Jackal and Giraffe Language_.
+Different ways of speaking and listening can either degrade or enhance communication between people. It's critical that we remain conscious and choose a way that enhances communication, especially when emotions run high. A fun and useful "tool" for exploring this is the concept of _Jackal and Giraffe Language_ which Marshall Rosenberg to help us identify patterns in our speech.
 
 {{<wide_pic jackal Resize "800x">}}
 
@@ -150,7 +148,7 @@ According to Marshall Rosenberg, "with this technology it will be impossible for
 > ### Everyone is only ever [saying “Please”]({{< ref "/blog/on-saying-please" >}}) or “Thank you”. We just need to be able to hear them. :ear::wink:
 
 ## Going deeper
-This is a tiny taste of what NVC has to offer but should provide you with some background and a few tools to try out. If you'd like to go deeper, I recommend reading the book :books: ["Nonviolent Communication, A Language of Life"](https://www.amazon.co.uk/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034) by Marshall Rosenberg or listening to this :cd: [9-hour audio programme](https://www.youtube.com/watch?v=O4tUVqsjQ2I) given by Marhsall, himself. I really enjoy being able to hear his voice and relaxed, clear way of speaking.
+This is a tiny taste of what NVC has to offer but should provide you with some background and a few tools to try out. If you'd like to go deeper, I recommend reading the book :books: ["Nonviolent Communication, A Language of Life"](https://www.amazon.co.uk/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034) by Marshall Rosenberg<!-- or listening to this :cd: [9-hour audio programme](https://www.youtube.com/watch?v=O4tUVqsjQ2I) given by Marhsall, himself. I really enjoy being able to hear his voice and relaxed, clear way of speaking-->.
 
 Thankfully, there are also a great deal of [videos online](https://www.youtube.com/results?search_query=marshall+rosenberg) featuring Marshall teaching including this [short introductory video](https://www.youtube.com/watch?v=M-129JLTjkQ).
 
