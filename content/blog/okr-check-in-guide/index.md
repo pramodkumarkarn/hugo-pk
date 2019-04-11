@@ -73,7 +73,7 @@ Start by reading aloud the **objectives**. Then for each **Key Result**, ask "On
 Once you've voted, ask the person with the _highest confidence_ to explain their rationale. Then ask the same from the _least confident_ person. A short discussion may follow. Based on this, you could vote again to see if consensus improves. Once you have a rough consensus (or even if you don't), pick a number that the group can live with. Write it down and move on to the next step.
 
 ## Pick some next actions
-If we've picked difficult key results (which, of course, we have! :smile:) then, at some point, our confidence will dip. This is a natural part of growing and taking on hard things. Low confidence is a great teacher of what we need to do next.
+If we've picked difficult key results (of course we have! :smile:) then, at some point, our confidence will dip. This is a natural part of growing and taking on hard things. Low confidence is a great teacher of what we need to do next.
 
 Whatever the result of our confidence vote, it's critical to ask the team what we can do to improve that confidence in the next check-in. **The _team_ is in the best position to decide what to do next.** No one else &mdash; not some external stake-holder or advisor &mdash; but the team. Keep this in mind to get the most from OKRs. 
 
