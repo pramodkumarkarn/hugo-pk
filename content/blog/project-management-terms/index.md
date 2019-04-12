@@ -14,10 +14,10 @@ resources:
 
 Early in my career, when I was getting into "project management", I often felt confused and intimidated by all the terminology I heard people throwing around. I wished there was something simple to explain each term and how they fit together. This is my attempt to write such a thing. I've intentionally avoided "agile" specific words (for now) to focus on more general concepts. 
 
-## Reflecting, and planning
+## Reflecting and planning
 **Work** is the process of turning **resources**  into **outcomes**.
 
-Right **NOW** is where the work happens but you’re constantly looking back at what you did in the past. <!--This is usually called “reporting” (or “tracking”) and is a useful way to think about  and thinking about what you will do in the future.--> Sometimes looking back is called **tracking**, **reporting**, **reviewing**, **reflecting**, or **retrospecting**. The reason we look _back_ is usually to help predict the _future_. Looking forward is called **planning**. When we try to figure out how long a thing will take (AKA the **timeline** or **lead time**), or how much it will cost (the **budget**), we might call that an **estimate**. 
+Right **NOW** is where the work happens but you’re constantly looking back at what you did in the past. <!--This is usually called “reporting” (or “tracking”) and is a useful way to think about  and thinking about what you will do in the future.--> Sometimes looking back is called **tracking**, **reporting**, **reviewing**, **reflecting**, or **retrospecting**. The reason we look _back_ is usually to help predict the _future_. Predicting the future is called **planning**. When we try to figure out how long a thing will take (AKA the **timeline** or **lead time**), or how much it will cost (the **budget**), we might call that an **estimate**. 
 
 > An estimate is just a guess. Nothing more.
 
@@ -41,9 +41,9 @@ People are typically split into **permanent staff** who are expected to stay wit
 
 **Non-People** investments are varied and could include anything from software licenses, to doughnuts, rent, training, chairs, legal fees, post-it notes, or web hosting. **People** investment involves on-boarding, off-boarding, recruitment, re-deployment, training, communities of practice, pensions, other benefits, and career development.
 
-By **“outcomes”** we mean: how the world will be different at some specific point in the future (sometimes called a **“deadline”** or **“delivery date”**) because of what we’re doing and planning now. We can plan and report on outcomes in various ways using, for example, [Objectives & Key Results](/blog/okrs) (OKRs), **Milestones**, or **Key Performance Indicators (KPIs)**. If an outcome is difficult to measure, it won’t help us much to determine if our actions are effective. 
+By **“outcomes”** we mean how the world will be different at some specific point in the future (sometimes called a **“deadline”** or **“delivery date”**) because of what we’re doing and planning now. We can plan and report on outcomes in various ways using, for example, [Objectives & Key Results](/blog/okrs) (OKRs), **milestones**, or **Key Performance Indicators (KPIs)**. If an outcome is difficult to measure, it won’t help us much to determine if our actions are effective. 
 
-The **cadence** (or frequency) of your planning, reporting, and delivery will depend on how heavy the process is, how useful it is to the people involved, and how rapidly your organisation and environment change.
+The **cadence** (or frequency) of your planning, reporting, and delivery will depend on how heavy your process is and how rapidly your organisation and environment change.
 
 > "Plans are useless but planning is indispensable." &mdash; Dwight D. Eisenhower
 
