@@ -2,7 +2,8 @@
 author: p3trk
 categories:
 - Blog
-- Agile
+tags:
+  - agile
 keywords: [featured]
 cover: Picture-3.jpg
 date: "2018-03-20"

@@ -1,4 +1,4 @@
-{{ $related := (where .Site.Pages ".Params.featured" "=" true) | intersect (where .Site.Pages ".Title" "!=" .Title) | union (.Site.RegularPages.Related .) | shuffle | first 10}}
+{{ $related := (where .Pages ".Params.featured" "=" true) | intersect (where .Pages ".Title" "!=" .Title) | union (.Site.RegularPages.Related .) | shuffle | first 10}}
 {{ with $related }}  
   .row
     .col-md-12

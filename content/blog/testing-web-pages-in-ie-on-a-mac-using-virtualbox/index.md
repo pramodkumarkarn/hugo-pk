@@ -1,7 +1,8 @@
 ---
 categories:
 - Blog
-- Tech
+tags:
+  - DevOps
 date: "2013-02-06"
 resources:
 - name: cover
@@ -32,7 +33,7 @@ If you&#8217;re serving your app from your host machine, use http://10.0.2.2:[PO
 
 If you&#8217;re developing static HTML pages (maybe using something clever like <a href="http://stasis.me" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://stasis.me']);" target="_blank">Stasis</a>) you would think you could share a folder from your host machine to your virtual machine. Alas, this <a href="https://www.virtualbox.org/ticket/7160" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.virtualbox.org']);" target="_blank">doesn&#8217;t work.</a>. Instead, you can use the cool <a href="http://stackoverflow.com/questions/530787/simple-http-web-server" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://stackoverflow.com']);">Python built-in web server</a> like so:
 
-> `python -m SimpleHTTPServer [port]`
+`python -m SimpleHTTPServer [port]`
 
 
 

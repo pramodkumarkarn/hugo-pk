@@ -2,6 +2,8 @@
 title: "A guide to OKR check-ins"
 date: 2019-03-31T17:16:06Z
 categories: blog  
+tags:
+  - OKRs
 featured: true
 aliases: [/blog/okr-check-ins, /blog/okr-check-in-guide]
 resources:

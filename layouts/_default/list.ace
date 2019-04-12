@@ -1,11 +1,11 @@
 {{ partial "header" .}}
 .container
-  h1 {{.Title}}
+  h1 {{.Title}} 
   hr
   .bigger 
     {{.Content}}
   .row.thumb_grid
-    {{ range .Data.Pages}}
+    {{ range .Pages}}
       .col-md-4
         a href="{{ .RelPermalink }}"
           .img.b-lazy data-src="{{ trim (partial "getCover.html" .) "\n" }}"

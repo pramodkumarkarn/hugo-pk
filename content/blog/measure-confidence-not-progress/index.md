@@ -3,6 +3,8 @@ title: "Measure confidence not progress"
 date: 2019-03-26T11:33:18Z
 draft: false
 featured: true
+tags:
+  - OKRs
 categories: blog  
 resources:
   - name: cover

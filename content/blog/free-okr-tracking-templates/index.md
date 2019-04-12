@@ -6,6 +6,8 @@ categories: blog
 draft: false
 aliases: [/blog/okr-templates]
 featured: true
+tags:
+  - okrs
 resources:
   - name: cover
     src: rawpixel-191102-unsplash.jpg

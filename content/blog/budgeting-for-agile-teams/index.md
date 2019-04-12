@@ -2,9 +2,12 @@
 author: p3trk
 featured: true
 categories:
-- Agile
 - Blog
 keywords: [featured]
+tags:
+  - agile
+  - budgets
+  - g-suite
 resources:
 - name: cover
   src: coin.jpg

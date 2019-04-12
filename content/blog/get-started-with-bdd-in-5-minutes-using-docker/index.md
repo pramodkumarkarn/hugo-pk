@@ -3,7 +3,8 @@ title: Get started with BDD using Docker and Selenium
 date: 2018-09-10
 categories: 
   - Blog
-  - Tech
+tags: 
+  - DevOps
 featured: false
 draft: false
 resources:

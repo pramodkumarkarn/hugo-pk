@@ -1,7 +1,8 @@
 ---
 categories:
 - Blog
-- NVC
+tags:
+  - NVC
 featured: false
 date: "2018-07-10"
 resources:
@@ -10,7 +11,8 @@ resources:
     credit: Photo by Patrick Fore on Unsplash
     link: https://unsplash.com/photos/AfhSPYdkxiU
   src: patrick-fore-380241-unsplash.jpg
-tags: NVC
+tags: 
+  - NVC
 title: On saying "please"
 ---
 

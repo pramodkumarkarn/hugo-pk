@@ -2,6 +2,8 @@
 date: "2018-04-09"
 featured: true
 categories: blog
+tags: 
+  - OKRs
 keywords: [featured, okrs]
 resources:
 - name: cover

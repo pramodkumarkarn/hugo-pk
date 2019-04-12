@@ -1,8 +1,9 @@
 ---
 categories: 
   - Blog
-  - Tech
 date: "2018-05-13"
+tags:
+  - DevOps
 draft: false
 resources:
 - name: cover

@@ -1,6 +1,8 @@
 ---
 cover: Picture-9.jpg
 date: "2015-06-24"
+tags: 
+  - piano
 sgt_slide:
 - true
 title: Piano Improvisation

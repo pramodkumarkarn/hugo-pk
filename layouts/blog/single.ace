@@ -17,6 +17,13 @@
       .blogdate {{ .Date.Format "2 January 2006" }}
       .blog style="margin-top: 2.5rem"
         {{ .Content}}
+        {{ if .Params.tags }}
+          small Tags: &nbsp;
+            {{range .Params.tags}}
+              a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" {{ . }}
+              | &nbsp;
+            {{end}}
+        {{end}}
       .blognote
         h4 Want to go deeper?
         | I'm available for OKR training and coaching as well as work in programme/portfolio/project management, Agile coaching, DevOps/SRE, and Continuous Delivery. Check out my <a href="/okrs">OKR consulting page</a> or my <a href="/cv">CV</a>. If you'd like to learn even more, <a href="/contact">please get in touch</a>. 

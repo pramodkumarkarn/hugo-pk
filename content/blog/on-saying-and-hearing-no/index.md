@@ -4,6 +4,8 @@ date: 2018-08-16
 draft: false
 featured: false
 keywords: [nvc]
+tags:
+  - NVC
 categories:
   - Blog  
 resources:
